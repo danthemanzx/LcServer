@@ -1,5 +1,6 @@
 @Echo OFF
 Title Mc Bukkit Server
 Color F
-"%ProgramFiles%\Java\jre7\bin\java.exe" -Xmx2048M -jar spigot.jar -o true
+
+java -Xms512M -Xmx1024M -jar craftbukkit-1.7.9
 pause
