@@ -1,16 +1,16 @@
-[14:52:10] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:52:10] [Server thread/INFO]: Loading properties
-[14:52:10] [Server thread/INFO]: Default game type: SURVIVAL
-[14:52:10] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[14:52:10] [Server thread/INFO]: Debug logging is disabled
-[14:52:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:52:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:52:10] [Server thread/INFO]: Generating keypair
-[14:52:10] [Server thread/INFO]: Starting Minecraft server on 25.153.99.84:25565
-[14:52:10] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[14:52:10] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
-[14:52:10] [Server thread/WARN]: Perhaps a server is already running on that port?
-[14:52:10] [Server thread/INFO]: Stopping server
-[14:52:10] [Server thread/INFO]: Saving players
-[14:52:10] [Thread-4/INFO]: Stopping server
-[14:52:10] [Thread-4/INFO]: Saving players
+[14:56:00] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:56:00] [Server thread/INFO]: Loading properties
+[14:56:00] [Server thread/INFO]: Default game type: SURVIVAL
+[14:56:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[14:56:00] [Server thread/INFO]: Debug logging is disabled
+[14:56:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:56:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:56:00] [Server thread/INFO]: Generating keypair
+[14:56:00] [Server thread/INFO]: Starting Minecraft server on 25.153.99.84:25565
+[14:56:01] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:56:01] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[14:56:01] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:56:01] [Server thread/INFO]: Stopping server
+[14:56:01] [Server thread/INFO]: Saving players
+[14:56:01] [Thread-4/INFO]: Stopping server
+[14:56:01] [Thread-4/INFO]: Saving players
