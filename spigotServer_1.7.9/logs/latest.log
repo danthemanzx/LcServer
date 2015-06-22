@@ -1,340 +1,362 @@
-[16:19:27] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[16:19:27] [Server thread/INFO]: Loading properties
-[16:19:27] [Server thread/INFO]: Default game type: SURVIVAL
-[16:19:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[16:19:27] [Server thread/INFO]: Debug logging is disabled
-[16:19:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:19:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:19:27] [Server thread/INFO]: Generating keypair
-[16:19:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:19:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:19:28] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[16:19:28] [Server thread/INFO]: [SpawnTP] Loading SpawnTP v1.6
-[16:19:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[16:19:28] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[16:19:28] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
-[16:19:28] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[16:19:28] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
-[16:19:28] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
-[16:19:28] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
-[16:19:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:19:28] [Server thread/INFO]: Preparing level "world"
-[16:19:28] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:19:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:19:28] [Server thread/INFO]: Clear tick list: false
-[16:19:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:19:28] [Server thread/INFO]: View Distance: 10
-[16:19:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:19:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:19:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:19:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:19:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:19:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:19:28] [Server thread/INFO]: Max Entity Collisions: 8
-[16:19:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:19:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:19:28] [Server thread/INFO]: Sending up to 5 chunks per packet
-[16:19:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:19:28] [Server thread/INFO]: Alternative Hopper Ticking: false
-[16:19:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:19:28] [Server thread/INFO]: Anti X-Ray: true
-[16:19:28] [Server thread/INFO]: 	Engine Mode: 1
-[16:19:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:19:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:19:28] [Server thread/INFO]: Mob Spawn Range: 4
-[16:19:28] [Server thread/INFO]: Structure Info Saving: true
-[16:19:28] [Server thread/INFO]: Random Lighting Updates: false
-[16:19:28] [Server thread/INFO]: Max TNT Explosions: 100
-[16:19:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8920881473033344467)
-[16:19:28] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[16:19:28] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[16:19:28] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[16:19:28] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[16:19:28] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[16:19:28] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[16:19:28] [Server thread/INFO]: [SpawnTP] Enabling SpawnTP v1.6
-[16:19:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[16:19:28] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:19:28] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[16:19:28] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[16:19:28] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -8920881473033344467
-[16:19:28] [Server thread/INFO]: -------- World Settings For [world.main] --------
-[16:19:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:19:28] [Server thread/INFO]: Clear tick list: false
-[16:19:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:19:28] [Server thread/INFO]: View Distance: 10
-[16:19:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:19:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:19:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:19:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:19:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:19:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:19:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:19:28] [Server thread/INFO]: Max Entity Collisions: 8
-[16:19:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:19:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:19:28] [Server thread/INFO]: Sending up to 5 chunks per packet
-[16:19:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:19:28] [Server thread/INFO]: Alternative Hopper Ticking: false
-[16:19:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:19:28] [Server thread/INFO]: Anti X-Ray: true
-[16:19:28] [Server thread/INFO]: 	Engine Mode: 1
-[16:19:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:19:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:19:28] [Server thread/INFO]: Mob Spawn Range: 4
-[16:19:28] [Server thread/INFO]: Structure Info Saving: true
-[16:19:28] [Server thread/INFO]: Random Lighting Updates: false
-[16:19:28] [Server thread/INFO]: Max TNT Explosions: 100
-[16:19:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8065157339393158062)
-[16:19:29] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
-[16:19:29] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[16:19:29] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
-[16:19:29] [Server thread/INFO]: [RandomBox] Loading config...
-[16:19:29] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[16:19:29] [Server thread/INFO]: [RandomBox] Configuration loaded.
-[16:19:29] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[16:19:29] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[16:19:29] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[16:19:29] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
-[16:19:29] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world.main) TNT ignition is PERMITTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world.main) Lighters are PERMITTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world.main) Lava fire is blocked.
-[16:19:29] [Server thread/INFO]: [WorldGuard] (world.main) Fire spread is UNRESTRICTED.
-[16:19:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world.main'
-[16:19:29] [Server thread/INFO]: [WorldGuard] Loading region data...
-[16:19:29] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
-[16:19:29] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[16:19:29] [Server thread/INFO]: Done (1.771s)! For help, type "help" or "?"
-[16:19:43] [User Authenticator #1/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[16:19:43] [Server thread/INFO]: daltons84[/192.168.1.102:52080] logged in with entity id 292 at ([world.main] -266.3762475742114, 80.0, 142.8702535342601)
-[16:19:46] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
-[16:19:55] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[16:19:55] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[16:20:14] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[16:20:14] [Server thread/INFO]: thudog77[/127.0.0.1:60189] logged in with entity id 599 at ([world] -328.11469337972045, 58.65393933408795, 329.0399604541115)
-[16:20:18] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[16:20:18] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[16:20:19] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:20:24] [Server thread/INFO]: daltons84 issued server command: //time set day
-[16:20:34] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:20:34] [Server thread/INFO]: thudog77 issued server command: /mvp create iron
-[16:20:34] [Server thread/INFO]: WEAPI
-[16:20:42] [Server thread/INFO]: daltons84 issued server command: /set gravel
-[16:20:44] [Server thread/INFO]: thudog77 issued server command: /tp thudog77 daltons84
-[16:20:44] [Server thread/INFO]: thudog77: Teleported thudog77 to daltons84[m
-[16:20:46] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:20:53] [Server thread/INFO]: daltons84 issued server command: /time set day
-[16:20:53] [Server thread/INFO]: daltons84: Set time to 0[m
-[16:21:15] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:21:22] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:21:28] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:21:33] [Server thread/INFO]: thudog77 issued server command: /mvp create main
-[16:21:33] [Server thread/INFO]: WEAPI
-[16:22:24] [Server thread/INFO]: thudog77 issued server command: /mvp select iron
-[16:22:31] [Server thread/INFO]: thudog77 issued server command: /mvp modify dest p:main
-[16:22:33] [Server thread/INFO]: thudog77 issued server command: /spawn
-[16:22:33] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent thudog77 to spawn[m
-[16:22:45] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:23:06] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:23:26] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:23:37] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:24:14] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:24:38] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:25:01] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:25:11] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:25:35] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:26:00] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:26:18] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:26:34] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:27:15] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:27:27] [User Authenticator #3/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
-[16:27:27] [Server thread/INFO]: HotIce64[/192.168.1.99:51173] logged in with entity id 4240 at ([world.main] -312.52885510307686, 83.28978158523849, 170.79470421071065)
-[16:27:29] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:27:34] [Server thread/INFO]: HotIce64 issued server command: /gamemode `
-[16:27:36] [Server thread/INFO]: HotIce64 issued server command: /gamemode `
-[16:27:39] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
-[16:27:39] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
-[16:27:50] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[16:28:08] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:11] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:13] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:15] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:18] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:21] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:23] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:25] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:27] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:29] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:34] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:38] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:41] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:43] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:45] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:28:48] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:29:12] [Server thread/INFO]: HotIce64 issued server command: /spawn
-[16:29:12] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent HotIce64 to spawn[m
-[16:29:25] [Server thread/INFO]: daltons84 issued server command: /brush smooth
-[16:30:25] [Server thread/INFO]: HotIce64 issued server command: /brush
-[16:30:28] [Server thread/INFO]: daltons84 issued server command: /brush cynilder
-[16:30:56] [Server thread/INFO]: HotIce64 issued server command: /brush sphere
-[16:31:02] [Server thread/INFO]: daltons84 issued server command: /brush cylinder
-[16:31:08] [Server thread/INFO]: HotIce64 issued server command: /brush sphere dirt
-[16:31:21] [Server thread/INFO]: HotIce64 issued server command: /brush sphere grass
-[16:31:24] [Server thread/INFO]: daltons84 issued server command: /brush sphere grass
-[16:31:28] [Server thread/INFO]: HotIce64 lost connection: Disconnected
-[16:31:36] [Server thread/INFO]: daltons84 issued server command: /time set day
-[16:31:36] [Server thread/INFO]: daltons84: Set time to 0[m
-[16:31:50] [Server thread/INFO]: thudog77 issued server command: //set stonebrick
-[16:32:01] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:03] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:32:04] [User Authenticator #4/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
-[16:32:04] [Server thread/INFO]: HotIce64[/192.168.1.99:51256] logged in with entity id 6738 at ([world.main] -281.7523507352453, 85.86159646538948, 124.09882792655061)
-[16:32:05] [Server thread/INFO]: HotIce64 fell from a high place
-[16:32:05] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:07] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:08] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:10] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:11] [Server thread/INFO]: thudog77 issued server command: //set fence
-[16:32:12] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:14] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:16] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:18] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:19] [Server thread/INFO]: daltons84 issued server command: /undo/
-[16:32:19] [Server thread/INFO]: daltons84 issued server command: /
-[16:32:22] [Server thread/INFO]: daltons84 issued server command: /
-[16:32:24] [Server thread/INFO]: daltons84 issued server command: /
-[16:32:28] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:29] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
-[16:32:29] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
-[16:32:30] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:31] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:32] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:33] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:35] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:36] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:37] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:38] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:39] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:39] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:32:59] [Server thread/INFO]: thudog77 issued server command: //set stonebrick
-[16:33:02] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:33:05] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:33:06] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:33:07] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:33:15] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:33:24] [Server thread/INFO]: HotIce64 issued server command: /set grass
-[16:33:28] [Server thread/INFO]: HotIce64 issued server command: /grass
-[16:33:33] [Server thread/INFO]: daltons84 issued server command: /brush smooth
-[16:33:33] [Server thread/INFO]: thudog77 issued server command: //set fence
-[16:33:47] [Server thread/INFO]: HotIce64 issued server command: //set grass
-[16:34:03] [Server thread/INFO]: HotIce64 issued server command: /kill daltons84
-[16:34:03] [Server thread/INFO]: HotIce64 died
-[16:34:09] [Server thread/INFO]: HotIce64 issued server command: /spawn
-[16:34:09] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent HotIce64 to spawn[m
-[16:34:10] [Server thread/INFO]: thudog77 issued server command: //set stoneslab
-[16:34:17] [Server thread/INFO]: thudog77 issued server command: //set stonebrickslab
-[16:34:29] [Server thread/INFO]: thudog77 issued server command: //undo
-[16:34:29] [Server thread/INFO]: daltons84 issued server command: //set gravel
-[16:34:43] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:34:54] [Server thread/INFO]: daltons84 issued server command: //schimatic list
-[16:35:05] [Server thread/INFO]: daltons84 issued server command: /help worldedit 7
-[16:35:16] [Server thread/INFO]: daltons84 issued server command: /schematic list
-[16:35:31] [Server thread/INFO]: daltons84 issued server command: //schematic list
-[16:35:52] [Server thread/INFO]: daltons84 issued server command: //schematic load bakery
-[16:35:52] [Server thread/INFO]: daltons84 loaded C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldEdit\schematics\Bakery.schematic
-[16:35:56] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:35:59] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:04] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:08] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:14] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:18] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:23] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:26] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:30] [Server thread/INFO]: thudog77 issued server command: //set stonebrick
-[16:36:33] [Server thread/INFO]: daltons84 issued server command: //pase
-[16:36:38] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:42] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:46] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:50] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:36:54] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:36:57] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:37:00] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:37:13] [Server thread/INFO]: thudog77 issued server command: //set fence
-[16:37:24] [Server thread/INFO]: daltons84 issued server command: //set grass
-[16:37:25] [Server thread/INFO]: thudog77 issued server command: //set fence
-[16:37:35] [Server thread/INFO]: daltons84 issued server command: //set grass
-[16:38:03] [Server thread/INFO]: daltons84 issued server command: //set grass
-[16:39:10] [Server thread/INFO]: daltons84 issued server command: //schematic list
-[16:39:47] [Server thread/INFO]: daltons84 issued server command: //schematic load blacksmith
-[16:39:47] [Server thread/INFO]: daltons84 loaded C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldEdit\schematics\Blacksmith.schematic
-[16:39:49] [Server thread/INFO]: thudog77 issued server command: //set fence
-[16:39:52] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:39:55] [User Authenticator #5/INFO]: UUID of player CterCreeper is 9c3ec5c1-0f76-46ec-8b75-fc3a89254618
-[16:39:55] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@4d5a1c89[id=9c3ec5c1-0f76-46ec-8b75-fc3a89254618,name=CterCreeper,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@22b1410b]},legacy=false] (/192.168.1.85:54682): You are not whitelisted on this server!
-[16:39:55] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@4d5a1c89[id=9c3ec5c1-0f76-46ec-8b75-fc3a89254618,name=CterCreeper,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@22b1410b]},legacy=false] (/192.168.1.85:54682) lost connection: You are not whitelisted on this server!
-[16:39:55] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:39:58] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:40:02] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:40:13] [Server thread/INFO]: daltons84 issued server command: //bpaste
-[16:40:15] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:40:18] [Server thread/INFO]: daltons84 issued server command: /undo
-[16:40:22] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:40:27] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:40:37] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:40:40] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:40:47] [Server thread/INFO]: daltons84 issued server command: //paset
-[16:40:51] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:40:53] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:40:57] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:41:01] [Server thread/INFO]: daltons84 issued server command: //undo
-[16:41:06] [Server thread/INFO]: daltons84 issued server command: //paste
-[16:41:24] [Server thread/INFO]: daltons84 issued server command: //set grass
-[16:42:06] [Server thread/INFO]: daltons84 issued server command: /time set day
-[16:42:06] [Server thread/INFO]: daltons84: Set time to 0[m
-[16:43:10] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[16:43:10] [Server thread/INFO]: Stopping server
-[16:43:10] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
-[16:43:10] [Server thread/INFO]: [PermissionsBukkit] Disabled successfully, 3 online players unregistered
-[16:43:10] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
-[16:43:10] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[16:43:10] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
-[16:43:10] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[16:43:10] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
-[16:43:10] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[16:43:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
-[16:43:10] [Server thread/INFO]: [SpawnTP] Disabling SpawnTP v1.6
-[16:43:10] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[16:43:10] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[16:43:10] [Server thread/INFO]: Saving players
-[16:43:10] [Server thread/INFO]: daltons84 lost connection: Server closed
-[16:43:10] [Server thread/INFO]: daltons84 left the game.
-[16:43:10] [Server thread/INFO]: thudog77 lost connection: Server closed
-[16:43:10] [Server thread/INFO]: thudog77 left the game.
-[16:43:10] [Server thread/INFO]: HotIce64 lost connection: Server closed
-[16:43:11] [Server thread/INFO]: HotIce64 left the game.
-[16:43:11] [Server thread/INFO]: Saving worlds
-[16:43:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:43:12] [Server thread/INFO]: Saving chunks for level 'world.main'/Overworld
-[16:43:12] [Thread-4/INFO]: Stopping server
-[16:43:12] [Thread-4/INFO]: Saving players
-[16:43:12] [Thread-4/INFO]: Saving worlds
-[16:43:12] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[17:56:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:56:59] [Server thread/INFO]: Loading properties
+[17:56:59] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[17:56:59] [Server thread/INFO]: Debug logging is disabled
+[17:56:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:56:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:56:59] [Server thread/INFO]: Generating keypair
+[17:56:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:59] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:57:00] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[17:57:00] [Server thread/INFO]: [SpawnTP] Loading SpawnTP v1.6
+[17:57:00] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[17:57:00] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[17:57:00] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
+[17:57:00] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[17:57:00] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
+[17:57:00] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[17:57:00] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
+[17:57:00] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:57:00] [Server thread/INFO]: Preparing level "world"
+[17:57:00] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:57:00] [Server thread/INFO]: View Distance: 10
+[17:57:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:57:00] [Server thread/INFO]: Clear tick list: false
+[17:57:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:57:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:57:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:57:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:57:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:57:00] [Server thread/INFO]: Max Entity Collisions: 8
+[17:57:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:57:00] [Server thread/INFO]: Sending up to 5 chunks per packet
+[17:57:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:57:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:57:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:57:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:57:00] [Server thread/INFO]: Random Lighting Updates: false
+[17:57:00] [Server thread/INFO]: Mob Spawn Range: 4
+[17:57:00] [Server thread/INFO]: Structure Info Saving: true
+[17:57:00] [Server thread/INFO]: Max TNT Explosions: 100
+[17:57:00] [Server thread/INFO]: Alternative Hopper Ticking: false
+[17:57:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:57:00] [Server thread/INFO]: Anti X-Ray: true
+[17:57:00] [Server thread/INFO]: 	Engine Mode: 1
+[17:57:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:57:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:57:00] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8920881473033344467)
+[17:57:00] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[17:57:00] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[17:57:00] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[17:57:00] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[17:57:00] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[17:57:00] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[17:57:00] [Server thread/INFO]: [SpawnTP] Enabling SpawnTP v1.6
+[17:57:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[17:57:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:57:00] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[17:57:00] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[17:57:00] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -8920881473033344467
+[17:57:00] [Server thread/INFO]: -------- World Settings For [world.main] --------
+[17:57:00] [Server thread/INFO]: View Distance: 10
+[17:57:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:57:00] [Server thread/INFO]: Clear tick list: false
+[17:57:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:57:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:57:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:57:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:57:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:57:00] [Server thread/INFO]: Max Entity Collisions: 8
+[17:57:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:57:00] [Server thread/INFO]: Sending up to 5 chunks per packet
+[17:57:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:57:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:57:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:57:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:57:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:57:00] [Server thread/INFO]: Random Lighting Updates: false
+[17:57:00] [Server thread/INFO]: Mob Spawn Range: 4
+[17:57:00] [Server thread/INFO]: Structure Info Saving: true
+[17:57:00] [Server thread/INFO]: Max TNT Explosions: 100
+[17:57:00] [Server thread/INFO]: Alternative Hopper Ticking: false
+[17:57:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:57:00] [Server thread/INFO]: Anti X-Ray: true
+[17:57:00] [Server thread/INFO]: 	Engine Mode: 1
+[17:57:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:57:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:57:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8065157339393158062)
+[17:57:01] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[17:57:01] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:57:01] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
+[17:57:01] [Server thread/INFO]: [RandomBox] Loading config...
+[17:57:01] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[17:57:01] [Server thread/INFO]: [RandomBox] Configuration loaded.
+[17:57:01] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[17:57:01] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[17:57:01] [Server thread/INFO]: [MVPLogging] 2 - Portals(s) loaded
+[17:57:01] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
+[17:57:01] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world.main) TNT ignition is PERMITTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world.main) Lighters are PERMITTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world.main) Lava fire is blocked.
+[17:57:01] [Server thread/INFO]: [WorldGuard] (world.main) Fire spread is UNRESTRICTED.
+[17:57:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world.main'
+[17:57:01] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:57:01] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
+[17:57:01] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[17:57:01] [Server thread/INFO]: Done (1.621s)! For help, type "help" or "?"
+[17:58:06] [User Authenticator #1/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[17:58:06] [Server thread/INFO]: daltons84[/68.119.64.47:54487] logged in with entity id 252 at ([world.main] -266.125427570933, 80.0, 148.20919534436632)
+[17:58:21] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[17:58:28] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[17:58:28] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[17:58:59] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[18:01:40] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[18:01:40] [Server thread/INFO]: thudog77[/127.0.0.1:49700] logged in with entity id 584 at ([world.main] -268.8101209343639, 110.2393559654544, 132.1167657429528)
+[18:01:45] [Server thread/INFO]: thudog77 fell from a high place
+[18:01:49] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[18:01:49] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[18:01:53] [User Authenticator #3/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:01:53] [Server thread/INFO]: daltons84[/68.119.64.47:54919] logged in with entity id 798 at ([world.main] -273.40663192646656, 80.0, 171.10100591157757)
+[18:02:26] [Server thread/INFO]: thudog77 issued server command: /mv import PVP
+[18:02:33] [Server thread/INFO]: thudog77 issued server command: /mv import PVP normal
+[18:02:33] [Server thread/INFO]: thudog77: Starting import of world 'PVP'...[m
+[18:02:33] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'PVP' - Env: NORMAL - Type: null
+[18:02:33] [Server thread/INFO]: -------- World Settings For [PVP] --------
+[18:02:33] [Server thread/INFO]: View Distance: 10
+[18:02:33] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:02:33] [Server thread/INFO]: Clear tick list: false
+[18:02:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:02:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:02:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:02:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:02:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:02:33] [Server thread/INFO]: Max Entity Collisions: 8
+[18:02:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:02:33] [Server thread/INFO]: Sending up to 5 chunks per packet
+[18:02:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:02:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:02:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:02:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:02:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:02:33] [Server thread/INFO]: Random Lighting Updates: false
+[18:02:33] [Server thread/INFO]: Mob Spawn Range: 4
+[18:02:33] [Server thread/INFO]: Structure Info Saving: true
+[18:02:33] [Server thread/INFO]: Max TNT Explosions: 100
+[18:02:33] [Server thread/INFO]: Alternative Hopper Ticking: false
+[18:02:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:02:33] [Server thread/INFO]: Anti X-Ray: true
+[18:02:33] [Server thread/INFO]: 	Engine Mode: 1
+[18:02:33] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:02:33] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:02:33] [Server thread/INFO]: Preparing start region for level 2 (Seed: 9004797746582444377)
+[18:02:34] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldGuard\worlds\PVP\config.yml
+[18:02:34] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldGuard\worlds\PVP\blacklist.txt
+[18:02:34] [Server thread/INFO]: [WorldGuard] (PVP) TNT ignition is PERMITTED.
+[18:02:34] [Server thread/INFO]: [WorldGuard] (PVP) Lighters are PERMITTED.
+[18:02:34] [Server thread/INFO]: [WorldGuard] (PVP) Lava fire is blocked.
+[18:02:34] [Server thread/INFO]: [WorldGuard] (PVP) Fire spread is UNRESTRICTED.
+[18:02:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'PVP'
+[18:02:34] [Server thread/INFO]: thudog77: [0;32;1mComplete![m
+[18:02:40] [Server thread/INFO]: daltons84 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[18:02:59] [Server thread/INFO]: thudog77 issued server command: /mv import Medival normal
+[18:02:59] [Server thread/INFO]: thudog77: Starting import of world 'Medival'...[m
+[18:02:59] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Medival' - Env: NORMAL - Type: null
+[18:02:59] [Server thread/INFO]: -------- World Settings For [Medival] --------
+[18:02:59] [Server thread/INFO]: View Distance: 10
+[18:02:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:02:59] [Server thread/INFO]: Clear tick list: false
+[18:02:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:02:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:02:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:02:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:02:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:02:59] [Server thread/INFO]: Max Entity Collisions: 8
+[18:02:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:02:59] [Server thread/INFO]: Sending up to 5 chunks per packet
+[18:02:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:02:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:02:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:02:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:02:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:02:59] [Server thread/INFO]: Random Lighting Updates: false
+[18:02:59] [Server thread/INFO]: Mob Spawn Range: 4
+[18:02:59] [Server thread/INFO]: Structure Info Saving: true
+[18:02:59] [Server thread/INFO]: Max TNT Explosions: 100
+[18:02:59] [Server thread/INFO]: Alternative Hopper Ticking: false
+[18:02:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:02:59] [Server thread/INFO]: Anti X-Ray: true
+[18:02:59] [Server thread/INFO]: 	Engine Mode: 1
+[18:02:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:02:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:03:00] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1550981320785837543)
+[18:03:00] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldGuard\worlds\Medival\config.yml
+[18:03:00] [Server thread/INFO]: [WorldGuard] Default configuration file written: C:\Users\Daniel\Documents\GitHub\LcServer\spigotServer_1.7.9\plugins\WorldGuard\worlds\Medival\blacklist.txt
+[18:03:00] [Server thread/INFO]: [WorldGuard] (Medival) TNT ignition is PERMITTED.
+[18:03:00] [Server thread/INFO]: [WorldGuard] (Medival) Lighters are PERMITTED.
+[18:03:00] [Server thread/INFO]: [WorldGuard] (Medival) Lava fire is blocked.
+[18:03:00] [Server thread/INFO]: [WorldGuard] (Medival) Fire spread is UNRESTRICTED.
+[18:03:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Medival'
+[18:03:00] [Server thread/INFO]: thudog77: [0;32;1mComplete![m
+[18:03:14] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 pvp
+[18:04:03] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 Medival
+[18:04:04] [User Authenticator #4/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:04:04] [Server thread/INFO]: daltons84[/68.119.64.47:54953] logged in with entity id 1628 at ([world.main] -273.40663192646656, 80.0, 171.10100591157757)
+[18:05:07] [Server thread/INFO]: daltons84 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[18:07:30] [Async Chat Thread - #0/INFO]: [[0;37;1mMedival[0;37;1m]<thudog77> ./mv tp thudog77 Medival[m
+[18:07:35] [Async Chat Thread - #0/INFO]: [[0;37;1mMedival[0;37;1m]<thudog77> ./mv tp thudog77 pvp[m
+[18:07:38] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[18:07:38] [Server thread/INFO]: thudog77: Set time to 0[m
+[18:08:29] [User Authenticator #5/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[18:08:29] [Server thread/INFO]: HotIce64[/68.119.64.47:60523] logged in with entity id 2885 at ([world.main] -265.5646442475902, 83.24879207115288, 234.46604849436713)
+[18:08:43] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[18:08:43] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
+[18:08:50] [Server thread/INFO]: HotIce64 issued server command: /tp HotIce64 HotIce64
+[18:08:50] [Server thread/INFO]: HotIce64: Teleported HotIce64 to HotIce64[m
+[18:08:54] [Server thread/INFO]: HotIce64 issued server command: /tp HotIce64 thudog77
+[18:08:54] [Server thread/INFO]: HotIce64: Teleported HotIce64 to thudog77[m
+[18:09:26] [Server thread/INFO]: thudog77 issued server command: /nolagg
+[18:09:29] [Server thread/INFO]: HotIce64 issued server command: /gamemode survival
+[18:09:29] [Server thread/INFO]: HotIce64: Set own game mode to SURVIVAL mode[m
+[18:09:29] [Server thread/INFO]: thudog77 issued server command: /killall
+[18:09:34] [Server thread/INFO]: thudog77 issued server command: /help kill
+[18:10:33] [User Authenticator #6/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:10:33] [Server thread/INFO]: daltons84[/68.119.64.47:56046] logged in with entity id 3697 at ([world.main] -273.40663192646656, 80.0, 171.10100591157757)
+[18:10:47] [Server thread/INFO]: daltons84 issued server command: /weather clear
+[18:10:47] [Server thread/INFO]: daltons84: Changed weather to clear for 433 seconds.[m
+[18:10:51] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[18:10:51] [Server thread/INFO]: thudog77: Toggling downfall off for world 'Medival'[m
+[18:10:57] [Server thread/INFO]: thudog77 issued server command: /toggledownfall world
+[18:10:57] [Server thread/INFO]: thudog77: Toggling downfall on for world 'world'[m
+[18:11:03] [Server thread/INFO]: thudog77 issued server command: /toggledownfall pvp
+[18:11:03] [Server thread/INFO]: thudog77: Toggling downfall on for world 'PVP'[m
+[18:11:05] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[18:11:05] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[18:11:06] [Server thread/INFO]: HotIce64 issued server command: /kill all
+[18:11:06] [Server thread/INFO]: HotIce64 died
+[18:11:17] [Server thread/INFO]: daltons84 issued server command: /weather clear
+[18:11:17] [Server thread/INFO]: daltons84: Changed weather to clear for 666 seconds.[m
+[18:11:19] [Async Chat Thread - #1/INFO]: [[0;37;1mMedival[0;37;1m]<thudog77> ./mv tp thudog77 Medival[m
+[18:11:22] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[18:11:22] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
+[18:11:26] [Async Chat Thread - #1/INFO]: [[0;37;1mMedival[0;37;1m]<thudog77> ./mv tp thudog77 pvp[m
+[18:11:33] [Server thread/INFO]: daltons84 issued server command: /mv tp thudog77
+[18:11:45] [Server thread/INFO]: HotIce64 issued server command: /spawn
+[18:11:45] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent HotIce64 to spawn[m
+[18:11:55] [Server thread/INFO]: daltons84 issued server command: /mv tp HotIce64 medival
+[18:12:00] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 pvp
+[18:12:12] [Server thread/INFO]: daltons84 issued server command: /mv tp thudog77 pvp
+[18:12:14] [Server thread/INFO]: thudog77 issued server command: /tp daltons84 thudog77
+[18:12:14] [Server thread/INFO]: thudog77: Teleported daltons84 to thudog77[m
+[18:12:28] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[18:12:28] [Server thread/INFO]: thudog77: Toggling downfall off for world 'PVP'[m
+[18:12:54] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 Medival
+[18:13:00] [Server thread/INFO]: thudog77 issued server command: /tp daltons84 thudog77
+[18:13:00] [Server thread/INFO]: thudog77: Teleported daltons84 to thudog77[m
+[18:13:18] [Server thread/INFO]: HotIce64 issued server command: /gamemode survival
+[18:13:18] [Server thread/INFO]: HotIce64: Set own game mode to SURVIVAL mode[m
+[18:13:30] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[18:13:30] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
+[18:14:32] [Server thread/INFO]: HotIce64 issued server command: /gamemode survival
+[18:14:32] [Server thread/INFO]: HotIce64: Set own game mode to SURVIVAL mode[m
+[18:16:01] [Server thread/INFO]: HotIce64 issued server command: /kill all npcs
+[18:16:01] [Server thread/INFO]: HotIce64 died
+[18:16:05] [Server thread/INFO]: HotIce64 issued server command: /spawn
+[18:16:06] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent HotIce64 to spawn[m
+[18:16:33] [Server thread/INFO]: HotIce64 issued server command: /gamemod 1
+[18:16:38] [Server thread/INFO]: HotIce64 issued server command: /gamemoe 21
+[18:16:41] [Server thread/INFO]: HotIce64 was slain by Zombie
+[18:16:46] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[18:16:46] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
+[18:17:09] [Server thread/INFO]: HotIce64 issued server command: /tp HotIce64 daltons84
+[18:17:09] [Server thread/INFO]: HotIce64: Teleported HotIce64 to daltons84[m
+[18:17:41] [Server thread/INFO]: thudog77 issued server command: //wand
+[18:17:57] [Server thread/INFO]: thudog77 issued server command: /mvp create ship
+[18:17:57] [Server thread/INFO]: WEAPI
+[18:17:57] [Server thread/INFO]: daltons84 issued server command: /time set day
+[18:17:57] [Server thread/INFO]: daltons84: Set time to 0[m
+[18:18:28] [Server thread/INFO]: thudog77 issued server command: /mvp select iron
+[18:18:38] [Server thread/INFO]: thudog77 issued server command: /mvp modify dest p:ship
+[18:18:46] [Server thread/INFO]: thudog77 issued server command: /spawn
+[18:18:46] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent thudog77 to spawn[m
+[18:19:58] [Server thread/INFO]: HotIce64 issued server command: /tp HotIce64 daltons84
+[18:19:58] [Server thread/INFO]: HotIce64: Teleported HotIce64 to daltons84[m
+[18:20:06] [Server thread/INFO]: thudog77 issued server command: /mv delete PVP
+[18:20:10] [Server thread/INFO]: thudog77 issued server command: /mvconfirm
+[18:20:10] [Server thread/INFO]: [Multiverse-Core] World 'PVP' was unloaded from memory.
+[18:20:10] [Server thread/INFO]: [Multiverse-Core] World 'PVP' was unloaded from memory.
+[18:20:10] [Server thread/INFO]: [Multiverse-Core] World 'PVP' was removed from config.yml
+[18:20:10] [Server thread/INFO]: [Multiverse-Core] World 'PVP' was DELETED.
+[18:20:31] [Server thread/INFO]: thudog77 issued server command: /mv delete world.main
+[18:20:32] [Server thread/INFO]: thudog77 issued server command: /mvconfirm
+[18:20:32] [Server thread/INFO]: [Multiverse-Core] World 'world.main' was unloaded from memory.
+[18:20:32] [Server thread/INFO]: [Multiverse-Core] World 'world.main' was unloaded from memory.
+[18:20:32] [Server thread/INFO]: [Multiverse-Core] World 'world.main' was removed from config.yml
+[18:20:32] [Server thread/INFO]: [Multiverse-Core] World 'world.main' was DELETED.
+[18:24:50] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[18:24:56] [User Authenticator #7/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:24:56] [Server thread/INFO]: daltons84[/68.119.64.47:56107] logged in with entity id 9625 at ([Medival] -72.4800391046555, 66.68044772848442, 98.80279163194244)
+[18:24:57] [Server thread/INFO]: daltons84 fell from a high place
+[18:25:42] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[18:25:42] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[18:28:02] [Server thread/INFO]: daltons84 issued server command: //wand
+[18:28:43] [Server thread/INFO]: daltons84 issued server command: /gamemode 0
+[18:28:43] [Server thread/INFO]: daltons84: Set own game mode to SURVIVAL mode[m
+[18:28:58] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[18:29:09] [User Authenticator #8/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:29:09] [Server thread/INFO]: daltons84[/68.119.64.47:56127] logged in with entity id 11220 at ([Medival] -71.01526761434555, 141.0, 100.77744417250487)
+[18:29:16] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[18:29:28] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[18:29:28] [Server thread/INFO]: HotIce64 lost connection: Disconnected
+[18:30:11] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[18:30:11] [Server thread/INFO]: Stopping server
+[18:30:11] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
+[18:30:11] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
+[18:30:11] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[18:30:11] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
+[18:30:11] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[18:30:11] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
+[18:30:11] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[18:30:11] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[18:30:11] [Server thread/INFO]: [SpawnTP] Disabling SpawnTP v1.6
+[18:30:11] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[18:30:11] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[18:30:11] [Server thread/INFO]: Saving players
+[18:30:11] [Server thread/INFO]: Saving worlds
+[18:30:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:30:11] [Server thread/INFO]: Saving chunks for level 'Medival'/Overworld
+[18:30:11] [Thread-4/INFO]: Stopping server
+[18:30:11] [Thread-4/INFO]: Saving players
+[18:30:11] [Thread-4/INFO]: Saving worlds
+[18:30:11] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
