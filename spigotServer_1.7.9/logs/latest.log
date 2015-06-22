@@ -1,89 +1,90 @@
-[14:25:32] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:25:32] [Server thread/INFO]: Loading properties
-[14:25:32] [Server thread/INFO]: Default game type: SURVIVAL
-[14:25:33] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[14:25:33] [Server thread/INFO]: Debug logging is disabled
-[14:25:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:25:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:25:33] [Server thread/INFO]: Generating keypair
-[14:25:33] [Server thread/INFO]: Starting Minecraft server on 25.153.99.84:25565
-[14:25:33] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[14:25:34] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[14:25:34] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[14:25:34] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
-[14:25:34] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
-[14:25:34] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
-[14:25:34] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
-[14:25:34] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[14:25:34] [Server thread/INFO]: Preparing level "world"
-[14:25:34] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:25:34] [Server thread/INFO]: View Distance: 10
-[14:25:34] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[14:25:34] [Server thread/INFO]: Clear tick list: false
-[14:25:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:25:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:25:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:25:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:25:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:25:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:25:34] [Server thread/INFO]: Max Entity Collisions: 8
-[14:25:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:25:34] [Server thread/INFO]: Anti X-Ray: true
-[14:25:34] [Server thread/INFO]: 	Engine Mode: 1
-[14:25:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[14:25:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[14:25:34] [Server thread/INFO]: Alternative Hopper Ticking: false
-[14:25:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:25:34] [Server thread/INFO]: Mob Spawn Range: 4
-[14:25:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:25:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:25:34] [Server thread/INFO]: Structure Info Saving: true
-[14:25:34] [Server thread/INFO]: Random Lighting Updates: false
-[14:25:34] [Server thread/INFO]: Sending up to 5 chunks per packet
-[14:25:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:25:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:25:34] [Server thread/INFO]: Max TNT Explosions: 100
-[14:25:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8920881473033344467)
-[14:25:34] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[14:25:34] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[14:25:34] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[14:25:34] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[14:25:34] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[14:25:34] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[14:25:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[14:25:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[14:25:34] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
-[14:25:34] [Server thread/INFO]: [RandomBox] Loading config...
-[14:25:34] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[14:25:34] [Server thread/INFO]: [RandomBox] Configuration loaded.
-[14:25:34] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
-[14:25:34] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
-[14:25:34] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[14:25:34] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
-[14:25:34] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[14:25:34] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[14:25:34] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[14:25:34] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[14:25:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[14:25:34] [Server thread/INFO]: [WorldGuard] Loading region data...
-[14:25:35] [Server thread/INFO]: Done (1.026s)! For help, type "help" or "?"
-[14:25:48] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[14:25:48] [Server thread/INFO]: Stopping server
-[14:25:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
-[14:25:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[14:25:48] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
-[14:25:48] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
-[14:25:48] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
-[14:25:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
-[14:25:48] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[14:25:48] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[14:25:48] [Server thread/INFO]: Saving players
-[14:25:48] [Server thread/INFO]: Saving worlds
-[14:25:48] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[14:25:48] [Thread-4/INFO]: Stopping server
+[14:34:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:34:16] [Server thread/INFO]: Loading properties
+[14:34:16] [Server thread/INFO]: Default game type: SURVIVAL
+[14:34:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[14:34:16] [Server thread/INFO]: Debug logging is disabled
+[14:34:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:34:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:34:16] [Server thread/INFO]: Generating keypair
+[14:34:17] [Server thread/INFO]: Starting Minecraft server on 25.153.99.84:25565
+[14:34:17] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:34:17] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[14:34:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[14:34:17] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
+[14:34:17] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
+[14:34:17] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
+[14:34:17] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[14:34:17] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:34:17] [Server thread/INFO]: Preparing level "world"
+[14:34:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:34:17] [Server thread/INFO]: View Distance: 10
+[14:34:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:34:17] [Server thread/INFO]: Clear tick list: false
+[14:34:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:17] [Server thread/INFO]: Alternative Hopper Ticking: false
+[14:34:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:34:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:34:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:17] [Server thread/INFO]: Anti X-Ray: true
+[14:34:17] [Server thread/INFO]: 	Engine Mode: 1
+[14:34:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:34:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:34:17] [Server thread/INFO]: Max Entity Collisions: 8
+[14:34:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:34:17] [Server thread/INFO]: Mob Spawn Range: 4
+[14:34:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:17] [Server thread/INFO]: Random Lighting Updates: false
+[14:34:17] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:34:17] [Server thread/INFO]: Structure Info Saving: true
+[14:34:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:17] [Server thread/INFO]: Sending up to 5 chunks per packet
+[14:34:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8920881473033344467)
+[14:34:17] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[14:34:17] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[14:34:17] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[14:34:17] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[14:34:17] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[14:34:17] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[14:34:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[14:34:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:34:18] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
+[14:34:18] [Server thread/INFO]: [RandomBox] Loading config...
+[14:34:18] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[14:34:18] [Server thread/INFO]: [RandomBox] Configuration loaded.
+[14:34:18] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
+[14:34:18] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
+[14:34:18] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[14:34:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[14:34:18] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:34:18] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:34:18] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[14:34:18] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:34:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:34:18] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:34:18] [Server thread/INFO]: Done (1.058s)! For help, type "help" or "?"
+[14:34:50] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[14:34:50] [Server thread/INFO]: Stopping server
+[14:34:50] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
+[14:34:50] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[14:34:50] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
+[14:34:50] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
+[14:34:50] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
+[14:34:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[14:34:50] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[14:34:50] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[14:34:50] [Server thread/INFO]: Saving players
+[14:34:50] [Server thread/INFO]: Saving worlds
+[14:34:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:34:50] [Thread-4/INFO]: Stopping server
+[14:34:50] [Thread-4/INFO]: Saving players
