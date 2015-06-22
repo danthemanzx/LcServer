@@ -1,132 +1,173 @@
-[18:32:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[18:32:34] [Server thread/INFO]: Loading properties
-[18:32:34] [Server thread/INFO]: Default game type: SURVIVAL
-[18:32:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[18:32:35] [Server thread/INFO]: Debug logging is disabled
-[18:32:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:32:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:32:35] [Server thread/INFO]: Generating keypair
-[18:32:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:32:35] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:32:35] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[18:32:35] [Server thread/INFO]: [SpawnTP] Loading SpawnTP v1.6
-[18:32:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[18:32:35] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[18:32:35] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
-[18:32:35] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[18:32:35] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
-[18:32:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
-[18:32:35] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
-[18:32:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:32:36] [Server thread/INFO]: Preparing level "world"
-[18:32:36] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:32:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:32:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:32:36] [Server thread/INFO]: Clear tick list: false
-[18:32:36] [Server thread/INFO]: View Distance: 10
-[18:32:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:32:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:32:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:32:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:32:36] [Server thread/INFO]: Anti X-Ray: true
-[18:32:36] [Server thread/INFO]: 	Engine Mode: 1
-[18:32:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:32:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:32:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:32:36] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:32:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:32:36] [Server thread/INFO]: Structure Info Saving: true
-[18:32:36] [Server thread/INFO]: Max TNT Explosions: 100
-[18:32:36] [Server thread/INFO]: Random Lighting Updates: false
-[18:32:36] [Server thread/INFO]: Mob Spawn Range: 4
-[18:32:36] [Server thread/INFO]: Sending up to 5 chunks per packet
-[18:32:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:32:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:32:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:32:36] [Server thread/INFO]: Max Entity Collisions: 8
-[18:32:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:32:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:32:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[18:32:36] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[18:32:36] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[18:32:36] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[18:32:36] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[18:32:36] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[18:32:36] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[18:32:36] [Server thread/INFO]: [SpawnTP] Enabling SpawnTP v1.6
-[18:32:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[18:32:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[18:32:36] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[18:32:36] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[18:32:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Medival
-[18:32:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[18:32:36] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[18:32:37] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[18:32:37] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
-[18:32:37] [Server thread/INFO]: [RandomBox] Loading config...
-[18:32:37] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[18:32:37] [Server thread/INFO]: [RandomBox] Configuration loaded.
-[18:32:37] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[18:32:37] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[18:32:37] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: main (World Error, World did not exist or was not imported into Multiverse-Core!)
-[18:32:37] [Server thread/WARN]: [MVPLogging] Portal main has an invalid LOCATION!
-[18:32:37] [Server thread/WARN]: [MVPLogging] Portal 'main' not loaded due to invalid location!
-[18:32:37] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: ship (World Error, World did not exist or was not imported into Multiverse-Core!)
-[18:32:37] [Server thread/WARN]: [MVPLogging] Portal ship has an invalid LOCATION!
-[18:32:37] [Server thread/WARN]: [MVPLogging] Portal 'ship' not loaded due to invalid location!
-[18:32:37] [Server thread/INFO]: [MVPLogging] 3 - Portals(s) loaded
-[18:32:37] [Server thread/WARN]: [Multiverse-Core] Portal iron has an invalid DESTINATION!
-[18:32:37] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
-[18:32:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
-[18:32:37] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[18:32:37] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[18:32:37] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[18:32:37] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[18:32:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[18:32:37] [Server thread/INFO]: [WorldGuard] Loading region data...
-[18:32:37] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
-[18:32:37] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[18:32:37] [Server thread/INFO]: Done (1.303s)! For help, type "help" or "?"
-[18:32:48] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[18:32:48] [Server thread/INFO]: thudog77[/127.0.0.1:50247] logged in with entity id 205 at ([world] 12.5, 64.0, 254.5)
-[18:32:52] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[18:32:52] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[18:32:54] [User Authenticator #2/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[18:32:54] [Server thread/INFO]: daltons84[/68.119.64.47:56266] logged in with entity id 321 at ([world] 12.5, 64.0, 246.5)
-[18:33:07] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[18:33:07] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[18:33:16] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 world
-[18:33:23] [Server thread/INFO]: daltons84 issued server command: /tp thudog77 daltons84
-[18:33:23] [Server thread/INFO]: daltons84: Teleported thudog77 to daltons84[m
-[18:33:29] [Server thread/INFO]: thudog77 issued server command: /spawn
-[18:33:29] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent thudog77 to spawn[m
-[18:33:39] [Server thread/INFO]: thudog77 lost connection: Disconnected
-[18:33:42] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[18:33:42] [Server thread/INFO]: Stopping server
-[18:33:42] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
-[18:33:42] [Server thread/INFO]: [PermissionsBukkit] Disabled successfully, 1 online players unregistered
-[18:33:42] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
-[18:33:42] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[18:33:42] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
-[18:33:42] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[18:33:42] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
-[18:33:42] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[18:33:42] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
-[18:33:42] [Server thread/INFO]: [SpawnTP] Disabling SpawnTP v1.6
-[18:33:42] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[18:33:42] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[18:33:42] [Server thread/INFO]: Saving players
-[18:33:42] [Server thread/INFO]: daltons84 lost connection: Server closed
-[18:33:42] [Server thread/INFO]: daltons84 left the game.
-[18:33:42] [Server thread/INFO]: Saving worlds
-[18:33:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:33:42] [Thread-4/INFO]: Stopping server
-[18:33:42] [Thread-4/INFO]: Saving players
-[18:33:42] [Thread-4/INFO]: Saving worlds
-[18:33:42] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[18:36:38] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:36:38] [Server thread/INFO]: Loading properties
+[18:36:38] [Server thread/INFO]: Default game type: SURVIVAL
+[18:36:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[18:36:38] [Server thread/INFO]: Debug logging is disabled
+[18:36:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:36:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:36:39] [Server thread/INFO]: Generating keypair
+[18:36:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:36:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:36:39] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[18:36:39] [Server thread/INFO]: [SpawnTP] Loading SpawnTP v1.6
+[18:36:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[18:36:39] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[18:36:39] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
+[18:36:39] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[18:36:39] [Server thread/INFO]: [BedHome] Loading BedHome v2.25
+[18:36:39] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[18:36:39] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
+[18:36:39] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:36:40] [Server thread/INFO]: Preparing level "world"
+[18:36:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:36:40] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:36:40] [Server thread/INFO]: Clear tick list: false
+[18:36:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:36:40] [Server thread/INFO]: View Distance: 10
+[18:36:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:36:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:36:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:36:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:36:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:36:40] [Server thread/INFO]: Anti X-Ray: true
+[18:36:40] [Server thread/INFO]: 	Engine Mode: 1
+[18:36:40] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:36:40] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:36:40] [Server thread/INFO]: Mob Spawn Range: 4
+[18:36:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:36:40] [Server thread/INFO]: Random Lighting Updates: false
+[18:36:40] [Server thread/INFO]: Alternative Hopper Ticking: false
+[18:36:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:36:40] [Server thread/INFO]: Structure Info Saving: true
+[18:36:40] [Server thread/INFO]: Max TNT Explosions: 100
+[18:36:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:36:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:36:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:36:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:36:40] [Server thread/INFO]: Max Entity Collisions: 8
+[18:36:40] [Server thread/INFO]: Sending up to 5 chunks per packet
+[18:36:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[18:36:40] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[18:36:40] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[18:36:40] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[18:36:40] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[18:36:40] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[18:36:40] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[18:36:40] [Server thread/INFO]: [SpawnTP] Enabling SpawnTP v1.6
+[18:36:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[18:36:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:36:40] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[18:36:40] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[18:36:40] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Medival
+[18:36:40] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:36:40] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[18:36:40] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:36:40] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
+[18:36:40] [Server thread/INFO]: [RandomBox] Loading config...
+[18:36:40] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[18:36:40] [Server thread/INFO]: [RandomBox] Configuration loaded.
+[18:36:40] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[18:36:40] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[18:36:40] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: main (World Error, World did not exist or was not imported into Multiverse-Core!)
+[18:36:40] [Server thread/WARN]: [MVPLogging] Portal main has an invalid LOCATION!
+[18:36:40] [Server thread/WARN]: [MVPLogging] Portal 'main' not loaded due to invalid location!
+[18:36:40] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: ship (World Error, World did not exist or was not imported into Multiverse-Core!)
+[18:36:40] [Server thread/WARN]: [MVPLogging] Portal ship has an invalid LOCATION!
+[18:36:40] [Server thread/WARN]: [MVPLogging] Portal 'ship' not loaded due to invalid location!
+[18:36:40] [Server thread/INFO]: [MVPLogging] 3 - Portals(s) loaded
+[18:36:40] [Server thread/WARN]: [Multiverse-Core] Portal iron has an invalid DESTINATION!
+[18:36:40] [Server thread/INFO]: [BedHome] Enabling BedHome v2.25
+[18:36:40] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[18:36:41] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[18:36:41] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[18:36:41] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[18:36:41] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[18:36:41] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[18:36:41] [Server thread/INFO]: [WorldGuard] Loading region data...
+[18:36:41] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
+[18:36:41] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[18:36:41] [Server thread/INFO]: Done (1.243s)! For help, type "help" or "?"
+[18:36:51] [User Authenticator #1/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[18:36:51] [Server thread/INFO]: daltons84[/68.119.64.47:56357] logged in with entity id 205 at ([world] 13.5, 64.0, 265.5)
+[18:36:58] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:37:04] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[18:37:04] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[18:37:04] [User Authenticator #2/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[18:37:04] [Server thread/INFO]: HotIce64[/68.119.64.47:60562] logged in with entity id 316 at ([world] 2.5, 64.0, 250.5)
+[18:37:10] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[18:37:10] [Server thread/INFO]: HotIce64: Set own game mode to CREATIVE mode[m
+[18:37:10] [Server thread/INFO]: [Multiverse-Core] Multiverse does not know about 'medival' and it's not loaded by Bukkit.
+[18:37:10] [Server thread/INFO]: Error trying to remove world from config![m
+[18:37:30] [Server thread/INFO]: [Multiverse-Core] World 'Medival' was removed from config.yml
+[18:37:30] [Server thread/INFO]: World removed from config![m
+[18:37:37] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[18:37:44] [User Authenticator #3/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[18:37:44] [Server thread/INFO]: thudog77[/127.0.0.1:50315] logged in with entity id 675 at ([world] 15.5, 64.0, 262.5)
+[18:37:47] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[18:37:47] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[18:37:52] [Server thread/INFO]: thudog77 issued server command: /mv tp thudog77 world
+[18:38:06] [Server thread/INFO]: daltons84 issued server command: /tp daltons84 thudog77
+[18:38:06] [Server thread/INFO]: daltons84: Teleported daltons84 to thudog77[m
+[18:38:06] [Server thread/INFO]: HotIce64 issued server command: /tp HotIce64 thudog77
+[18:38:06] [Server thread/INFO]: HotIce64: Teleported HotIce64 to thudog77[m
+[18:38:26] [Server thread/INFO]: thudog77 issued server command: /setspawn
+[18:40:23] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[18:40:23] [Server thread/INFO]: thudog77: Set time to 0[m
+[18:43:20] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[18:43:20] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
+[18:48:53] [Server thread/INFO]: daltons84 issued server command: /kill-all
+[18:48:57] [Server thread/INFO]: daltons84 issued server command: /kill
+[18:48:57] [Server thread/INFO]: daltons84 died
+[18:49:03] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[18:49:50] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[18:49:50] [Server thread/INFO]: thudog77: Toggling downfall on for world 'world'[m
+[18:50:02] [Server thread/INFO]: daltons84 issued server command: /setspawn
+[18:50:06] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[18:50:06] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
+[18:50:12] [Server thread/INFO]: daltons84 issued server command: /tp daltons84 HotIce64
+[18:50:12] [Server thread/INFO]: daltons84: Teleported daltons84 to HotIce64[m
+[18:50:27] [Server thread/INFO]: daltons84 issued server command: /spawn
+[18:50:27] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent daltons84 to spawn[m
+[18:50:36] [Server thread/INFO]: HotIce64 issued server command: /spawn
+[18:50:36] [Server thread/INFO]: [0;33;22m[21m[[0;31;1m[21mSpawnTP[0;33;22m[21m] [0;33;22mSent HotIce64 to spawn[m
+[18:50:44] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[18:50:44] [Server thread/INFO]: thudog77: Set time to 0[m
+[18:51:40] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m]<thudog77> weopons[m
+[18:52:09] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m]<thudog77> weapons[m
+[18:55:29] [Server thread/INFO]: daltons84 issued server command: /time set night
+[18:55:29] [Server thread/INFO]: daltons84: Set time to 12500[m
+[18:55:52] [Server thread/INFO]: daltons84 issued server command: /time set day
+[18:55:52] [Server thread/INFO]: daltons84: Set time to 0[m
+[18:56:45] [Server thread/INFO]: daltons84 issued server command: /warp
+[18:56:51] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[18:57:26] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[18:57:26] [Server thread/INFO]: Stopping server
+[18:57:26] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
+[18:57:26] [Server thread/INFO]: [PermissionsBukkit] Disabled successfully, 2 online players unregistered
+[18:57:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
+[18:57:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[18:57:26] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
+[18:57:26] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[18:57:26] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
+[18:57:26] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[18:57:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[18:57:26] [Server thread/INFO]: [SpawnTP] Disabling SpawnTP v1.6
+[18:57:26] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[18:57:26] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[18:57:26] [Server thread/INFO]: Saving players
+[18:57:26] [Server thread/INFO]: HotIce64 lost connection: Server closed
+[18:57:26] [Server thread/INFO]: HotIce64 left the game.
+[18:57:26] [Server thread/INFO]: thudog77 lost connection: Server closed
+[18:57:26] [Server thread/INFO]: thudog77 left the game.
+[18:57:26] [Server thread/INFO]: Saving worlds
+[18:57:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:57:26] [Thread-4/INFO]: Stopping server
+[18:57:26] [Thread-4/INFO]: Saving players
+[18:57:26] [Thread-4/INFO]: Saving worlds
+[18:57:26] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
