@@ -1,0 +1,22 @@
+portals:
+  iron:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: thudog77
+    location: -334.0,54.0,307.0:-330.0,58.0,307.0
+    world: world
+    destination: p:main
+  main:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: thudog77
+    location: -267.0,86.0,124.0:-264.0,90.0,124.0
+    world: world.main

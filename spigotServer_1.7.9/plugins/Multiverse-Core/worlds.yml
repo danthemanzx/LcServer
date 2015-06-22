@@ -2,7 +2,7 @@ worlds:
   world:
     ==: MVWorld
     hidden: 'false'
-    alias: world
+    alias: ''
     color: WHITE
     style: NORMAL
     pvp: 'true'
