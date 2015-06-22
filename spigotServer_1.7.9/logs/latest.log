@@ -64,3 +64,36 @@
 [13:13:49] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
 [13:13:49] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
 [13:13:49] [Server thread/INFO]: Done (1.508s)! For help, type "help" or "?"
+[13:14:28] [User Authenticator #1/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[13:14:28] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@cf44c1[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@14316d5]},legacy=false] (/25.153.99.84:49698): You are not whitelisted on this server!
+[13:14:28] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@cf44c1[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@14316d5]},legacy=false] (/25.153.99.84:49698) lost connection: You are not whitelisted on this server!
+[13:17:09] [User Authenticator #2/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[13:17:09] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@c3a0e8[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@23788f]},legacy=false] (/25.153.99.84:49708): You are not whitelisted on this server!
+[13:17:09] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@c3a0e8[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@23788f]},legacy=false] (/25.153.99.84:49708) lost connection: You are not whitelisted on this server!
+[13:19:06] [User Authenticator #3/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[13:19:07] [Server thread/INFO]: Disconnecting net.minecraft.util.com.mojang.authlib.GameProfile@14d6237[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@1c2ff35]},legacy=false] (/25.153.99.84:49711): You are not whitelisted on this server!
+[13:19:07] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@14d6237[id=306b2e53-b75b-4116-8469-34d6a73099e9,name=HotIce64,properties={textures=[net.minecraft.util.com.mojang.authlib.properties.Property@1c2ff35]},legacy=false] (/25.153.99.84:49711) lost connection: You are not whitelisted on this server!
+[13:19:23] [Server thread/INFO]: CONSOLE: Added HotIce64 to white-list[m
+[13:19:42] [Server thread/INFO]: CONSOLE: Added thudog77 to white-list[m
+[13:19:49] [Server thread/INFO]: CONSOLE: Added daltons84 to white-list[m
+[13:19:53] [User Authenticator #4/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[13:19:53] [Server thread/INFO]: HotIce64[/25.153.99.84:49717] logged in with entity id 165 at ([world] -50.5, 74.0, 239.5)
+[13:20:12] [Server thread/INFO]: HotIce64 issued server command: /help
+[13:20:22] [Server thread/INFO]: HotIce64 issued server command: /bedhome
+[13:20:28] [Server thread/INFO]: HotIce64 issued server command: /bedhome help
+[13:20:40] [Server thread/INFO]: HotIce64 lost connection: Disconnected
+[13:20:40] [Server thread/INFO]: HotIce64 left the game.
+[13:20:45] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[13:20:45] [Server thread/INFO]: Stopping server
+[13:20:45] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
+[13:20:45] [Server thread/INFO]: [BedHome] Disabling BedHome v2.25
+[13:20:45] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
+[13:20:45] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[13:20:45] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[13:20:45] [Server thread/INFO]: Saving players
+[13:20:45] [Server thread/INFO]: Saving worlds
+[13:20:45] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:20:45] [Thread-4/INFO]: Stopping server
+[13:20:45] [Thread-4/INFO]: Saving players
+[13:20:45] [Thread-4/INFO]: Saving worlds
+[13:20:45] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
