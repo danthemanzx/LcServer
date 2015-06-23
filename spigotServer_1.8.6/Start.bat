@@ -2,5 +2,5 @@
 Title Mc Bukkit Server
 Color F
 
-java -Xms512M -Xmx1024M -jar spigot_server.jar
+java -Xms1G -Xmx2G -XX:MaxPermSize=128M -jar spigot_server.jar
 pause
