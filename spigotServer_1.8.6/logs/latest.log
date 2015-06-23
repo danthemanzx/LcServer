@@ -1,98 +1,80 @@
-[13:17:56] [Server thread/INFO]: Starting minecraft server version 1.8.6
-[13:17:56] [Server thread/INFO]: Loading properties
-[13:17:56] [Server thread/INFO]: Default game type: SURVIVAL
-[13:17:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
-[13:17:56] [Server thread/INFO]: Debug logging is disabled
-[13:17:56] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:17:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:17:56] [Server thread/INFO]: Generating keypair
-[13:17:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:17:56] [Server thread/INFO]: Using default channel type
-[13:17:56] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[13:17:56] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[13:17:56] [Server thread/INFO]: [RandomBox] Loading RandomBox v2.4
-[13:17:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[13:17:56] [Server thread/INFO]: Preparing level "world"
-[13:17:56] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:17:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:17:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:17:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:17:56] [Server thread/INFO]: View Distance: 10
-[13:17:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[13:17:56] [Server thread/INFO]: Clear tick list: false
-[13:17:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:17:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:17:56] [Server thread/INFO]: Anti X-Ray: true
-[13:17:56] [Server thread/INFO]: 	Engine Mode: 1
-[13:17:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:17:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:17:56] [Server thread/INFO]: Mob Spawn Range: 4
-[13:17:56] [Server thread/INFO]: Max TNT Explosions: 100
-[13:17:56] [Server thread/INFO]: Random Lighting Updates: false
-[13:17:56] [Server thread/INFO]: Structure Info Saving: true
-[13:17:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:17:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:17:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:17:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:17:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:17:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:17:56] [Server thread/INFO]: Sending up to 5 chunks per packet
-[13:17:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:17:56] [Server thread/INFO]: Max Entity Collisions: 8
-[13:17:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:17:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[13:17:57] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[13:17:57] [Server thread/INFO]: [RandomBox] Enabling RandomBox v2.4
-[13:17:57] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[13:17:57] [Server thread/INFO]: [RandomBox] Parsing box 9901...
-[13:17:57] [Server thread/INFO]: [RandomBox] 1 boxes has been loaded, time = 9 ms
-[13:17:57] [Server thread/WARN]: [RandomBox] Economy not found. Install Vault to make gui blocks with cost.
-[13:17:57] [Server thread/INFO]: [RandomBox] Plugin enabled.
-[13:17:57] [Server thread/INFO]: Done (0.856s)! For help, type "help" or "?"
-[13:20:12] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[13:20:12] [Server thread/INFO]: thudog77[/127.0.0.1:60214] logged in with entity id 221 at ([world]8.5, 64.0, 257.5)
-[13:20:23] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[13:20:34] [Server thread/INFO]: Opped thudog77
-[13:20:36] [Server thread/INFO]: Turned off the whitelist
-[13:20:48] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[13:20:48] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
-[13:22:13] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[13:22:13] [Server thread/INFO]: [thudog77: Set the time to 0]
-[13:24:45] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
-[13:24:45] [Server thread/INFO]: [thudog77: Toggled downfall]
-[13:36:49] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[13:36:49] [Server thread/INFO]: [thudog77: Set the time to 0]
-[13:37:54] [Server thread/INFO]: thudog77 issued server command: /time add 10000000
-[13:37:54] [Server thread/INFO]: [thudog77: Added 10000000 to the time]
-[13:38:29] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[13:38:29] [Server thread/INFO]: [thudog77: Set the time to 0]
-[13:39:36] [Server thread/INFO]: thudog77 issued server command: /time add 100000
-[13:39:36] [Server thread/INFO]: [thudog77: Added 100000 to the time]
-[13:39:37] [Server thread/INFO]: thudog77 issued server command: /time add 100000
-[13:39:37] [Server thread/INFO]: [thudog77: Added 100000 to the time]
-[13:39:38] [Server thread/INFO]: thudog77 issued server command: /time add 100000
-[13:39:38] [Server thread/INFO]: [thudog77: Added 100000 to the time]
-[13:39:40] [Server thread/INFO]: thudog77 issued server command: /time add 10000000
-[13:39:40] [Server thread/INFO]: [thudog77: Added 10000000 to the time]
-[13:39:43] [Server thread/INFO]: thudog77 issued server command: /
-[13:39:44] [Server thread/INFO]: thudog77 issued server command: /
-[13:39:46] [Server thread/INFO]: thudog77 issued server command: /time add 10000000
-[13:39:46] [Server thread/INFO]: [thudog77: Added 10000000 to the time]
-[13:42:23] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
-[13:42:23] [Server thread/INFO]: [thudog77: Toggled downfall]
-[13:42:56] [Server thread/INFO]: thudog77 lost connection: Disconnected
-[13:42:56] [Server thread/INFO]: thudog77 left the game.
-[13:43:13] [Server thread/INFO]: Stopping the server
-[13:43:13] [Server thread/INFO]: Stopping server
-[13:43:13] [Server thread/INFO]: [RandomBox] Disabling RandomBox v2.4
-[13:43:13] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[13:43:13] [Server thread/INFO]: Saving players
-[13:43:13] [Server thread/INFO]: Saving worlds
-[13:43:13] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:29:15] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[15:29:15] [Server thread/INFO]: Loading properties
+[15:29:15] [Server thread/INFO]: Default game type: SURVIVAL
+[15:29:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[15:29:16] [Server thread/INFO]: Debug logging is disabled
+[15:29:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:29:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:29:16] [Server thread/INFO]: Generating keypair
+[15:29:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:29:16] [Server thread/INFO]: Using default channel type
+[15:29:16] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:29:16] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[15:29:16] [Server thread/INFO]: [RandomBox] Loading RandomBox v2.4
+[15:29:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:29:16] [Server thread/INFO]: Preparing level "world"
+[15:29:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:29:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:29:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:29:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:29:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:29:16] [Server thread/INFO]: Random Lighting Updates: false
+[15:29:16] [Server thread/INFO]: Max TNT Explosions: 100
+[15:29:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:29:16] [Server thread/INFO]: Structure Info Saving: true
+[15:29:16] [Server thread/INFO]: Anti X-Ray: true
+[15:29:16] [Server thread/INFO]: 	Engine Mode: 1
+[15:29:16] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:29:16] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:29:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:29:16] [Server thread/INFO]: Mob Spawn Range: 4
+[15:29:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:29:16] [Server thread/INFO]: View Distance: 10
+[15:29:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:29:16] [Server thread/INFO]: Sending up to 5 chunks per packet
+[15:29:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:29:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:29:16] [Server thread/INFO]: Max Entity Collisions: 8
+[15:29:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:29:16] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:29:16] [Server thread/INFO]: Clear tick list: false
+[15:29:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:29:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:29:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[15:29:17] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[15:29:17] [Server thread/INFO]: [RandomBox] Enabling RandomBox v2.4
+[15:29:17] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[15:29:17] [Server thread/INFO]: [RandomBox] Parsing box 9901...
+[15:29:17] [Server thread/INFO]: [RandomBox] 1 boxes has been loaded, time = 13 ms
+[15:29:17] [Server thread/WARN]: [RandomBox] Economy not found. Install Vault to make gui blocks with cost.
+[15:29:17] [Server thread/INFO]: [RandomBox] Plugin enabled.
+[15:29:17] [Server thread/INFO]: Done (0.878s)! For help, type "help" or "?"
+[15:30:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@699690f5[id=<null>,name=thudog77,properties={},legacy=false] (/127.0.0.1:51169) lost connection: Disconnected
+[15:30:11] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[15:30:11] [Server thread/INFO]: thudog77[/127.0.0.1:51193] logged in with entity id 207 at ([world]-150.075344694193, 80.40382193935174, 131.59547334442766)
+[15:30:15] [Server thread/INFO]: thudog77 issued server command: /gamemode 12
+[15:30:18] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[15:30:18] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[15:30:44] [Server thread/INFO]: thudog77 issued server command: /pl
+[15:30:46] [Server thread/INFO]: thudog77 issued server command: /rb
+[15:30:51] [Server thread/INFO]: thudog77 issued server command: /help randombox
+[15:31:06] [Server thread/INFO]: thudog77 issued server command: /randomblock
+[15:31:26] [Server thread/INFO]: thudog77 issued server command: /randomblock create 342
+[15:31:33] [Server thread/INFO]: thudog77 issued server command: /randomblock create 342 0
+[15:32:15] [Server thread/INFO]: thudog77 issued server command: /randomblock create 342 0
+[15:32:16] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[15:32:16] [Server thread/INFO]: thudog77 left the game.
+[15:32:26] [Server thread/INFO]: Stopping the server
+[15:32:26] [Server thread/INFO]: Stopping server
+[15:32:26] [Server thread/INFO]: [RandomBox] Disabling RandomBox v2.4
+[15:32:26] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[15:32:26] [Server thread/INFO]: Saving players
+[15:32:26] [Server thread/INFO]: Saving worlds
+[15:32:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
