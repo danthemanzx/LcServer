@@ -19,3 +19,12 @@ regions:
         owners:
             players: [daltons84]
         members: {}
+    survival:
+        min: {x: -105.0, y: 0.0, z: 14.0}
+        flags: {}
+        max: {x: 45.0, y: 255.0, z: 136.0}
+        priority: 0
+        type: cuboid
+        owners:
+            players: [daltons84]
+        members: {}

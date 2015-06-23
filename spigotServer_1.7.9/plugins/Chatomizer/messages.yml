@@ -1,0 +1,31 @@
+errors:
+  format_already_set: '{TAG}&cFormat already set to: ''&6{FORMAT}&c'''
+  format_default_already_set: '{TAG}&cDefault format already set to: ''&6{FORMAT}&c'''
+  format_not_found: '{TAG}&cUnable to find chat format: ''&6{FORMAT}&c''.'
+  format_unable_to_set: '{TAG}&cUnable to set format to: ''&6{FORMAT}&c'''
+  no_permission: '&cYou do not have permission to use this command.'
+  no_permission_format: '&cYou do not have permission for chat format: ''&6{FORMAT}&c''.'
+  reload_error: '{TAG}&cAn error occurred while reloading Chatomizer: &6{MESSAGE}'
+  save_error: '{TAG}&cAn error occurred while saving Chatomizer: &6{MESSAGE}'
+  unable_to_chat: '{TAG}&cYou cannot chat right now.'
+  unable_to_get_chatter: '{TAG}&cUnable to get your chatter instance. Please contact
+    an administrator about this.'
+  unknown_command: '{TAG}&cUnknown command.'
+notices:
+  format_default_notice: '{TAG}&3Current default chat format: ''&6{FORMAT}&3''.'
+  format_default_set: '{TAG}&aUpdated default chat format to: ''&6{FORMAT}&a''.'
+  format_notice: '{TAG}&3Current format: &6{FORMAT}&3.'
+  format_set: '{TAG}&aUpdated current chat format to: ''&6{FORMAT}&a''.'
+  plugin_reloaded: '{TAG}&9Successfully &creloaded &9plugin data from the disk.'
+  plugin_saved: '{TAG}&9Successfully &asaved &9plugin data to the disk.'
+plugin:
+  formats_list: '&8=====&aChat Formats&8====='
+  formats_list_none: '&c&lNothing here.'
+usages:
+  tag: '&4USAGE: &c'
+  chatomizer_chat: '{TAG}/{LABEL} chat <message>'
+  chatomizer_chat_direct: '{TAG}/{LABEL} <message>'
+  chatomizer_format: '{TAG}/{LABEL} format <format name>'
+  chatomizer_format_direct: '{TAG}/{LABEL} <format name>'
+  chatomizer_format_info: '{TAG}/{LABEL} info <format name>'
+  chatomizer_help: '{TAG}/{LABEL} help'
