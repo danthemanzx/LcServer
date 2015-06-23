@@ -1,5 +1,5 @@
 # Set this to false, if you don't want to use gui for boxes.
-gui: true
+gui: false
 
 fillers:
   # MATERIAL[:data value]
