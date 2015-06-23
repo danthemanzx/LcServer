@@ -1,117 +1,118 @@
-[00:30:31] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[00:30:31] [Server thread/INFO]: Loading properties
-[00:30:31] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:31] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[00:30:31] [Server thread/INFO]: Debug logging is disabled
-[00:30:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:30:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:30:31] [Server thread/INFO]: Generating keypair
-[00:30:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:32] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[00:30:32] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[00:30:32] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.2
-[00:30:32] [Server thread/INFO]: [Chatomizer] Loading Chatomizer v2.0.2
-[00:30:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[00:30:32] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[00:30:32] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
-[00:30:32] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[00:30:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
-[00:30:32] [Server thread/INFO]: [EasySpawn] Loading EasySpawn v1.7.9-R0.1
-[00:30:32] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
-[00:30:32] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[00:30:32] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[00:30:32] [Server thread/INFO]: Preparing level "world"
-[00:30:32] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:30:32] [Server thread/INFO]: View Distance: 10
-[00:30:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:30:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[00:30:32] [Server thread/INFO]: Clear tick list: false
-[00:30:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:30:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:30:32] [Server thread/INFO]: Max Entity Collisions: 8
-[00:30:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:30:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:30:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:30:32] [Server thread/INFO]: Sending up to 5 chunks per packet
-[00:30:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:30:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:30:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:30:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:30:32] [Server thread/INFO]: Mob Spawn Range: 4
-[00:30:32] [Server thread/INFO]: Random Lighting Updates: false
-[00:30:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:30:32] [Server thread/INFO]: Max TNT Explosions: 100
-[00:30:32] [Server thread/INFO]: Alternative Hopper Ticking: false
-[00:30:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:30:32] [Server thread/INFO]: Structure Info Saving: true
-[00:30:32] [Server thread/INFO]: Anti X-Ray: true
-[00:30:32] [Server thread/INFO]: 	Engine Mode: 1
-[00:30:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[00:30:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[00:30:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[00:30:32] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[00:30:32] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[00:30:32] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[00:30:32] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[00:30:32] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[00:30:32] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[00:30:32] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.2
-[00:30:32] [Server thread/INFO]: [Chatomizer] Enabling Chatomizer v2.0.2
-[00:30:32] [Server thread/INFO]: [Chatomizer] Unable to find optional Vault dependency. Some features will not be available unless you install it.
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chat format 'default'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Unable to load chat format from file 'default.yml' - a format named 'default' is already loaded.
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'console'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RNAME}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RDISPNAME}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RWORLD}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RGROUP}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RPREFIX}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RSUFFIX}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SNAME}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SDISPNAME}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SWORLD}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SGROUP}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SPREFIX}'
-[00:30:32] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SSUFFIX}'
-[00:30:32] [Server thread/INFO]: [Chatomizer] Chatomizer v2.0.2 by Stealth2800 ENABLED.
-[00:30:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[00:30:33] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[00:30:33] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[00:30:33] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[00:30:33] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[00:30:33] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[00:30:33] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
-[00:30:33] [Server thread/INFO]: [RandomBox] Loading config...
-[00:30:33] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
-[00:30:33] [Server thread/INFO]: [RandomBox] Configuration loaded.
-[00:30:33] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[00:30:33] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[00:30:33] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: main (World Error, World did not exist or was not imported into Multiverse-Core!)
-[00:30:33] [Server thread/WARN]: [MVPLogging] Portal main has an invalid LOCATION!
-[00:30:33] [Server thread/WARN]: [MVPLogging] Portal 'main' not loaded due to invalid location!
-[00:30:33] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: ship (World Error, World did not exist or was not imported into Multiverse-Core!)
-[00:30:33] [Server thread/WARN]: [MVPLogging] Portal ship has an invalid LOCATION!
-[00:30:33] [Server thread/WARN]: [MVPLogging] Portal 'ship' not loaded due to invalid location!
-[00:30:33] [Server thread/INFO]: [MVPLogging] 3 - Portals(s) loaded
-[00:30:33] [Server thread/WARN]: [Multiverse-Core] Portal iron has an invalid DESTINATION!
-[00:30:33] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
-[00:30:33] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[00:30:33] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[00:30:33] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[00:30:33] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[00:30:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[00:30:33] [Server thread/INFO]: [WorldGuard] Loading region data...
-[00:30:33] [Server thread/INFO]: [EasySpawn] Enabling EasySpawn v1.7.9-R0.1
-[00:30:33] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
-[00:30:33] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[00:30:33] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[00:30:33] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML: while parsing a block mapping
+[09:18:50] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[09:18:50] [Server thread/INFO]: Loading properties
+[09:18:50] [Server thread/INFO]: Default game type: SURVIVAL
+[09:18:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[09:18:50] [Server thread/INFO]: Debug logging is disabled
+[09:18:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:18:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:18:50] [Server thread/INFO]: Generating keypair
+[09:18:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:18:52] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:18:53] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[09:18:53] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.2
+[09:18:53] [Server thread/INFO]: [Chatomizer] Loading Chatomizer v2.0.2
+[09:18:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[09:18:53] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[09:18:53] [Server thread/INFO]: [RandomBox] Loading RandomBox v1.6
+[09:18:53] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[09:18:53] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[09:18:53] [Server thread/INFO]: [EasySpawn] Loading EasySpawn v1.7.9-R0.1
+[09:18:53] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.4
+[09:18:53] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[09:18:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:18:53] [Server thread/INFO]: Preparing level "world"
+[09:18:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:18:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[09:18:53] [Server thread/INFO]: Clear tick list: false
+[09:18:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:18:53] [Server thread/INFO]: View Distance: 10
+[09:18:53] [Server thread/INFO]: Anti X-Ray: true
+[09:18:53] [Server thread/INFO]: 	Engine Mode: 1
+[09:18:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[09:18:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[09:18:53] [Server thread/INFO]: Mob Spawn Range: 4
+[09:18:53] [Server thread/INFO]: Structure Info Saving: true
+[09:18:53] [Server thread/INFO]: Alternative Hopper Ticking: false
+[09:18:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:18:53] [Server thread/INFO]: Random Lighting Updates: false
+[09:18:53] [Server thread/INFO]: Max TNT Explosions: 100
+[09:18:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:18:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:18:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:18:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:18:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:18:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:18:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:18:53] [Server thread/INFO]: Sending up to 5 chunks per packet
+[09:18:53] [Server thread/INFO]: Max Entity Collisions: 8
+[09:18:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:18:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:18:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:18:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[09:18:54] [Server thread/INFO]: Preparing spawn area: 29%
+[09:18:55] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[09:18:55] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[09:18:55] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[09:18:55] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[09:18:55] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[09:18:55] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[09:18:55] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.2
+[09:18:55] [Server thread/INFO]: [Chatomizer] Enabling Chatomizer v2.0.2
+[09:18:55] [Server thread/INFO]: [Chatomizer] Unable to find optional Vault dependency. Some features will not be available unless you install it.
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chat format 'default'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Unable to load chat format from file 'default.yml' - a format named 'default' is already loaded.
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'console'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RNAME}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RDISPNAME}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RWORLD}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RGROUP}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RPREFIX}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{RSUFFIX}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SNAME}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SDISPNAME}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SWORLD}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SGROUP}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SPREFIX}'
+[09:18:55] [Server thread/INFO]: [Chatomizer DEBUG] Registered chat modifier '{SSUFFIX}'
+[09:18:55] [Server thread/INFO]: [Chatomizer] Chatomizer v2.0.2 by Stealth2800 ENABLED.
+[09:18:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[09:18:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:18:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[09:18:56] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[09:18:56] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[09:18:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[09:18:56] [Server thread/INFO]: [RandomBox] Enabling RandomBox v1.6
+[09:18:56] [Server thread/INFO]: [RandomBox] Loading config...
+[09:18:56] [Server thread/WARN]: [RandomBox] Default system encoding may have misread config.yml from plugin jar
+[09:18:56] [Server thread/INFO]: [RandomBox] Configuration loaded.
+[09:18:56] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[09:18:56] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[09:18:56] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: main (World Error, World did not exist or was not imported into Multiverse-Core!)
+[09:18:56] [Server thread/WARN]: [MVPLogging] Portal main has an invalid LOCATION!
+[09:18:56] [Server thread/WARN]: [MVPLogging] Portal 'main' not loaded due to invalid location!
+[09:18:56] [Server thread/WARN]: [MVPLogging] Failed Parsing World for: ship (World Error, World did not exist or was not imported into Multiverse-Core!)
+[09:18:56] [Server thread/WARN]: [MVPLogging] Portal ship has an invalid LOCATION!
+[09:18:56] [Server thread/WARN]: [MVPLogging] Portal 'ship' not loaded due to invalid location!
+[09:18:56] [Server thread/INFO]: [MVPLogging] 3 - Portals(s) loaded
+[09:18:56] [Server thread/WARN]: [Multiverse-Core] Portal iron has an invalid DESTINATION!
+[09:18:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[09:18:57] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[09:18:57] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[09:18:57] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[09:18:57] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[09:18:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[09:18:57] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:18:57] [Server thread/INFO]: [EasySpawn] Enabling EasySpawn v1.7.9-R0.1
+[09:18:57] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.4
+[09:18:57] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[09:18:57] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[09:18:58] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML: while parsing a block mapping
  in 'reader', line 2, column 1:
     plugin.RandomBox.basic:
     ^
@@ -120,144 +121,87 @@ expected <block end>, but found BlockMappingStart
      plugin.backpacks.basic:
      ^
 
-[00:30:33] [Server thread/INFO]: Done (1.420s)! For help, type "help" or "?"
-[00:30:42] [User Authenticator #1/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[00:30:42] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[00:30:42] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[00:30:42] [Server thread/INFO]: daltons84[/68.119.64.47:52209] logged in with entity id 119 at ([world] -163.8616651000799, 63.0, 120.55166728582559)
-[00:30:51] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[00:30:51] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[00:30:59] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
-[00:31:52] [Server thread/INFO]: daltons84 issued server command: /time set day '
-[00:31:52] [Server thread/INFO]: daltons84: Set time to 0[m
-[00:32:08] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[00:32:08] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[00:32:08] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter '1242482d-c50e-44fa-9556-fe1d25921ed7'
-[00:32:08] [Server thread/INFO]: thudog77[/127.0.0.1:60613] logged in with entity id 503 at ([world] -45.54600021734014, 77.5, 197.3799411129662)
-[00:32:48] [Server thread/INFO]: daltons84 lost connection: Disconnected
-[00:32:48] [Server thread/INFO]: daltons84 left the game.
-[00:32:55] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[00:32:55] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[00:37:00] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
-[00:37:00] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
-[00:37:04] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[00:39:20] [User Authenticator #3/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[00:39:20] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[00:39:20] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[00:39:20] [Server thread/INFO]: daltons84[/68.119.64.47:52522] logged in with entity id 1829 at ([world] -162.8150958546071, 63.0, 138.36778931850756)
-[00:39:31] [Server thread/INFO]: daltons84 issued server command: /say your a cunt
-[00:39:31] [Server thread/INFO]: [0;35;1m[daltons84[0;35;1m] your a cunt[m
-[00:39:40] [Server thread/INFO]: daltons84 lost connection: Disconnected
-[00:39:40] [Server thread/INFO]: daltons84 left the game.
-[00:39:46] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[00:42:20] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[00:42:20] [Server thread/INFO]: thudog77: Set time to 0[m
-[00:43:19] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[00:49:22] [User Authenticator #4/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[00:49:22] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[00:49:22] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[00:49:22] [Server thread/INFO]: daltons84[/68.119.64.47:52718] logged in with entity id 2940 at ([world] -167.30058381231078, 63.0, 126.67641443923452)
-[00:53:15] [Server thread/INFO]: daltons84 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
-[00:53:15] [Server thread/INFO]: daltons84 left the game.
-[00:54:29] [Server thread/INFO]: net.minecraft.util.com.mojang.authlib.GameProfile@58c33801[id=<null>,name=daltons84,properties={},legacy=false] (/68.119.64.47:52895) lost connection: Disconnected
-[00:54:35] [User Authenticator #5/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[00:54:36] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[00:54:36] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[00:54:36] [Server thread/INFO]: daltons84[/68.119.64.47:52897] logged in with entity id 3489 at ([world] -164.08679881423157, 63.0, 134.85157182169783)
-[00:54:47] [Server thread/INFO]: daltons84 issued server command: /TIME SET DAY
-[00:54:51] [Server thread/INFO]: daltons84 issued server command: /time set day
-[00:54:51] [Server thread/INFO]: daltons84: Set time to 0[m
-[00:55:40] [Server thread/INFO]: daltons84 issued server command: /thudog77 gamemode 0
-[00:55:49] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[00:55:49] [Server thread/INFO]: daltons84 issued server command: /deop thudog77
-[00:55:49] [Server thread/INFO]: daltons84: De-opped thudog77[m
-[00:55:57] [Server thread/INFO]: CONSOLE: Opped thudog66[m
-[00:56:00] [Server thread/INFO]: CONSOLE: Opped thudog77[m
-[00:56:03] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[00:56:03] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[00:56:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[00:56:12] [Server thread/INFO]: CONSOLE: De-opped thudog66[m
-[00:56:47] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[00:58:50] [Server thread/INFO]: daltons84 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
-[00:58:50] [Server thread/INFO]: daltons84 left the game.
-[01:03:14] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[01:06:56] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[01:07:01] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[01:16:22] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[01:19:47] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[01:28:22] [User Authenticator #6/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[01:28:22] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[01:28:22] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[01:28:22] [Server thread/INFO]: daltons84[/68.119.64.47:51903] logged in with entity id 7518 at ([world] -164.48244141376102, 63.0, 127.3327894687649)
-[01:29:22] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[01:29:22] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[01:30:18] [Server thread/INFO]: daltons84 issued server command: //wand
-[01:30:28] [Server thread/INFO]: daltons84 issued server command: //set 0
-[01:30:33] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[01:30:33] [Server thread/INFO]: thudog77: Set time to 0[m
-[01:30:40] [Server thread/INFO]: daltons84 issued server command: //set 0
-[01:30:50] [Server thread/INFO]: daltons84 issued server command: //set 0
-[01:31:09] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[01:31:55] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[01:32:04] [Server thread/INFO]: daltons84 issued server command: //set cobble
-[01:33:01] [Server thread/INFO]: daltons84 lost connection: Disconnected
-[01:33:01] [Server thread/INFO]: daltons84 left the game.
-[01:33:08] [User Authenticator #7/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
-[01:33:08] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
-[01:33:08] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter 'c8a6e8ad-0582-42ec-a36b-3638273ca86c'
-[01:33:08] [Server thread/INFO]: daltons84[/68.119.64.47:51992] logged in with entity id 8479 at ([world] -164.27795880548982, 63.0, 92.46840402433845)
-[01:33:21] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
-[01:33:21] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
-[01:34:09] [Server thread/INFO]: daltons84 issued server command: //replace fence
-[01:34:44] [Server thread/INFO]: daltons84 issued server command: //replace fence
-[01:36:47] [Server thread/INFO]: daltons84 issued server command: //replace fence
-[01:37:13] [Server thread/INFO]: daltons84 issued server command: //replace fence
-[01:37:25] [Server thread/INFO]: daltons84 issued server command: //replace fence
-[01:37:50] [Server thread/INFO]: daltons84 issued server command: //set fence
-[01:39:15] [Server thread/INFO]: daltons84 issued server command: //set pvp
-[01:39:28] [Server thread/INFO]: daltons84 issued server command: /worldguard claim pvp
-[01:41:10] [Server thread/INFO]: daltons84 issued server command: /time set day
-[01:41:10] [Server thread/INFO]: daltons84: Set time to 0[m
-[01:43:00] [Server thread/INFO]: thudog77 issued server command: /gamemode 0
-[01:43:00] [Server thread/INFO]: thudog77: Set own game mode to SURVIVAL mode[m
-[01:43:44] [Server thread/INFO]: thudog77 issued server command: /spawn
-[01:44:02] [Server thread/INFO]: daltons84 issued server command: //set grass
-[01:44:14] [Server thread/INFO]: daltons84 issued server command: //undo
-[01:44:29] [Server thread/INFO]: daltons84 issued server command: //set grass
-[01:44:44] [Server thread/INFO]: daltons84 issued server command: //set grass
-[01:44:49] [Server thread/INFO]: daltons84 issued server command: //undo
-[01:44:55] [Server thread/INFO]: daltons84 issued server command: //undo
-[01:45:21] [Server thread/INFO]: daltons84 issued server command: //expant vert
-[01:45:29] [Server thread/INFO]: daltons84 issued server command: //expand vert
-[01:45:31] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[01:45:31] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[01:45:45] [Server thread/INFO]: daltons84 issued server command: //regian claim
-[01:45:58] [Server thread/INFO]: daltons84 issued server command: //regian claim span
-[01:46:06] [Server thread/INFO]: daltons84 lost connection: Disconnected
-[01:46:06] [Server thread/INFO]: daltons84 left the game.
-[02:01:17] [Server thread/INFO]: thudog77 lost connection: Disconnected
-[02:01:17] [Server thread/INFO]: thudog77 left the game.
-[02:01:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:01:22] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[02:01:22] [Server thread/INFO]: Stopping server
-[02:01:22] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[02:01:22] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
-[02:01:22] [Server thread/INFO]: [EasySpawn] Disabling EasySpawn v1.7.9-R0.1
-[02:01:22] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
-[02:01:22] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[02:01:22] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[02:01:22] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
-[02:01:22] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[02:01:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
-[02:01:22] [Server thread/INFO]: [Chatomizer] Disabling Chatomizer v2.0.2
-[02:01:22] [Server thread/INFO]: [Chatomizer] Chatomizer v2.0.2 by Stealth2800 DISABLED.
-[02:01:22] [Server thread/INFO]: [EasyWarp] Disabling EasyWarp v3.2
-[02:01:22] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[02:01:22] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[02:01:22] [Server thread/INFO]: Saving players
-[02:01:22] [Server thread/INFO]: Saving worlds
-[02:01:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[02:01:22] [Thread-4/INFO]: Stopping server
-[02:01:22] [Thread-4/INFO]: Saving players
-[02:01:22] [Thread-4/INFO]: Saving worlds
-[02:01:22] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[09:18:58] [Server thread/INFO]: Done (4.945s)! For help, type "help" or "?"
+[09:22:04] [Server thread/INFO]: CONSOLE: Turned off white-listing[m
+[09:24:55] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[09:24:55] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
+[09:24:55] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter '1242482d-c50e-44fa-9556-fe1d25921ed7'
+[09:24:55] [Server thread/INFO]: thudog77[/192.168.1.94:49331] logged in with entity id 128 at ([world] -120.10589711761224, 64.0, 186.16590857740061)
+[09:25:02] [User Authenticator #2/INFO]: UUID of player CterCreeper is 9c3ec5c1-0f76-46ec-8b75-fc3a89254618
+[09:25:02] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
+[09:25:02] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter '9c3ec5c1-0f76-46ec-8b75-fc3a89254618'
+[09:25:02] [Server thread/INFO]: CterCreeper[/192.168.1.85:55475] logged in with entity id 158 at ([world] -135.5, 64.0, 204.5)
+[09:25:03] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[09:25:03] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
+[09:25:08] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mCterCreeper![m
+[09:25:13] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[09:25:13] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[09:25:35] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mhere is some money to start you off Lauren[m
+[09:25:47] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mCterCreeper[0;32;1m> > [0;37;22mwhere r u[m
+[09:25:50] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[09:25:52] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mbehind you[m
+[09:25:56] [Server thread/INFO]: thudog77 issued server command: /gamemode 0
+[09:25:56] [Server thread/INFO]: thudog77: Set own game mode to SURVIVAL mode[m
+[09:26:10] [Server thread/INFO]: thudog77 issued server command: /spawn
+[09:26:43] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mnow follow me to the shop[m
+[09:26:50] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mor 'market'[m
+[09:27:22] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mgo ahead right click on a villager[m
+[09:27:33] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22meach stand sells diffrent things[m
+[09:27:39] [Async Chat Thread - #0/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mLike these sell armor[m
+[09:27:58] [Server thread/INFO]: thudog77 issued server command: /kit
+[09:28:01] [Server thread/INFO]: thudog77 issued server command: /rb
+[09:28:05] [Server thread/INFO]: thudog77 issued server command: /help rb
+[09:28:11] [Server thread/INFO]: thudog77 issued server command: /rb
+[09:28:15] [Server thread/INFO]: thudog77 issued server command: /rb ?
+[09:30:58] [Server thread/INFO]: CterCreeper lost connection: Disconnected
+[09:30:58] [Server thread/INFO]: CterCreeper left the game.
+[09:37:36] [Server thread/INFO]: thudog77 was slain by Zombie
+[09:44:22] [User Authenticator #3/INFO]: UUID of player CterCreeper is 9c3ec5c1-0f76-46ec-8b75-fc3a89254618
+[09:44:23] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
+[09:44:23] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter '9c3ec5c1-0f76-46ec-8b75-fc3a89254618'
+[09:44:23] [Server thread/INFO]: CterCreeper[/192.168.1.85:55803] logged in with entity id 1745 at ([world] -167.97159601166769, 63.0, 134.51024386747434)
+[09:45:47] [Server thread/INFO]: CterCreeper lost connection: Disconnected
+[09:45:47] [Server thread/INFO]: CterCreeper left the game.
+[09:45:47] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[09:45:47] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[09:45:55] [User Authenticator #4/INFO]: UUID of player CterCreeper is 9c3ec5c1-0f76-46ec-8b75-fc3a89254618
+[09:45:55] [Server thread/INFO]: [Chatomizer DEBUG] Load player chatter...
+[09:45:55] [Server thread/INFO]: [Chatomizer DEBUG] Loaded chatter '9c3ec5c1-0f76-46ec-8b75-fc3a89254618'
+[09:45:55] [Server thread/INFO]: CterCreeper[/192.168.1.85:55815] logged in with entity id 2056 at ([world] -166.38432908422055, 63.0, 135.81727904060776)
+[09:46:39] [Async Chat Thread - #1/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mto get back here type /spawn[m
+[09:46:51] [Async Chat Thread - #1/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mCterCreeper[0;32;1m> > [0;37;22mk[m
+[09:47:12] [Async Chat Thread - #1/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mbrb gotta work on some stuff[m
+[09:47:18] [Async Chat Thread - #1/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mthudog77[0;32;1m> > [0;37;22mill turn the rain off though[m
+[09:47:20] [Async Chat Thread - #1/INFO]: [0;32;1m<[0;37;22m[0;32;1m> [0;32;1m<[0;37;22mCterCreeper[0;32;1m> > [0;37;22mook[m
+[09:47:20] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[09:47:20] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
+[09:47:32] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[09:47:32] [Server thread/INFO]: thudog77 left the game.
+[09:47:48] [Server thread/INFO]: CterCreeper issued server command: /spawn
+[09:51:35] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] sorry i have to put down the server real quick[m
+[09:51:44] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[09:51:44] [Server thread/INFO]: Stopping server
+[09:51:44] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[09:51:44] [Server thread/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.4
+[09:51:44] [Server thread/INFO]: [PermissionsBukkit] Disabled successfully, 1 online players unregistered
+[09:51:44] [Server thread/INFO]: [EasySpawn] Disabling EasySpawn v1.7.9-R0.1
+[09:51:44] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-05.1569-
+[09:51:44] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[09:51:44] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[09:51:44] [Server thread/INFO]: [RandomBox] Disabling RandomBox v1.6
+[09:51:44] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[09:51:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[09:51:44] [Server thread/INFO]: [Chatomizer] Disabling Chatomizer v2.0.2
+[09:51:44] [Server thread/INFO]: [Chatomizer] Chatomizer v2.0.2 by Stealth2800 DISABLED.
+[09:51:44] [Server thread/INFO]: [EasyWarp] Disabling EasyWarp v3.2
+[09:51:44] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[09:51:44] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[09:51:44] [Server thread/INFO]: Saving players
+[09:51:44] [Server thread/INFO]: CterCreeper lost connection: Server closed
+[09:51:44] [Server thread/INFO]: CterCreeper left the game.
+[09:51:44] [Server thread/INFO]: Saving worlds
+[09:51:44] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[09:51:45] [Thread-4/INFO]: Stopping server
+[09:51:45] [Thread-4/INFO]: Saving players
+[09:51:45] [Thread-4/INFO]: Saving worlds
+[09:51:45] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld

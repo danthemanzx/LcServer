@@ -1,0 +1,116 @@
+# RandomBox
+plugin.RandomBox.basic:
+       description: Basic RandomBox Perms.
+       default: false
+       children:
+          randombox.openbox: false
+          randombox.create: false
+          randombox.destroy: false
+          randombox.reload: false
+          randombox.use: false
+          randombox.additem: false
+
+# Bedhome
+plugin.BedHome.basic:
+       description: Basic BedHome Perms.
+       default: false
+       children:
+          bedhome.bed: false
+          bedhome.admin: false
+          bedhome.world: false
+
+# EasyWarp
+plugin.EasyWarp.basic:
+       description: Basic EasyWarp Perms.
+       default: false
+       children:
+          easywarp.delwarp: false
+          easywarp.setwarp: false
+          easywarp.warp: true
+          easywarp.bypass: false
+          easywarp.listall: false
+          easywarp.list: false
+
+# LoreLocks
+plugin.BedHome.basic:
+       description: Basic LoreLocks Perms.
+       default: false
+       children:
+          lorelocks.pick.1: false
+          lorelocks.pick.2: false
+          lorelocks.pick.3: false
+          lorelocks.pick.4: false
+          lorelocks.pick.5: false
+          lorelocks.bypass: false
+          lorelocks.lockpick.craft: false
+          lorelocks.skeletonkey.craft: false
+          lorelocks.key.create: false
+          
+# MultiVerseCore
+plugin.MVC.basic:
+       description: Basic MVC Perms.
+       default: false
+       children:
+          multiverse.help: false
+          multiverse.core.confirm: false
+          multiverse.core.coord: false
+          multiverse.core.info: false
+          multiverse.core.list.environments: false
+          multiverse.core.list.who: false
+          multiverse.core.list.worlds: false
+          multiverse.core.create: false
+          multiverse.core.import: false
+          multiverse.core.modify: false
+          multiverse.core.modify.add: false
+          multiverse.core.modify.clear: false
+          multiverse.core: false
+
+# MultiVersePortals
+plugin.MCP.basic:
+       description: Basic MCP Perms.
+       default: false
+       children:
+          bedhome.bed: false
+          bedhome.admin: false
+          bedhome.world: false
+          multiverse.portal.givewand: false
+          multiverse.portal: false
+          multiverse.portal.list: false
+          multiverse.portal.modify: false
+          multiverse.portal.remove: false
+          multiverse.portal.select: false
+          multiverse.portal.access: false
+          multiverse.portal.exempt: false
+
+# Orbfuscator
+plugin.Orb.basic:
+       description: Basic Orbfuscator Perms.
+       default: false
+       children:
+          Orebfuscator.deobfuscate: false
+          Orebfuscator.admin: false
+
+# RandomBox
+plugin.RandomBox.basic:
+       description: Basic RandomBox Perms.
+       default: false
+       children:
+
+# ShopKeeper
+plugin.ShopKeeper.basic:
+       description: Basic ShopKeeper Perms.
+       default: false
+       children:
+ 
+ # backpacks
+ plugin.backpacks.basic:
+        description: Basic backpacks Perms.
+        default: false
+        children:
+          backpacks.*: false
+          backpacks.admin: false
+          backpacks.help: false
+          backpacks.use: true
+          backpacks.list: true
+          backpacks.delete.self: true
+          backpacks.max.bypass: false
