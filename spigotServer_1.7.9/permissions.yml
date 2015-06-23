@@ -9,7 +9,7 @@ plugin.RandomBox.basic:
        description: Basic RandomBox Perms.
        default: false
        children:
-          randombox.openbox: true
+          randombox.openbox: false
           randombox.create: false
           randombox.destroy: false
           randombox.reload: false
