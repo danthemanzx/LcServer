@@ -108,13 +108,12 @@ plugin.SpawnTP.basic:
        default: false
        children:
           spawntp.setspawn: false
-          spawntp.spawn: false
+          spawntp.spawn: true
           spawntp.spawn.others: false
           spawntp.reload: false
           spawntp.location: false
           spawntp.firework: false
-          spawntp.setworldspawn: false
-          spawntp.setworldspawn: false
+          spawntp.setworldspawn: true
           spawntp.bypass: false
           spawntp.quitmessage: false
           spawntp.joinmessage: false
