@@ -101,21 +101,3 @@ plugin.ShopKeeper.basic:
        description: Basic ShopKeeper Perms.
        default: false
        children:
-
-# SpawnTP
-plugin.SpawnTP.basic:
-       description: Basic SpawnTP Perms.
-       default: false
-       children:
-          spawntp.setspawn: true
-          spawntp.spawn: false
-          spawntp.spawn.others: false
-          spawntp.reload: false
-          spawntp.location: false
-          spawntp.firework: false
-          spawntp.setworldspawn: true
-          spawntp.bypass: false
-          spawntp.quitmessage: false
-          spawntp.joinmessage: false
-          spawntp.noclearchat: false
-          spawntp.noinvclear: false
