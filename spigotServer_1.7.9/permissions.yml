@@ -32,7 +32,13 @@ plugin.EasyWarp.basic:
        description: Basic EasyWarp Perms.
        default: false
        children:
-          --
+          easywarp.delwarp: false
+          easywarp.setwarp: false
+          easywarp.warp: false
+          easywarp.bypass: false
+          easywarp.listall: false
+          easywarp.list: false
+          #easywarp.[warp]
 
 # LoreLocks
 plugin.BedHome.basic:
@@ -57,7 +63,23 @@ plugin.MVC.basic:
        description: Basic MVC Perms.
        default: false
        children:
-          --
+          multiverse.help
+          #multiverse.access.[NAME]
+          #multiverse.exempt.[NAME]
+          #multiverse.teleport.self.[NAME]
+          #multiverse.teleport.other.[NAME]
+          multiverse.core.confirm: false
+          multiverse.core.coord: false
+          multiverse.core.info: false
+          multiverse.core.list.environments: false
+          multiverse.core.list.who: false
+          multiverse.core.list.worlds: false
+          multiverse.core.create: false
+          multiverse.core.import: false
+          multiverse.core.modify: false
+          multiverse.core.modify.add: false
+          multiverse.core.modify.clear: false
+          multiverse.core.: false
 
 # MultiVersePortals
 plugin.MCP.basic:
