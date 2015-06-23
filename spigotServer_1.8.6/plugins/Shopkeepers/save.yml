@@ -6,7 +6,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: 9fe2eda4-5dcd-4170-91cb-ee7ca8a69f98
+  uuid: e7eb3ea3-0b14-47e2-b8c5-2aa7adf67a14
   prof: 0
   recipes:
     '0':
@@ -74,7 +74,7 @@
   z: 125
   type: admin
   object: villager
-  uuid: 8b803be5-b53e-4c42-b483-155db8c78591
+  uuid: a82bc2d2-4d01-4faa-9e4c-5de0612812cc
   prof: 0
   recipes:
     '0':
@@ -149,7 +149,7 @@
   z: 133
   type: admin
   object: villager
-  uuid: 0fe64555-0d82-4250-93c4-d9a76f98990c
+  uuid: 0058fbc9-83bb-4fb8-b8c4-5c547c3aba18
   prof: 0
   recipes:
     '0':
@@ -224,7 +224,7 @@
   z: 124
   type: admin
   object: villager
-  uuid: 14cdb1ab-7d63-41ab-b87d-8ef1ad9a647f
+  uuid: 20162ade-4dbd-44a9-9253-1ea6d6ec29d9
   prof: 0
   recipes:
     '0':
@@ -299,7 +299,7 @@
   z: 134
   type: admin
   object: villager
-  uuid: 33570a92-9eb4-468f-a3e9-f8e858cbc78c
+  uuid: f5240ebf-67bf-44bf-a9fb-84fd2a6e0e3c
   prof: 3
   recipes:
     '0':
@@ -374,7 +374,7 @@
   z: 140
   type: admin
   object: villager
-  uuid: 84aa3a81-17e1-44a2-bf7c-a6fde4a2bc5e
+  uuid: 456ceda6-b842-483c-b10a-5993a17c72f8
   prof: 2
   recipes:
     '0':
@@ -450,7 +450,7 @@
   z: 138
   type: admin
   object: villager
-  uuid: 3078a7ff-8b8c-40d8-a8d3-7d9d5038ecbd
+  uuid: 24b65720-858a-4b93-ac33-39895f6d89c9
   prof: 4
   recipes: {}
 '7':
@@ -461,7 +461,7 @@
   z: 118
   type: admin
   object: villager
-  uuid: bc4167fd-85aa-4dac-8ab1-09cdc3c1553c
+  uuid: 89339c80-8d21-4822-9fc5-25dbed651c97
   prof: 4
   recipes:
     '0':
@@ -539,7 +539,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: 4ca0dc61-f956-4e84-9a8a-ba5106d5c400
+  uuid: 6f7d6c75-e128-402c-857a-328d77723176
   prof: 0
   recipes:
     '0':
