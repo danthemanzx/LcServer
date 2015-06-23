@@ -5,7 +5,7 @@
 boxItem: STORAGE_MINECART
 
 # Box name, can be colored with &<color code>
-boxName: '&6Warrior box'
+boxName: '&7Starter Kit'
 
 # Drop items amount
 # If it more than 9, gui will not open
@@ -25,103 +25,127 @@ unstackable: true
 
 # Items that can drop
 items:
-  # Some name
   item1:
-    # Item id (numeric or string)
-    item: DIAMOND_SWORD
-    # Data value
-    data: 0
-    # Item amount
+    item: STONE_AXE
     amount: 1
-    # Item name, can be colored with &<color code>
-    # If there is no "name" parameter, item will not added to list in box lore.
-    name: '&cDiamond sword'
-    # Item lore, can be colored with &<color code>
-    # Format: every list item - 'item' is another line.
+    name: '&eStone Axe'
     lore:
-    - '&7This sword dropped'
-    - '&7from a box.'
-    # Enchants on item.
-    # Format: <ench name>:<any level>
+    - '&7Apart of the starter kit.'
+    - '&7Very durable.'
     enchants:
-      sharpness: 8
       unbreaking: 5
-      fire: 4
-      knockback: 2
-    # Message, that will send to other players when this item dropped.
-    # Remove it or leave empty to disable broadcasting.
-    # %player% will be replaced with name of player, which opened box.
-    broadcastMessage: '&6%player% got an amazing diamond sword from RandomBox!'
-    # Probability of drop
-    chance: 2
+    chance: 100
   item2:
-    item: IRON_SWORD
-    amount: 1
-    name: '&6Iron sword'
-    enchants:
-      sharpness: 5
-      unbreaking: 3
-      knockback: 2
-    chance: 3
+    item: WHEAT_SEEDS
+    amount: 2
+    name: '&eWheat Seeds'
+    chance: 25
   item3:
-    item: STONE_SWORD
-    amount: 1
-    name: '&eStone sword'
-    enchants:
-      sharpness: 3
-      unbreaking: 3
-      knockback: 2
-    chance: 4
+    item: PUMPKIN_SEEDS
+    amount: 2
+    name: '&ePumpkin Seeds'
+    chance: 25
   item4:
-    item: BOW
-    amount: 1
-    name: '&eBow'
-    enchants:
-      power: 3
-      unbreaking: 3
-      infinity: 1
-    chance: 6
-  item5:
-    item: GOLDEN_APPLE
-    name: '&rGolden apple'
-    # If true, item stack won't have a name.
-    dontAssignName: true
-    amount: 4
-    chance: 8
-  item6:
-    # If this section is presented, when this item drop will be executed specified commands.
-    # In this case, player will get 10 levels.
-    # If you want only execute commands (without giving item), set dontGiveItem to true.
-    commands:
-      # Some name
-      command1:
-        # Command name without '/' and arguments.
-        # %player% will be replaced with player name.
-        line: 'xp give %player% 10L'
-        # Execute command from console or player
-        fromConsole: true
-    dontGiveItem: true
-    item: EXP_BOTTLE
-    name: '&rExp (10 lvl)'
-    amount: 1
-    chance: 30
-  item7:
-    commands:
-      command1:
-        line: 'xp give %player% 6L'
-        fromConsole: true
-    dontGiveItem: true
-    item: EXP_BOTTLE
-    name: '&rExp (6 lvl)'
-    amount: 1
-    chance: 35
-  item8:
-    commands:
-      command1:
-        line: 'xp give %player% 3L'
-        fromConsole: true
-    dontGiveItem: true
-    item: EXP_BOTTLE
-    name: '&rExp (3 lvl)'
-    amount: 1
-    chance: 45
+    item: MELON_SEEDS
+    amount: 2
+    name: '&eMelon Seeds'
+    chance: 25
+  # item1:
+    # # Item id (numeric or string)
+    # item: DIAMOND_SWORD
+    # # Data value
+    # data: 0
+    # # Item amount
+    # amount: 1
+    # # Item name, can be colored with &<color code>
+    # # If there is no "name" parameter, item will not added to list in box lore.
+    # name: '&cDiamond sword'
+    # # Item lore, can be colored with &<color code>
+    # # Format: every list item - 'item' is another line.
+    # lore:
+    # - '&7This sword dropped'
+    # - '&7from a box.'
+    # # Enchants on item.
+    # # Format: <ench name>:<any level>
+    # enchants:
+      # sharpness: 8
+      # unbreaking: 5
+      # fire: 4
+      # knockback: 2
+    # # Message, that will send to other players when this item dropped.
+    # # Remove it or leave empty to disable broadcasting.
+    # # %player% will be replaced with name of player, which opened box.
+    # broadcastMessage: '&6%player% got an amazing diamond sword from RandomBox!'
+    # # Probability of drop
+    # chance: 2
+  # item2:
+    # item: IRON_SWORD
+    # amount: 1
+    # name: '&6Iron sword'
+    # enchants:
+      # sharpness: 5
+      # unbreaking: 3
+      # knockback: 2
+    # chance: 3
+  # item3:
+    # item: STONE_SWORD
+    # amount: 1
+    # name: '&eStone sword'
+    # enchants:
+      # sharpness: 3
+      # unbreaking: 3
+      # knockback: 2
+    # chance: 4
+  # item4:
+    # item: BOW
+    # amount: 1
+    # name: '&eBow'
+    # enchants:
+      # power: 3
+      # unbreaking: 3
+      # infinity: 1
+    # chance: 6
+  # item5:
+    # item: GOLDEN_APPLE
+    # name: '&rGolden apple'
+    # # If true, item stack won't have a name.
+    # dontAssignName: true
+    # amount: 4
+    # chance: 8
+  # item6:
+    # # If this section is presented, when this item drop will be executed specified commands.
+    # # In this case, player will get 10 levels.
+    # # If you want only execute commands (without giving item), set dontGiveItem to true.
+    # commands:
+      # # Some name
+      # command1:
+        # # Command name without '/' and arguments.
+        # # %player% will be replaced with player name.
+        # line: 'xp give %player% 10L'
+        # # Execute command from console or player
+        # fromConsole: true
+    # dontGiveItem: true
+    # item: EXP_BOTTLE
+    # name: '&rExp (10 lvl)'
+    # amount: 1
+    # chance: 30
+  # item7:
+    # commands:
+      # command1:
+        # line: 'xp give %player% 6L'
+        # fromConsole: true
+    # dontGiveItem: true
+    # item: EXP_BOTTLE
+    # name: '&rExp (6 lvl)'
+    # amount: 1
+    # chance: 35
+  # item8:
+    # commands:
+      # command1:
+        # line: 'xp give %player% 3L'
+        # fromConsole: true
+    # dontGiveItem: true
+    # item: EXP_BOTTLE
+    # name: '&rExp (3 lvl)'
+    # amount: 1
+    # chance: 45
