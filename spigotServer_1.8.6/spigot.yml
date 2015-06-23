@@ -14,9 +14,19 @@ config-version: 8
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  moved-wrongly-threshold: 0.0625
+  sample-count: 12
+  player-shuffle: 0
+  bungeecord: false
+  late-bind: false
+  int-cache-limit: 1024
+  netty-threads: 4
+  user-cache-size: 1000
+  timeout-time: 60
+  restart-on-crash: false
+  restart-script: ./start.sh
   moved-too-quickly-threshold: 100.0
   filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
   attribute:
     maxHealth:
       max: 2048.0
@@ -24,17 +34,18 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  timeout-time: 60
-  restart-on-crash: false
-  restart-script: ./start.sh
-  netty-threads: 4
-  int-cache-limit: 1024
-  bungeecord: false
-  user-cache-size: 1000
-  sample-count: 12
-  player-shuffle: 0
-  late-bind: false
   global-api-cache: false
+commands:
+  tab-complete: 0
+  log: true
+  silent-commandblock-console: false
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -42,17 +53,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  tab-complete: 0
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  silent-commandblock-console: false
-  spam-exclusions:
-  - /skill
-  log: true
 stats:
   disable-saving: false
   forced-stats: {}
@@ -63,37 +63,16 @@ world-settings:
       item: 2.5
       exp: 3.0
     item-despawn-rate: 6000
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    nerf-spawner-mobs: false
-    max-entity-collisions: 8
-    max-bulk-chunks: 5
-    seed-village: 10387312
-    seed-feature: 14357617
-    dragon-death-sound-radius: 0
+    zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true
+    chunks-per-tick: 650
+    clear-tick-list: false
     arrow-despawn-rate: 1200
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    save-structure-info: true
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    hopper-amount: 1
+    hunger:
+      walk-exhaustion: 0.2
+      sprint-exhaustion: 0.8
+      combat-exhaustion: 0.3
+      regen-exhaustion: 3.0
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -114,22 +93,43 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    mob-spawn-range: 4
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    hopper-amount: 1
     random-light-updates: false
-    hunger:
-      walk-exhaustion: 0.2
-      sprint-exhaustion: 0.8
-      combat-exhaustion: 0.3
-      regen-exhaustion: 3.0
+    mob-spawn-range: 4
+    save-structure-info: true
     max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
       entity: 50
-    hanging-tick-frequency: 100
     wither-spawn-sound-radius: 0
-    enable-zombie-pigmen-portal-spawns: true
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    nerf-spawner-mobs: false
+    dragon-death-sound-radius: 0
+    max-bulk-chunks: 5
+    seed-village: 10387312
+    seed-feature: 14357617
+    max-entity-collisions: 8
     view-distance: 10
-    chunks-per-tick: 650
-    clear-tick-list: false
-    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
     hopper-alt-ticking: false
