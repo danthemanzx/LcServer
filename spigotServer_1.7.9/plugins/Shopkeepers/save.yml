@@ -1,11 +1,43 @@
 '0':
-  uniqueId: e4bd5cb6-eb88-4942-8ac1-1f85ef002895
+  uniqueId: c53aab0e-c15a-4304-b96c-2b044c9f01c3
   world: world
   x: -172
   y: 63
   z: 120
   type: admin
   object: villager
-  uuid: 96f337af-b640-9b43-4be2-1e7256f80cb8
-  prof: 3
-  recipes: {}
+  uuid: 1cbfc72a-c340-815d-1a60-e8ca5977828a
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 16
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 17
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 3
