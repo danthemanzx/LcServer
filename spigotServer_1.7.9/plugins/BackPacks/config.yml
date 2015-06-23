@@ -1,0 +1,33 @@
+# BackPacks++ by CaptainBern!
+# Usage:
+#    A full guide of commands, permissions, etc can be found at: http://www.bernblog.kissr.com/projects.html/
+#    You can easily create new types of backpacks by simply adding a file with the '.yml' extension to the
+#    recipes list. The easiest way is just to copy the original BaseBackPack.yml file and change the values to
+#    whatever you want. Also the plugin often updates so there are new backpack features, if the plugin suddenly doesn't work
+#    anymore then first take a look at the error.txt or log.txt file, (located at: plugin/BackPacks) if these files aren't present
+#    then check the console for errors. Then report those errors back to me at bukkit-dev.
+# Make a backup of the configuration! (It auto updates ever new build! (since too many people started complaining the plugin
+#  didn't work, because of an outdated config))
+# Do NOT change the version
+version: 4.0.1
+
+# Should I notify you when there is a new version?
+update-checker: true
+
+# Do you want to support the plugin by letting it use metrics? (please don't disable this)
+metrics: true
+
+# Here you can define if the plugin logs several things like who registered a backpack at which time
+# and who tried to open someone else's backpack...
+log: true
+
+# The plugins has multi-world support
+multiworld:
+    enabled: false           
+    worlds:                   
+      - world                 
+      - world_nether
+      - world_the_end
+      
+
+

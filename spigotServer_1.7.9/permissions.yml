@@ -101,3 +101,16 @@ plugin.ShopKeeper.basic:
        description: Basic ShopKeeper Perms.
        default: false
        children:
+ 
+ # backpacks
+ plugin.backpacks.basic:
+        description: Basic backpacks Perms.
+        default: false
+        children:
+          backpacks.*: false
+          backpacks.admin: false
+          backpacks.help: false
+          backpacks.use: true
+          backpacks.list: true
+          backpacks.delete.self: true
+          backpacks.max.bypass: false
