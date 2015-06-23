@@ -10,6 +10,11 @@ plugin.RandomBox.basic:
        default: false
        children:
           randombox.openbox: true
+          randombox.create: false
+          randombox.destroy: false
+          randombox.reload: false
+          randombox.use: false
+          randombox.additem: false
 # Ranks
 rank.player:
        description: Player Perms.
