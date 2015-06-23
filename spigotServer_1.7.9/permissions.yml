@@ -11,7 +11,7 @@ plugin.RandomBox.basic:
        description: Basic RandomBox Perms.
        default: false
        children:
-          randombox.openbox: true
+          randombox.openbox: false
           randombox.create: false
           randombox.destroy: false
           randombox.reload: false
@@ -23,7 +23,9 @@ plugin.BedHome.basic:
        description: Basic BedHome Perms.
        default: false
        children:
-          --
+          bedhome.bed: false
+          bedhome.admin: false
+          bedhome.world: false
 
 # EasyWarp
 plugin.EasyWarp.basic:
@@ -37,8 +39,19 @@ plugin.BedHome.basic:
        description: Basic LoreLocks Perms.
        default: false
        children:
-          --
-
+          lorelocks.pick.1:false
+          lorelocks.pick.2:false
+          lorelocks.pick.3: false
+          lorelocks.pick.4: false
+          lorelocks.pick.5: false
+          lorelocks.bypass: false
+          lorelocks.lockpick.craft: false
+          lorelocks.skeletonkey.craft: false
+          lorelocks.key.create: false
+          lorelocks.lock.<lock>.craft: false
+          lorelocks.traps.<trap>.craft: false
+          lorelocks.event.<event>.trigger: false
+          
 # MultiVerseCore
 plugin.MVC.basic:
        description: Basic MVC Perms.
@@ -51,14 +64,25 @@ plugin.MCP.basic:
        description: Basic MCP Perms.
        default: false
        children:
-          --
+          bedhome.bed: false
+          bedhome.admin: false
+          bedhome.world: false
+          multiverse.portal.givewand: false
+          multiverse.portal: false
+          multiverse.portal.list: false
+          multiverse.portal.modify: false
+          multiverse.portal.remove: false
+          multiverse.portal.select: false
+          multiverse.portal.access: false
+          multiverse.portal.exempt: false
 
 # Orbfuscator
 plugin.Orb.basic:
        description: Basic Orbfuscator Perms.
        default: false
        children:
-          --
+          Orebfuscator.deobfuscate: false
+          Orebfuscator.admin: false
 
 # RandomBox
 plugin.RandomBox.basic:
@@ -79,7 +103,19 @@ plugin.SpawnTP.basic:
        description: Basic SpawnTP Perms.
        default: false
        children:
-          --
+          spawntp.setspawn: false
+          spawntp.spawn: false
+          spawntp.spawn.others: false
+          spawntp.reload: false
+          spawntp.location: false
+          spawntp.firework: false
+          spawntp.setworldspawn: false
+          spawntp.setworldspawn: false
+          spawntp.bypass: false
+          spawntp.quitmessage: false
+          spawntp.joinmessage: false
+          spawntp.noclearchat: false
+          spawntp.noinvclear: false
 
 # WorldEdit
 plugin.WorldEdit.basic:
