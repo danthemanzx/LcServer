@@ -1,155 +1,103 @@
-[16:58:18] [Server thread/INFO]: Starting minecraft server version 1.8.6
-[16:58:18] [Server thread/INFO]: Loading properties
-[16:58:18] [Server thread/INFO]: Default game type: SURVIVAL
-[16:58:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
-[16:58:19] [Server thread/INFO]: Debug logging is disabled
-[16:58:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:58:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:58:19] [Server thread/INFO]: Generating keypair
-[16:58:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:58:19] [Server thread/INFO]: Using default channel type
-[16:58:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:58:19] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
-[16:58:19] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.7
-[16:58:19] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
-[16:58:19] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[16:58:19] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[16:58:19] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[16:58:19] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[16:58:19] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:58:19] [Server thread/INFO]: Preparing level "world"
-[16:58:19] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:58:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:19] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:19] [Server thread/INFO]: Anti X-Ray: true
-[16:58:19] [Server thread/INFO]: 	Engine Mode: 1
-[16:58:19] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:58:19] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:58:19] [Server thread/INFO]: Structure Info Saving: true
-[16:58:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:58:19] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:19] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:19] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:58:19] [Server thread/INFO]: Clear tick list: false
-[16:58:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:19] [Server thread/INFO]: Max Entity Collisions: 8
-[16:58:19] [Server thread/INFO]: Sending up to 5 chunks per packet
-[16:58:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:58:19] [Server thread/INFO]: View Distance: 10
-[16:58:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[16:58:20] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
-[16:58:20] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[16:58:20] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.7
-[16:58:20] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[16:58:20] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
-[16:58:20] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[16:58:20] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[16:58:20] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[16:58:20] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[16:58:21] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[16:58:21] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[16:58:21] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[16:58:21] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[16:58:21] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[16:58:21] [Server thread/INFO]: Done (1.795s)! For help, type "help" or "?"
-[16:58:21] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[16:58:34] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[16:58:34] [Server thread/INFO]: Error: java.lang.NullPointerException
-[16:58:34] [Server thread/WARN]: java.lang.NullPointerException
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.getItem(slot_lock.java:622)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:382)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:434)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:95)
-[16:58:34] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[16:58:34] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[16:58:34] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[16:58:34] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:474)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:465)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:159)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:817)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[16:58:34] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[16:58:34] [Server thread/INFO]: Error in item builder: No valid items found!
-[16:58:34] [Server thread/INFO]: thudog77[/127.0.0.1:62011] logged in with entity id 192 at ([world]-107.20820778579674, 65.0, 208.1927333883873)
-[16:58:34] [Server thread/INFO]: Error: java.lang.NullPointerException
-[16:58:34] [Server thread/WARN]: java.lang.NullPointerException
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.getItem(slot_lock.java:622)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:382)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:434)
-[16:58:34] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:87)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
-[16:58:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[16:58:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[16:58:34] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[16:58:34] [Server thread/INFO]: Error in item builder: No valid items found!
-[16:59:00] [Server thread/INFO]: Error: java.lang.NullPointerException
-[16:59:00] [Server thread/WARN]: java.lang.NullPointerException
-[16:59:00] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.getItem(slot_lock.java:622)
-[16:59:00] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOldSlot(slot_lock.java:401)
-[16:59:00] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerClick(slot_lock.java:269)
-[16:59:00] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[16:59:00] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[16:59:00] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[16:59:00] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[16:59:00] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
-[16:59:00] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[16:59:00] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
-[16:59:00] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1603)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
-[16:59:00] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[16:59:00] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.SystemUtils.a(SystemUtils.java:19)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:718)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[16:59:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[16:59:00] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[16:59:00] [Server thread/INFO]: Error in item builder: No valid items found!
-[16:59:10] [Server thread/INFO]: Stopping the server
-[16:59:10] [Server thread/INFO]: Stopping server
-[16:59:10] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[16:59:10] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[16:59:10] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[16:59:10] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[16:59:10] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[16:59:10] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.7
-[16:59:10] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
-[16:59:10] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[16:59:10] [Server thread/INFO]: Saving players
-[16:59:10] [Server thread/INFO]: thudog77 lost connection: Server closed
-[16:59:10] [Server thread/INFO]: thudog77 left the game.
-[16:59:10] [Server thread/INFO]: Saving worlds
-[16:59:10] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:00:38] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[17:00:38] [Server thread/INFO]: Loading properties
+[17:00:38] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[17:00:39] [Server thread/INFO]: Debug logging is disabled
+[17:00:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:00:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:00:39] [Server thread/INFO]: Generating keypair
+[17:00:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:00:39] [Server thread/INFO]: Using default channel type
+[17:00:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:00:39] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
+[17:00:39] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.6
+[17:00:39] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
+[17:00:39] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[17:00:39] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[17:00:39] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[17:00:39] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[17:00:39] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:00:39] [Server thread/INFO]: Preparing level "world"
+[17:00:39] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:00:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:00:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:00:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:00:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:00:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:00:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:00:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:00:39] [Server thread/INFO]: Sending up to 5 chunks per packet
+[17:00:39] [Server thread/INFO]: Max Entity Collisions: 8
+[17:00:39] [Server thread/INFO]: View Distance: 10
+[17:00:39] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:00:39] [Server thread/INFO]: Clear tick list: false
+[17:00:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:00:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:00:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:00:39] [Server thread/INFO]: Mob Spawn Range: 4
+[17:00:39] [Server thread/INFO]: Structure Info Saving: true
+[17:00:39] [Server thread/INFO]: Random Lighting Updates: false
+[17:00:39] [Server thread/INFO]: Anti X-Ray: true
+[17:00:39] [Server thread/INFO]: 	Engine Mode: 1
+[17:00:39] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:00:39] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:00:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:00:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:00:39] [Server thread/INFO]: Max TNT Explosions: 100
+[17:00:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:00:39] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[17:00:40] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
+[17:00:40] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[17:00:40] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.6
+[17:00:40] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[17:00:40] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[17:00:40] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[17:00:40] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[17:00:40] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[17:00:40] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[17:00:40] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:00:40] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[17:00:40] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[17:00:40] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[17:00:40] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[17:00:41] [Server thread/INFO]: Done (1.559s)! For help, type "help" or "?"
+[17:00:41] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[17:01:02] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[17:01:02] [Server thread/INFO]: Error: java.lang.NullPointerException
+[17:01:02] [Server thread/INFO]: Error in item builder: No valid items found!
+[17:01:02] [Server thread/INFO]: thudog77[/127.0.0.1:62598] logged in with entity id 190 at ([world]-106.8535030229558, 65.0, 206.02698899155172)
+[17:01:02] [Server thread/INFO]: Error: java.lang.NullPointerException
+[17:01:02] [Server thread/INFO]: Error in item builder: No valid items found!
+[17:01:34] [Server thread/INFO]: Could not op htudog77
+[17:01:39] [Server thread/INFO]: Opped thudog77
+[17:01:48] [Server thread/INFO]: thudog77 issued server command: /cl
+[17:01:50] [Server thread/INFO]: thudog77 issued server command: /sl
+[17:02:03] [Server thread/INFO]: thudog77 issued server command: /help slotlock
+[17:02:07] [Server thread/INFO]: thudog77 issued server command: /slotlock
+[17:02:10] [Server thread/INFO]: thudog77 issued server command: /
+[17:02:13] [Server thread/INFO]: thudog77 issued server command: /slotlock 2
+[17:03:30] [Server thread/INFO]: thudog77 issued server command: /antioch
+[17:03:30] [Server thread/INFO]: Error: java.lang.NullPointerException
+[17:03:30] [Server thread/INFO]: Error in item builder: No valid items found!
+[17:03:56] [Server thread/INFO]: Stopping the server
+[17:03:56] [Server thread/INFO]: Stopping server
+[17:03:56] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[17:03:56] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[17:03:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[17:03:56] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[17:03:56] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[17:03:56] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.6
+[17:03:56] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
+[17:03:56] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[17:03:56] [Server thread/INFO]: Saving players
+[17:03:56] [Server thread/INFO]: thudog77 lost connection: Server closed
+[17:03:56] [Server thread/INFO]: thudog77 left the game.
+[17:03:56] [Server thread/INFO]: Saving worlds
+[17:03:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
