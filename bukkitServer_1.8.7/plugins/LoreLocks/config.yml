@@ -90,7 +90,7 @@ locks:
       B: 'IRON_BLOCK'
   basic3:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 3
+    LockDV: 0
     LockName: 'Strong Lock'
     Difficulty: 3
     RecipeShape:
@@ -102,7 +102,7 @@ locks:
       B: 'IRON_BLOCK'
   basic4:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 4
+    LockDV: 0
     LockName: 'Tough Lock'
     Difficulty: 4
     RecipeShape:
@@ -114,7 +114,7 @@ locks:
       B: 'IRON_BLOCK'
   basic5:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 5
+    LockDV: 0
     LockName: 'Fine Lock'
     Difficulty: 5
     RecipeShape:
@@ -125,7 +125,7 @@ locks:
       B: 'IRON_BLOCK'
   master:
     LockMaterial: 'GOLD_INGOT'
-    LockDV: 6
+    LockDV: 0
     LockName: 'Masterful Lock'
     Difficulty: 6
     RecipeShape:
