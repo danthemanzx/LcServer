@@ -384,7 +384,7 @@ npc:
       owner:
         owner: thudog77
         uuid: 1242482d-c50e-44fa-9556-fe1d25921ed7
-    traitnames: sentry,inventory,waypoints,location,type,spawned,equipment,owner
+    traitnames: location,spawned,equipment,type,sentry,inventory,owner,waypoints
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: 100
