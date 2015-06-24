@@ -23,11 +23,11 @@ npc:
             DAMAGE_ALL: 3
       location:
         world: world
-        x: '-97.23930506434733'
-        y: '63.0'
-        z: '198.5560518752669'
-        yaw: '92.74200439453125'
-        pitch: '34.687721252441406'
+        x: '-148.74420464266964'
+        y: '64.0'
+        z: '157.1093468879916'
+        yaw: '235.17991638183594'
+        pitch: '33.45000457763672'
       equipment:
         hand:
           type: DIAMOND_AXE
@@ -384,7 +384,7 @@ npc:
       owner:
         owner: thudog77
         uuid: 1242482d-c50e-44fa-9556-fe1d25921ed7
-    traitnames: inventory,equipment,waypoints,location,sentry,owner,spawned,type
+    traitnames: sentry,inventory,waypoints,location,type,spawned,equipment,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: 100
