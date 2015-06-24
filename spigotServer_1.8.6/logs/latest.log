@@ -1,112 +1,118 @@
-[14:01:26] [Server thread/INFO]: Starting minecraft server version 1.8.6
-[14:01:26] [Server thread/INFO]: Loading properties
-[14:01:26] [Server thread/INFO]: Default game type: SURVIVAL
-[14:01:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
-[14:01:26] [Server thread/INFO]: Debug logging is disabled
-[14:01:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:01:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:01:26] [Server thread/INFO]: Generating keypair
-[14:01:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:01:26] [Server thread/INFO]: Using default channel type
-[14:01:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[14:01:27] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[14:01:27] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
-[14:01:27] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
-[14:01:27] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[14:01:27] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[14:01:27] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[14:01:27] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
-[14:01:27] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[14:01:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[14:01:27] [Server thread/INFO]: Preparing level "world"
-[14:01:27] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:01:27] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:01:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:01:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:01:27] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:01:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:01:27] [Server thread/INFO]: View Distance: 10
-[14:01:27] [Server thread/INFO]: Sending up to 5 chunks per packet
-[14:01:27] [Server thread/INFO]: Max Entity Collisions: 8
-[14:01:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:01:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:01:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:01:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:01:27] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:01:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[14:01:27] [Server thread/INFO]: Clear tick list: false
-[14:01:27] [Server thread/INFO]: Anti X-Ray: true
-[14:01:27] [Server thread/INFO]: 	Engine Mode: 1
-[14:01:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[14:01:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[14:01:27] [Server thread/INFO]: Mob Spawn Range: 4
-[14:01:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:01:27] [Server thread/INFO]: Random Lighting Updates: false
-[14:01:27] [Server thread/INFO]: Structure Info Saving: true
-[14:01:27] [Server thread/INFO]: Max TNT Explosions: 100
-[14:01:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:01:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:01:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[14:01:28] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[14:01:28] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[14:01:28] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[14:01:28] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[14:01:28] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[14:01:28] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[14:01:28] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
-[14:01:29] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[14:01:29] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[14:01:29] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
-[14:01:29] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[14:01:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[14:01:29] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[14:01:29] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[14:01:29] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[14:01:29] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[14:01:29] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[14:01:29] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[14:01:29] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
-[14:01:29] [Server thread/INFO]: [Sentry] Could not register with Denizen
-[14:01:29] [Server thread/INFO]: [Sentry] Could not find or register with Towny
-[14:01:29] [Server thread/INFO]: [Sentry] Could not find or register with Factions.
-[14:01:29] [Server thread/INFO]: [Sentry] Could not find or register with War. 
-[14:01:29] [Server thread/INFO]: [Sentry] Could not find or register with SimpleClans. 
-[14:01:29] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[14:01:30] [Server thread/INFO]: Done (2.915s)! For help, type "help" or "?"
-[14:01:30] [Server thread/WARN]: [Sentry] Could not register with Vault!  the GROUP target will not function.
-[14:01:30] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
-[14:02:12] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[14:02:13] [Server thread/INFO]: thudog77[/127.0.0.1:56400] logged in with entity id 219 at ([world]-165.31671534561954, 78.52099093671686, 136.97881324295543)
-[14:02:14] [Server thread/INFO]: thudog77 fell from a high place
-[14:02:20] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
-[14:02:20] [Server thread/INFO]: [thudog77: Toggled downfall]
-[14:02:22] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[14:02:22] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
-[14:02:24] [Server thread/INFO]: thudog77 issued server command: /time set 0
-[14:02:24] [Server thread/INFO]: [thudog77: Set the time to 0]
-[14:03:37] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
-[14:06:07] [Server thread/INFO]: Stopping the server
-[14:06:07] [Server thread/INFO]: Stopping server
-[14:06:07] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[14:06:07] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
-[14:06:07] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
-[14:06:07] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[14:06:07] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[14:06:07] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[14:06:07] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[14:06:07] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
-[14:06:07] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[14:06:07] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[14:06:07] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[14:06:07] [Server thread/INFO]: Saving players
-[14:06:07] [Server thread/INFO]: thudog77 lost connection: Server closed
-[14:06:07] [Server thread/INFO]: thudog77 left the game.
-[14:06:07] [Server thread/INFO]: Saving worlds
-[14:06:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:35:48] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[19:35:48] [Server thread/INFO]: Loading properties
+[19:35:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:35:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[19:35:48] [Server thread/INFO]: Debug logging is disabled
+[19:35:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:35:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:35:48] [Server thread/INFO]: Generating keypair
+[19:35:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:35:48] [Server thread/INFO]: Using default channel type
+[19:35:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:35:49] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
+[19:35:49] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
+[19:35:49] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[19:35:49] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[19:35:49] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[19:35:49] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
+[19:35:49] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[19:35:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:35:49] [Server thread/INFO]: Preparing level "world"
+[19:35:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:35:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:35:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:35:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:35:49] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:35:49] [Server thread/INFO]: Clear tick list: false
+[19:35:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:35:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:35:49] [Server thread/INFO]: View Distance: 10
+[19:35:49] [Server thread/INFO]: Structure Info Saving: true
+[19:35:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:35:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:35:49] [Server thread/INFO]: Random Lighting Updates: false
+[19:35:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:35:49] [Server thread/INFO]: Max TNT Explosions: 100
+[19:35:49] [Server thread/INFO]: Mob Spawn Range: 4
+[19:35:49] [Server thread/INFO]: Anti X-Ray: true
+[19:35:49] [Server thread/INFO]: 	Engine Mode: 1
+[19:35:49] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:35:49] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:35:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:35:49] [Server thread/INFO]: Max Entity Collisions: 8
+[19:35:49] [Server thread/INFO]: Sending up to 5 chunks per packet
+[19:35:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:35:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:35:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:35:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:35:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[19:35:49] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
+[19:35:49] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[19:35:49] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[19:35:50] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[19:35:50] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[19:35:50] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[19:35:50] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[19:35:50] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[19:35:50] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[19:35:50] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[19:35:50] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[19:35:50] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[19:35:50] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
+[19:35:50] [Server thread/INFO]: [Sentry] Could not register with Denizen
+[19:35:50] [Server thread/INFO]: [Sentry] Could not find or register with Towny
+[19:35:50] [Server thread/INFO]: [Sentry] Could not find or register with Factions.
+[19:35:50] [Server thread/INFO]: [Sentry] Could not find or register with War. 
+[19:35:50] [Server thread/INFO]: [Sentry] Could not find or register with SimpleClans. 
+[19:35:50] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[19:35:50] [Server thread/INFO]: Done (1.521s)! For help, type "help" or "?"
+[19:35:50] [Server thread/WARN]: [Sentry] Could not register with Vault!  the GROUP target will not function.
+[19:35:50] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
+[19:36:07] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[19:36:07] [Server thread/INFO]: thudog77[/127.0.0.1:50341] logged in with entity id 211 at ([world]-180.10907429274903, 67.98935410296198, 130.26316242705724)
+[19:36:11] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[19:36:11] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[19:36:26] [Server thread/INFO]: thudog77 issued server command: /npc target add monster
+[19:36:43] [Server thread/INFO]: thudog77 issued server command: /sentry target add monster
+[19:36:48] [Server thread/INFO]: thudog77 issued server command: /sentry select
+[19:36:56] [Server thread/INFO]: thudog77 issued server command: /npc select
+[19:37:00] [Server thread/INFO]: thudog77 issued server command: /sentry target add monster
+[19:37:27] [Server thread/INFO]: thudog77 issued server command: /sentry target add entity:monster
+[19:39:09] [Server thread/INFO]: thudog77 issued server command: /sentry target add pvp
+[19:39:20] [Server thread/INFO]: thudog77 issued server command: /sentry target list
+[19:39:33] [Server thread/INFO]: thudog77 issued server command: /sentry target add type:pvp
+[20:01:37] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[20:01:37] [Server thread/INFO]: [thudog77: Set the time to 0]
+[20:02:14] [Server thread/INFO]: thudog77 issued server command: /npc path
+[20:05:26] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[20:05:26] [Server thread/INFO]: [thudog77: Toggled downfall]
+[20:10:27] [Server thread/INFO]: thudog77 issued server command: /sentry target list
+[20:13:34] [Server thread/INFO]: thudog77 issued server command: /sentry target add event:pvp
+[20:13:50] [Server thread/INFO]: thudog77 issued server command: /sentry target remove type:pvp
+[20:14:24] [Server thread/INFO]: thudog77 issued server command: /sentry target add event:PvNPC
+[20:14:42] [Server thread/INFO]: thudog77 issued server command: /sentry target add event:PvSentry
+[20:16:01] [Server thread/INFO]: thudog77 issued server command: /npc path
+[20:16:04] [Server thread/INFO]: thudog77 issued server command: /npc path
+[20:16:41] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[20:16:42] [Server thread/INFO]: thudog77 left the game.
+[20:16:49] [Server thread/INFO]: Stopping the server
+[20:16:49] [Server thread/INFO]: Stopping server
+[20:16:49] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[20:16:49] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
+[20:16:49] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
+[20:16:49] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[20:16:49] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[20:16:49] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[20:16:49] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[20:16:49] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
+[20:16:49] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[20:16:49] [Server thread/INFO]: Saving players
+[20:16:49] [Server thread/INFO]: Saving worlds
+[20:16:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld

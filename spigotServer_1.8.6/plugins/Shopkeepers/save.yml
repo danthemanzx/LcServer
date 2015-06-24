@@ -6,7 +6,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: 7024923a-45ce-4e18-81f5-f42b1417abae
+  uuid: eac3c10c-7e03-4762-a421-3ef57fc63611
   prof: 0
   recipes:
     '0':
@@ -74,7 +74,7 @@
   z: 125
   type: admin
   object: villager
-  uuid: b190c89b-d747-40fa-926b-7fbf81772c04
+  uuid: aec1896f-e628-4939-9d46-235a1c1e8978
   prof: 0
   recipes:
     '0':
@@ -149,7 +149,7 @@
   z: 133
   type: admin
   object: villager
-  uuid: 1e01a11b-7949-4087-875f-58fade35ef3e
+  uuid: ea63000e-ac92-4461-a231-88df6006bb19
   prof: 0
   recipes:
     '0':
@@ -224,7 +224,7 @@
   z: 124
   type: admin
   object: villager
-  uuid: caaca8eb-13f0-4c7f-b0b4-9879e5b14ac2
+  uuid: 424d48e6-672f-49b0-a1dc-cdd40e83cb1c
   prof: 0
   recipes:
     '0':
@@ -299,7 +299,7 @@
   z: 134
   type: admin
   object: villager
-  uuid: 888a5aed-75e6-475b-afa9-a41339bf55ab
+  uuid: 36fbe16b-c833-4a26-9694-5aec5ea01eb9
   prof: 3
   recipes:
     '0':
@@ -374,7 +374,7 @@
   z: 140
   type: admin
   object: villager
-  uuid: be95704c-85f7-4696-8213-5ff447b6271b
+  uuid: 17e2e7c4-034b-4926-8e84-10725aab065f
   prof: 2
   recipes:
     '0':
@@ -450,7 +450,7 @@
   z: 138
   type: admin
   object: villager
-  uuid: b2882be4-8cc2-4c9f-b38a-c7db6d2b6fad
+  uuid: 1030127d-af84-4f21-b1d4-98e54274f732
   prof: 4
   recipes: {}
 '7':
@@ -461,7 +461,7 @@
   z: 118
   type: admin
   object: villager
-  uuid: 441c0999-50a8-48c3-9c84-4d55f5abb675
+  uuid: 197ba505-8e34-49f5-8a1e-81ea0302f493
   prof: 4
   recipes:
     '0':
@@ -539,7 +539,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: 19811a1b-7cc3-4c95-ac32-f485ac996a66
+  uuid: a76952d2-6df1-4975-836a-675e6d44dbfe
   prof: 0
   recipes:
     '0':
@@ -590,14 +590,3 @@
         ==: org.bukkit.inventory.ItemStack
         type: COOKIE
         amount: 6
-'9':
-  uniqueId: 310b1117-95c1-40d7-badd-bb33b8b7caf4
-  world: world
-  x: -167
-  y: 63
-  z: 144
-  type: admin
-  object: villager
-  uuid: 8f94151a-a5bc-4a28-b300-06b6c306af1f
-  prof: 3
-  recipes: {}
