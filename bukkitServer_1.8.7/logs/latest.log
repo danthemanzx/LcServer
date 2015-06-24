@@ -1,70 +1,66 @@
-[16:31:02] [Server thread/INFO]: Starting minecraft server version 1.8.7
-[16:31:02] [Server thread/INFO]: Loading properties
-[16:31:02] [Server thread/INFO]: Default game type: SURVIVAL
-[16:31:02] [Server thread/INFO]: Generating keypair
-[16:31:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:31:02] [Server thread/INFO]: Using default channel type
-[16:31:03] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-994b2aa (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
-[16:31:03] [Server thread/WARN]: Failed to load user banlist: 
-java.io.FileNotFoundException: banned-players.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.z(SourceFile:99) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:25) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at java.lang.Thread.run(Unknown Source) [?:1.7.0_51]
-[16:31:03] [Server thread/WARN]: Failed to load ip banlist: 
-java.io.FileNotFoundException: banned-ips.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.y(SourceFile:91) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:27) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at java.lang.Thread.run(Unknown Source) [?:1.7.0_51]
-[16:31:03] [Server thread/WARN]: Failed to load operators list: 
-java.io.FileNotFoundException: ops.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.A(SourceFile:107) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:29) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at java.lang.Thread.run(Unknown Source) [?:1.7.0_51]
-[16:31:03] [Server thread/WARN]: Failed to load white-list: 
-java.io.FileNotFoundException: whitelist.json (The system cannot find the file specified)
-	at java.io.FileInputStream.open(Native Method) ~[?:1.7.0_51]
-	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.7.0_51]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.C(SourceFile:123) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:30) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:507) [craftbukkit-1.8.7.jar:git-Bukkit-994b2aa]
-	at java.lang.Thread.run(Unknown Source) [?:1.7.0_51]
-[16:31:03] [Server thread/INFO]: Preparing level "world"
-[16:31:03] [Server thread/WARN]: Unable to find spawn biome
-[16:31:03] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3639580049676435250)
-[16:31:04] [Server thread/INFO]: Preparing spawn area: 8%
-[16:31:05] [Server thread/INFO]: Preparing spawn area: 18%
-[16:31:06] [Server thread/INFO]: Preparing spawn area: 28%
-[16:31:07] [Server thread/INFO]: Preparing spawn area: 36%
-[16:31:08] [Server thread/INFO]: Preparing spawn area: 46%
-[16:31:09] [Server thread/INFO]: Preparing spawn area: 56%
-[16:31:10] [Server thread/INFO]: Preparing spawn area: 65%
-[16:31:11] [Server thread/INFO]: Preparing spawn area: 74%
-[16:31:12] [Server thread/INFO]: Preparing spawn area: 84%
-[16:31:13] [Server thread/INFO]: Preparing spawn area: 94%
-[16:31:14] [Server thread/INFO]: Done (10.991s)! For help, type "help" or "?"
-[16:31:17] [Server thread/INFO]: Stopping the server
-[16:31:17] [Server thread/INFO]: Stopping server
-[16:31:17] [Server thread/INFO]: Saving players
-[16:31:17] [Server thread/INFO]: Saving worlds
-[16:31:17] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:33:29] [Server thread/INFO]: Starting minecraft server version 1.8.7
+[16:33:29] [Server thread/INFO]: Loading properties
+[16:33:29] [Server thread/INFO]: Default game type: SURVIVAL
+[16:33:29] [Server thread/INFO]: Generating keypair
+[16:33:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:33:29] [Server thread/INFO]: Using default channel type
+[16:33:29] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-994b2aa (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
+[16:33:29] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[16:33:29] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
+[16:33:29] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
+[16:33:29] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[16:33:29] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[16:33:29] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[16:33:29] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
+[16:33:29] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[16:33:29] [Server thread/INFO]: Preparing level "world"
+[16:33:29] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[16:33:30] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[16:33:30] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[16:33:30] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[16:33:30] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[16:33:30] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[16:33:30] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[16:33:30] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
+[16:33:30] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[16:33:30] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[16:33:30] [Server thread/ERROR]: [Citizens] v2.0.16-SNAPSHOT (build 1239) is not compatible with Minecraft v1.8.7 - try upgrading or downgrading Citizens. Disabling.
+[16:33:30] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[16:33:30] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[16:33:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[16:33:30] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[16:33:30] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[16:33:30] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[16:33:30] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[16:33:30] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[16:33:30] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[16:33:30] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
+[16:33:30] [Server thread/ERROR]: [Sentry] Citizens 2.0 not found or not enabled
+[16:33:30] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
+[16:33:30] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
+[16:33:30] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[16:33:31] [Server thread/INFO]: Done (1.326s)! For help, type "help" or "?"
+[16:34:09] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[16:34:11] [Server thread/INFO]: thudog77[/127.0.0.1:52479] logged in with entity id 244 at ([world]135.22930616765717, 66.0, 335.636553666359)
+[16:34:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2538ms behind, skipping 50 tick(s)
+[16:34:24] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[16:34:28] [Server thread/INFO]: Opped thudog77
+[16:34:32] [Server thread/INFO]: Opped daltons84
+[16:34:43] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[16:34:43] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[16:36:49] [Server thread/INFO]: thudog77 issued server command: /shopkeeper
+[16:43:49] [Server thread/INFO]: Stopping the server
+[16:43:49] [Server thread/INFO]: Stopping server
+[16:43:49] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[16:43:49] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[16:43:49] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[16:43:49] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[16:43:49] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
+[16:43:49] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[16:43:49] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[16:43:49] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[16:43:49] [Server thread/INFO]: Saving players
+[16:43:49] [Server thread/INFO]: thudog77 lost connection: Server closed
+[16:43:49] [Server thread/INFO]: thudog77 left the game.
+[16:43:49] [Server thread/INFO]: Saving worlds
+[16:43:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld

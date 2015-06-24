@@ -1,0 +1,603 @@
+'0':
+  uniqueId: c53aab0e-c15a-4304-b96c-2b044c9f01c3
+  world: world
+  x: -172
+  y: 63
+  z: 120
+  type: admin
+  object: villager
+  uuid: de444212-69ff-4771-8415-9ae34032b380
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_SWORD
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_SWORD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_SWORD
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 12
+'1':
+  uniqueId: 9c8b9491-09f4-4683-bfe4-76b93a53ecf0
+  world: world
+  x: -172
+  y: 63
+  z: 125
+  type: admin
+  object: villager
+  uuid: 1d862ef4-13c1-4761-a136-b07faea69a91
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_SPADE
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_PICKAXE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_AXE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_SPADE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_PICKAXE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_HOE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_HOE
+'2':
+  uniqueId: 284e186f-0790-4fe0-8bf9-cf3895ec6eac
+  world: world
+  x: -172
+  y: 63
+  z: 133
+  type: admin
+  object: villager
+  uuid: f3469d0d-50bc-45fa-b724-674668915ddf
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_BOOTS
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_LEGGINGS
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_CHESTPLATE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_BOOTS
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_LEGGINGS
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_CHESTPLATE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CHAINMAIL_HELMET
+'3':
+  uniqueId: 70dfe7b3-d984-407a-b01c-fb33d1abc4f9
+  world: world
+  x: -172
+  y: 63
+  z: 124
+  type: admin
+  object: villager
+  uuid: 38d65c15-b155-4833-b81b-3b735bd2e894
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_SPADE
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_PICKAXE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_AXE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SPADE
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HOE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_HOE
+'4':
+  uniqueId: b747d454-60d0-4863-a30e-358802ff6113
+  world: world
+  x: -172
+  y: 63
+  z: 134
+  type: admin
+  object: villager
+  uuid: 970f0659-0dde-435e-bfbd-832b8547a4ef
+  prof: 3
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 6
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BOOTS
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_LEGGINGS
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_CHESTPLATE
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 6
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_HELMET
+'5':
+  uniqueId: 919d1054-7f1e-41a3-88a9-9e61c3aa7f02
+  world: world
+  x: -172
+  y: 63
+  z: 140
+  type: admin
+  object: villager
+  uuid: d527d50c-431b-4720-b696-34763adb6a92
+  prof: 2
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS_BOTTLE
+        amount: 12
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 18
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: FERMENTED_SPIDER_EYE
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 30
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GHAST_TEAR
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 24
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 33
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREWING_STAND_ITEM
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPECKLED_MELON
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 12
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CAULDRON_ITEM
+'6':
+  uniqueId: f375aad4-4133-4d3b-b0ab-b6cbb9503265
+  world: world
+  x: -172
+  y: 63
+  z: 138
+  type: admin
+  object: villager
+  uuid: c44225b9-1c4f-4e6d-9927-c24cacd623c7
+  prof: 4
+  recipes: {}
+'7':
+  uniqueId: 8e4f7d3b-e6ef-4af2-9192-e65c7b56c1e8
+  world: world
+  x: -158
+  y: 63
+  z: 118
+  type: admin
+  object: villager
+  uuid: e5f62be0-279d-4593-9c2a-8f7cb4cf8f1c
+  prof: 4
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PORK
+        amount: 3
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_BEEF
+        amount: 2
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_FISH
+        amount: 4
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_CHICKEN
+        amount: 5
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 5
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 5
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON
+        amount: 6
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_FISH
+        damage: 1
+'8':
+  uniqueId: 11c7e4be-8c1b-4594-9a05-149ff716fae1
+  world: world
+  x: -158
+  y: 63
+  z: 120
+  type: admin
+  object: villager
+  uuid: 0b5a94c6-644c-44ed-8058-7f7b98dc0b3f
+  prof: 0
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 12
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MUSHROOM_SOUP
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: POISONOUS_POTATO
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Potatto
+          repair-cost: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 6
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+        amount: 6
+'9':
+  uniqueId: 21520449-f010-4adb-9e81-0975c18f78ef
+  world: world
+  x: -167
+  y: 63
+  z: 144
+  type: admin
+  object: villager
+  uuid: 6324eb9b-c218-4308-8692-d31d05004897
+  prof: 3
+  recipes: {}
