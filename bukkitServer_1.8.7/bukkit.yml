@@ -22,6 +22,9 @@ settings:
   query-plugins: true
   deprecated-verbose: default
   shutdown-message: Server closed
+  ping-packet-limit: 100
+  use-exact-login-location: false
+  world-container: worlds
 spawn-limits:
   monsters: 70
   animals: 15
@@ -41,3 +44,14 @@ database:
   driver: org.sqlite.JDBC
   password: walrus
   url: jdbc:sqlite:{DIR}{NAME}.db
+auto-updater:
+  enabled: true
+  on-broken:
+  - warn-console
+  - warn-ops
+  on-update:
+  - warn-console
+  - warn-ops
+  preferred-channel: rb
+  host: dl.bukkit.org
+  suggest-channels: true
