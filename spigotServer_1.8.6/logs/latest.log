@@ -1,156 +1,205 @@
-[17:16:43] [Server thread/INFO]: Starting minecraft server version 1.8.6
-[17:16:43] [Server thread/INFO]: Loading properties
-[17:16:43] [Server thread/INFO]: Default game type: SURVIVAL
-[17:16:43] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
-[17:16:44] [Server thread/INFO]: Debug logging is disabled
-[17:16:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:16:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:16:44] [Server thread/INFO]: Generating keypair
-[17:16:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:16:44] [Server thread/INFO]: Using default channel type
-[17:16:44] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[17:16:44] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
-[17:16:44] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.3
-[17:16:44] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
-[17:16:44] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[17:16:44] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[17:16:44] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[17:16:44] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[17:16:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[17:16:44] [Server thread/INFO]: Preparing level "world"
-[17:16:44] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:16:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[17:16:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:16:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:16:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[17:16:44] [Server thread/INFO]: Sending up to 5 chunks per packet
-[17:16:44] [Server thread/INFO]: Max Entity Collisions: 8
-[17:16:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:16:44] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:16:44] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:16:44] [Server thread/INFO]: View Distance: 10
-[17:16:44] [Server thread/INFO]: Mob Spawn Range: 4
-[17:16:44] [Server thread/INFO]: Anti X-Ray: true
-[17:16:44] [Server thread/INFO]: 	Engine Mode: 1
-[17:16:44] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[17:16:44] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[17:16:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[17:16:44] [Server thread/INFO]: Structure Info Saving: true
-[17:16:44] [Server thread/INFO]: Max TNT Explosions: 100
-[17:16:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:16:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:16:44] [Server thread/INFO]: Random Lighting Updates: false
-[17:16:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:16:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:16:44] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:16:44] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[17:16:44] [Server thread/INFO]: Clear tick list: false
-[17:16:44] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[17:16:45] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
-[17:16:45] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[17:16:45] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.3
-[17:16:45] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[17:16:45] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
-[17:16:45] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[17:16:45] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[17:16:45] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[17:16:45] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[17:16:45] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[17:16:45] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[17:16:45] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[17:16:45] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[17:16:45] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[17:16:45] [Server thread/INFO]: Done (1.465s)! For help, type "help" or "?"
-[17:16:46] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[17:17:42] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[17:17:42] [Server thread/WARN]: java.lang.NullPointerException
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:327)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:364)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:474)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:465)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:159)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:817)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[17:17:42] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[17:17:42] [Server thread/WARN]: java.lang.NullPointerException
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:370)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.onPlayerTeleport(slot_lock.java:96)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:474)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:465)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.a(PlayerList.java:159)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.b(LoginListener.java:144)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.LoginListener.c(LoginListener.java:54)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.NetworkManager.a(NetworkManager.java:231)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.ServerConnection.c(ServerConnection.java:148)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:817)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[17:17:42] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[17:17:42] [Server thread/INFO]: thudog77[/127.0.0.1:65473] logged in with entity id 187 at ([world]-100.69465853385869, 65.0, 205.25787416165406)
-[17:17:42] [Server thread/WARN]: java.lang.NullPointerException
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.clearOld(slot_lock.java:327)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:364)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:88)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[17:17:42] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[17:17:42] [Server thread/WARN]: java.lang.NullPointerException
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock.updateSlots(slot_lock.java:370)
-[17:17:42] [Server thread/WARN]: 	at io.hotmail.com.jacob_vejvoda.slot_lock.slot_lock$2.run(slot_lock.java:88)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
-[17:17:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:726)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:367)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:657)
-[17:17:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:560)
-[17:17:42] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[17:17:56] [Server thread/INFO]: Stopping the server
-[17:17:56] [Server thread/INFO]: Stopping server
-[17:17:56] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[17:17:56] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[17:17:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[17:17:56] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[17:17:56] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[17:17:56] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.3
-[17:17:56] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
-[17:17:56] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[17:17:56] [Server thread/INFO]: Saving players
-[17:17:56] [Server thread/INFO]: thudog77 lost connection: Server closed
-[17:17:56] [Server thread/INFO]: thudog77 left the game.
-[17:17:56] [Server thread/INFO]: Saving worlds
-[17:17:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:35:27] [Server thread/INFO]: Starting minecraft server version 1.8.6
+[18:35:27] [Server thread/INFO]: Loading properties
+[18:35:27] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-044d928-e8c6403 (MC: 1.8.6) (Implementing API version 1.8.6-R0.1-SNAPSHOT)
+[18:35:27] [Server thread/INFO]: Debug logging is disabled
+[18:35:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:35:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:35:27] [Server thread/INFO]: Generating keypair
+[18:35:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:27] [Server thread/INFO]: Using default channel type
+[18:35:28] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:35:28] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
+[18:35:28] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
+[18:35:28] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[18:35:28] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[18:35:28] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[18:35:28] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
+[18:35:28] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[18:35:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:35:28] [Server thread/INFO]: Preparing level "world"
+[18:35:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:35:28] [Server thread/INFO]: View Distance: 10
+[18:35:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:35:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:35:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:35:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:35:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:35:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:35:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:35:28] [Server thread/INFO]: Clear tick list: false
+[18:35:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:35:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:35:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:35:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:35:28] [Server thread/INFO]: Sending up to 5 chunks per packet
+[18:35:28] [Server thread/INFO]: Max Entity Collisions: 8
+[18:35:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:35:28] [Server thread/INFO]: Mob Spawn Range: 4
+[18:35:28] [Server thread/INFO]: Anti X-Ray: true
+[18:35:28] [Server thread/INFO]: 	Engine Mode: 1
+[18:35:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:35:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:35:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:35:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:35:28] [Server thread/INFO]: Random Lighting Updates: false
+[18:35:28] [Server thread/INFO]: Structure Info Saving: true
+[18:35:28] [Server thread/INFO]: Max TNT Explosions: 100
+[18:35:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[18:35:28] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
+[18:35:29] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[18:35:29] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[18:35:29] [Server thread/INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[18:35:29] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[18:35:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[18:35:29] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[18:35:29] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[18:35:29] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[18:35:29] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[18:35:29] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[18:35:29] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[18:35:29] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
+[18:35:29] [Server thread/INFO]: [Sentry] Could not register with Denizen
+[18:35:29] [Server thread/INFO]: [Sentry] Could not find or register with Towny
+[18:35:29] [Server thread/INFO]: [Sentry] Could not find or register with Factions.
+[18:35:29] [Server thread/INFO]: [Sentry] Could not find or register with War. 
+[18:35:29] [Server thread/INFO]: [Sentry] Could not find or register with SimpleClans. 
+[18:35:29] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[18:35:29] [Server thread/INFO]: Done (1.446s)! For help, type "help" or "?"
+[18:35:29] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[18:35:32] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[18:35:32] [Server thread/INFO]: thudog77[/127.0.0.1:50060] logged in with entity id 196 at ([world]-166.69830225360081, 63.0, 131.7484327806738)
+[18:35:36] [Server thread/INFO]: thudog77 issued server command: /sentry
+[18:35:40] [Server thread/INFO]: thudog77 issued server command: /sentry help
+[18:36:35] [Server thread/INFO]: thudog77 issued server command: /npc create NPC Guard --trait sentry
+[18:36:35] [Server thread/WARN]: [Sentry] Could not register with Vault!  the GROUP target will not function.
+[18:37:30] [Server thread/INFO]: thudog77 issued server command: /sentry equipt
+[18:37:38] [Server thread/INFO]: thudog77 issued server command: /sentry equip
+[18:38:10] [Server thread/INFO]: thudog77 issued server command: /npc remove
+[18:38:20] [Server thread/INFO]: thudog77 issued server command: /npc create Guard --trait sentry
+[18:39:14] [Server thread/INFO]: thudog77 issued server command: /npc remove
+[18:39:26] [Server thread/INFO]: thudog77 issued server command: /npc create Town Guard --trait sentry
+[18:39:49] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[18:39:49] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[18:40:13] [Server thread/INFO]: thudog77 issued server command: /npc equip
+[18:41:29] [Server thread/INFO]: thudog77 issued server command: /waypoint
+[18:41:31] [Server thread/INFO]: thudog77 issued server command: /waypoint wander
+[18:41:38] [Server thread/INFO]: thudog77 issued server command: /waypoint provider
+[18:41:41] [Server thread/INFO]: thudog77 issued server command: /waypoint provider
+[18:41:46] [Server thread/INFO]: thudog77 issued server command: /waypoint provider random
+[18:41:57] [Server thread/INFO]: thudog77 issued server command: /waypoint provider wander
+[18:42:41] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[18:42:41] [Server thread/INFO]: [thudog77: Set the time to 0]
+[18:42:56] [Server thread/INFO]: thudog77 issued server command: /waypoint provider guided
+[18:43:53] [Server thread/INFO]: thudog77 issued server command: /npc path
+[18:44:28] [Server thread/INFO]: thudog77 issued server command: /waypoint
+[18:44:31] [Server thread/INFO]: thudog77 issued server command: /waypoint set
+[18:44:35] [Server thread/INFO]: thudog77 issued server command: /waypoint help
+[18:45:03] [Server thread/INFO]: thudog77 issued server command: /waypoint provider guided
+[18:45:10] [Server thread/INFO]: thudog77 issued server command: /waypoint provider guided
+[18:45:14] [Server thread/INFO]: thudog77 issued server command: /npc path
+[18:50:37] [Server thread/INFO]: thudog77 issued server command: /sentry mount
+[18:51:00] [Server thread/INFO]: thudog77 issued server command: /npc path
+[18:51:06] [Server thread/INFO]: thudog77 issued server command: /npc help
+[18:51:46] [Server thread/INFO]: thudog77 issued server command: /npc respawn 6000
+[18:52:06] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[18:52:21] [Server thread/INFO]: thudog77 issued server command: /npc help 3
+[18:52:51] [Server thread/INFO]: thudog77 issued server command: /npc lookclose
+[18:53:19] [Server thread/INFO]: thudog77 issued server command: /gamemode 0
+[18:53:19] [Server thread/INFO]: [thudog77: Set own game mode to Survival Mode]
+[18:53:29] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[18:53:29] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[18:53:31] [Server thread/INFO]: thudog77 issued server command: /npc lookclose
+[18:53:43] [Server thread/INFO]: thudog77 issued server command: /npc help 3
+[18:53:49] [Server thread/INFO]: thudog77 issued server command: /npc help 4
+[18:54:22] [Server thread/INFO]: thudog77 issued server command: /npc name
+[18:54:28] [Server thread/INFO]: thudog77 issued server command: /npc name
+[18:54:46] [Server thread/INFO]: thudog77 issued server command: /npc help 4
+[18:54:49] [Server thread/INFO]: thudog77 issued server command: /npc help 5
+[18:55:19] [Server thread/INFO]: thudog77 issued server command: /npc help 6
+[18:55:41] [Server thread/INFO]: thudog77 issued server command: /npc help 7
+[18:56:01] [Server thread/INFO]: thudog77 issued server command: /waypoint provider path
+[18:56:04] [Server thread/INFO]: thudog77 issued server command: /waypoint provider wander
+[18:56:13] [Server thread/INFO]: thudog77 issued server command: /waypoint provider linear
+[18:56:16] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[18:56:25] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[18:56:26] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[18:56:27] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[18:56:42] [Server thread/INFO]: thudog77 issued server command: /waypoint provider guided
+[18:57:09] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[18:57:51] [Server thread/INFO]: thudog77 issued server command: /npc tpto thudog77
+[18:58:01] [Server thread/INFO]: thudog77 issued server command: /npc tpto thudog77 Town Guard
+[18:58:39] [Server thread/INFO]: thudog77 issued server command: /npc help
+[18:58:48] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[18:59:04] [Server thread/INFO]: thudog77 issued server command: /npc id
+[18:59:17] [Server thread/INFO]: thudog77 issued server command: /npc tpto 3 thudog77
+[18:59:41] [Server thread/INFO]: [RealChop] Tree Logs search reached BlockProcessingLimit.
+[19:00:07] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[19:00:15] [Server thread/INFO]: thudog77 issued server command: /npc help 3
+[19:00:24] [Server thread/INFO]: thudog77 issued server command: /npc help 4
+[19:00:30] [Server thread/INFO]: thudog77 issued server command: /npc help 1
+[19:00:51] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[19:01:12] [Server thread/INFO]: thudog77 issued server command: /npc help 3
+[19:01:26] [Server thread/INFO]: thudog77 issued server command: /npc help 4
+[19:01:41] [Server thread/INFO]: thudog77 issued server command: /npc help 5
+[19:01:54] [Server thread/INFO]: thudog77 issued server command: /npc help 6
+[19:02:15] [Server thread/INFO]: thudog77 issued server command: /npc help 7
+[19:02:40] [Server thread/INFO]: thudog77 issued server command: /npc help
+[19:03:11] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[19:03:31] [Server thread/INFO]: thudog77 issued server command: /npc help 3
+[19:03:45] [Server thread/INFO]: thudog77 issued server command: /npc help 4
+[19:04:03] [Server thread/INFO]: thudog77 issued server command: /npc help 5
+[19:04:16] [Server thread/INFO]: thudog77 issued server command: /npc text
+[19:04:30] [Server thread/INFO]: thudog77 issued server command: /npc help 6
+[19:05:31] [Server thread/INFO]: thudog77 issued server command: /waypoint provider
+[19:05:36] [Server thread/INFO]: thudog77 issued server command: /waypoint provider linear
+[19:05:41] [Server thread/INFO]: thudog77 issued server command: /waypoint provider wander
+[19:06:01] [Server thread/INFO]: thudog77 issued server command: /npc tp
+[19:06:24] [Server thread/INFO]: thudog77 issued server command: /npc tp
+[19:06:34] [Server thread/INFO]: thudog77 issued server command: /npc mount
+[19:06:41] [Server thread/INFO]: thudog77 issued server command: /npc tp
+[19:07:20] [Server thread/INFO]: thudog77 issued server command: /sentry mount
+[19:09:36] [Server thread/INFO]: thudog77 issued server command: /npc
+[19:09:42] [Server thread/INFO]: thudog77 issued server command: /npc despawn
+[19:09:49] [Server thread/INFO]: thudog77 issued server command: /npc
+[19:09:51] [Server thread/INFO]: thudog77 issued server command: /npc spawn
+[19:10:32] [Server thread/INFO]: thudog77 issued server command: /npc despawn
+[19:12:10] [Server thread/INFO]: thudog77 issued server command: /npc path
+[19:13:18] [Server thread/INFO]: thudog77 issued server command: /npc
+[19:13:20] [Server thread/INFO]: thudog77 issued server command: /npc delete
+[19:13:26] [Server thread/INFO]: thudog77 issued server command: /npc remove
+[19:15:52] [Server thread/INFO]: thudog77 issued server command: /npc
+[19:16:09] [Server thread/INFO]: thudog77 issued server command: /npc create TownGuard --trait sentry
+[19:16:21] [Server thread/INFO]: thudog77 issued server command: /npc equip
+[19:16:27] [Server thread/INFO]: thudog77 issued server command: /npc equip
+[19:16:35] [Server thread/INFO]: thudog77 issued server command: /npc path
+[19:19:24] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[19:19:24] [Server thread/INFO]: [thudog77: Set the time to 0]
+[19:25:51] [Server thread/INFO]: thudog77 issued server command: /npc path
+[19:26:33] [Server thread/INFO]: thudog77 issued server command: /npc equip
+[19:26:45] [Server thread/INFO]: thudog77 issued server command: /npc equip
+[19:27:04] [Server thread/INFO]: thudog77 issued server command: /npc help
+[19:27:09] [Server thread/INFO]: thudog77 issued server command: /npc help 2
+[19:27:19] [Server thread/INFO]: Stopping the server
+[19:27:19] [Server thread/INFO]: Stopping server
+[19:27:19] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[19:27:19] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
+[19:27:19] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
+[19:27:19] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[19:27:19] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[19:27:19] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[19:27:19] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[19:27:19] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
+[19:27:19] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[19:27:19] [Server thread/INFO]: Saving players
+[19:27:19] [Server thread/INFO]: thudog77 lost connection: Server closed
+[19:27:19] [Server thread/INFO]: thudog77 left the game.
+[19:27:19] [Server thread/INFO]: Saving worlds
+[19:27:19] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
