@@ -21,17 +21,13 @@ npc:
             displayname: Town Guard Axe
           enchantments:
             DAMAGE_ALL: 3
-            KNOCKBACK: 2
       location:
         world: world
-        x: '-144.56655459644202'
-        y: '64.0'
-        z: '134.77317132017038'
-        yaw: '181.16448974609375'
-        pitch: '0.0'
-      owner:
-        owner: thudog77
-        uuid: 1242482d-c50e-44fa-9556-fe1d25921ed7
+        x: '-97.23930506434733'
+        y: '63.0'
+        z: '198.5560518752669'
+        yaw: '92.74200439453125'
+        pitch: '34.687721252441406'
       equipment:
         hand:
           type: DIAMOND_AXE
@@ -89,7 +85,11 @@ npc:
         MountID: -1
         CriticalHits: true
         IgnoreLOS: false
-        Targets: []
+        Targets:
+        - ENTITY:MONSTER
+        - EVENT:PVP
+        - EVENT:PVNPC
+        - EVENT:PVSENTRY
         Ignores: []
         Spawn:
           x: '-148.74420464266964'
@@ -119,28 +119,252 @@ npc:
             '0':
               location:
                 world: world
-                x: '-145.0'
+                x: '-185.0'
                 y: '63.0'
-                z: '131.0'
+                z: '133.0'
                 yaw: '0.0'
                 pitch: '0.0'
             '1':
               location:
                 world: world
-                x: '-153.0'
-                y: '62.0'
-                z: '129.0'
+                x: '-185.0'
+                y: '63.0'
+                z: '153.0'
                 yaw: '0.0'
                 pitch: '0.0'
             '2':
               location:
                 world: world
-                x: '-162.0'
+                x: '-180.0'
+                y: '63.0'
+                z: '156.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-170.0'
+                y: '63.0'
+                z: '157.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: world
+                x: '-155.0'
+                y: '63.0'
+                z: '157.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: world
+                x: '-145.0'
+                y: '63.0'
+                z: '156.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: world
+                x: '-142.0'
+                y: '64.0'
+                z: '159.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: world
+                x: '-142.0'
+                y: '62.0'
+                z: '170.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: world
+                x: '-139.0'
+                y: '63.0'
+                z: '181.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '9':
+              location:
+                world: world
+                x: '-127.0'
+                y: '63.0'
+                z: '183.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '10':
+              location:
+                world: world
+                x: '-124.0'
+                y: '63.0'
+                z: '195.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '11':
+              location:
+                world: world
+                x: '-123.0'
+                y: '64.0'
+                z: '209.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '12':
+              location:
+                world: world
+                x: '-122.0'
+                y: '64.0'
+                z: '221.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '13':
+              location:
+                world: world
+                x: '-113.0'
+                y: '64.0'
+                z: '221.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '14':
+              location:
+                world: world
+                x: '-103.0'
+                y: '64.0'
+                z: '221.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '15':
+              location:
+                world: world
+                x: '-90.0'
+                y: '64.0'
+                z: '221.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '16':
+              location:
+                world: world
+                x: '-89.0'
+                y: '64.0'
+                z: '213.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '17':
+              location:
+                world: world
+                x: '-93.0'
+                y: '64.0'
+                z: '205.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '18':
+              location:
+                world: world
+                x: '-95.0'
+                y: '62.0'
+                z: '197.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '19':
+              location:
+                world: world
+                x: '-91.0'
+                y: '62.0'
+                z: '187.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '20':
+              location:
+                world: world
+                x: '-88.0'
+                y: '63.0'
+                z: '171.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '21':
+              location:
+                world: world
+                x: '-100.0'
+                y: '67.0'
+                z: '166.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '22':
+              location:
+                world: world
+                x: '-108.0'
+                y: '67.0'
+                z: '168.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '23':
+              location:
+                world: world
+                x: '-120.0'
+                y: '66.0'
+                z: '165.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '24':
+              location:
+                world: world
+                x: '-126.0'
+                y: '65.0'
+                z: '160.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '25':
+              location:
+                world: world
+                x: '-136.0'
+                y: '62.0'
+                z: '160.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '26':
+              location:
+                world: world
+                x: '-144.0'
+                y: '64.0'
+                z: '157.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '27':
+              location:
+                world: world
+                x: '-145.0'
+                y: '63.0'
+                z: '148.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '28':
+              location:
+                world: world
+                x: '-145.0'
+                y: '63.0'
+                z: '137.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '29':
+              location:
+                world: world
+                x: '-147.0'
+                y: '63.0'
+                z: '129.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '30':
+              location:
+                world: world
+                x: '-159.0'
                 y: '62.0'
                 z: '129.0'
                 yaw: '0.0'
                 pitch: '0.0'
-            '3':
+            '31':
               location:
                 world: world
                 x: '-170.0'
@@ -148,80 +372,19 @@ npc:
                 z: '129.0'
                 yaw: '0.0'
                 pitch: '0.0'
-            '4':
+            '32':
               location:
                 world: world
-                x: '-185.0'
+                x: '-182.0'
                 y: '63.0'
-                z: '135.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '5':
-              location:
-                world: world
-                x: '-185.0'
-                y: '63.0'
-                z: '147.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '6':
-              location:
-                world: world
-                x: '-179.0'
-                y: '63.0'
-                z: '157.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '7':
-              location:
-                world: world
-                x: '-168.0'
-                y: '63.0'
-                z: '157.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '8':
-              location:
-                world: world
-                x: '-157.0'
-                y: '63.0'
-                z: '157.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '9':
-              location:
-                world: world
-                x: '-146.0'
-                y: '63.0'
-                z: '155.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '10':
-              location:
-                world: world
-                x: '-145.0'
-                y: '63.0'
-                z: '147.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '11':
-              location:
-                world: world
-                x: '-145.0'
-                y: '63.0'
-                z: '139.0'
-                yaw: '0.0'
-                pitch: '0.0'
-            '12':
-              location:
-                world: world
-                x: '-145.0'
-                y: '63.0'
-                z: '141.0'
+                z: '129.0'
                 yaw: '0.0'
                 pitch: '0.0'
         provider: linear
-    traitnames: inventory,location,owner,type,equipment,sentry,spawned,waypoints
+      owner:
+        owner: thudog77
+        uuid: 1242482d-c50e-44fa-9556-fe1d25921ed7
+    traitnames: inventory,equipment,waypoints,location,sentry,owner,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: 100
