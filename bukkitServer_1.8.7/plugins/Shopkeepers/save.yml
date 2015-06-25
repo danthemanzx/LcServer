@@ -6,7 +6,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: e22875b1-5332-45ba-9c7d-f012449865e8
+  uuid: c2cd02f7-3430-4d50-9f96-db1d1ef6e0f3
   prof: 0
   recipes:
     '0':
@@ -53,7 +53,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 10
+        amount: 15
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: DIAMOND_SWORD
@@ -74,7 +74,7 @@
   z: 125
   type: admin
   object: villager
-  uuid: 19b52b3e-e266-43d7-939b-cd859678deca
+  uuid: ddc0da7f-f21f-4980-a6ca-4646fe15e5f3
   prof: 0
   recipes:
     '0':
@@ -149,7 +149,7 @@
   z: 133
   type: admin
   object: villager
-  uuid: a3392c3e-5b21-4afc-89c9-da1193e33f1a
+  uuid: 28408fd5-799a-4e20-8721-6af45cf1e5b1
   prof: 0
   recipes:
     '0':
@@ -224,14 +224,14 @@
   z: 124
   type: admin
   object: villager
-  uuid: b3d52352-49da-4fd1-9f7c-143dd5f072da
+  uuid: 98e3e0a5-3780-4e9a-9a3f-11228690cd74
   prof: 0
   recipes:
     '0':
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 3
+        amount: 2
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_SPADE
@@ -239,7 +239,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 4
+        amount: 6
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_PICKAXE
@@ -247,7 +247,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 4
+        amount: 6
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_AXE
@@ -255,7 +255,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 4
+        amount: 3
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_SPADE
@@ -263,7 +263,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 5
+        amount: 8
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_PICKAXE
@@ -271,7 +271,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 5
+        amount: 8
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_AXE
@@ -299,14 +299,14 @@
   z: 134
   type: admin
   object: villager
-  uuid: 62984e19-dac5-4766-bda3-ae2e289ee6a6
+  uuid: 018dd407-579b-4736-9971-33f56dc08017
   prof: 3
   recipes:
     '0':
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 8
+        amount: 10
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_BOOTS
@@ -314,7 +314,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 10
+        amount: 18
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_LEGGINGS
@@ -322,7 +322,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 10
+        amount: 20
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_CHESTPLATE
@@ -330,7 +330,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 8
+        amount: 13
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: IRON_HELMET
@@ -338,7 +338,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 6
+        amount: 8
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_BOOTS
@@ -346,7 +346,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 8
+        amount: 14
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_LEGGINGS
@@ -354,7 +354,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 8
+        amount: 16
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_CHESTPLATE
@@ -362,7 +362,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 6
+        amount: 10
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GOLD_HELMET
@@ -374,14 +374,14 @@
   z: 140
   type: admin
   object: villager
-  uuid: c5b5dbe7-76f9-4b53-bacc-065b174a9aa7
+  uuid: a71fc0b5-5c32-40bb-848e-588394f997da
   prof: 2
   recipes:
     '0':
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 3
+        amount: 8
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GLASS_BOTTLE
@@ -390,7 +390,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 18
+        amount: 36
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: FERMENTED_SPIDER_EYE
@@ -398,7 +398,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 30
+        amount: 53
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: GHAST_TEAR
@@ -406,7 +406,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 32
+        amount: 56
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: BLAZE_POWDER
@@ -414,7 +414,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 24
+        amount: 42
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: MAGMA_CREAM
@@ -422,7 +422,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 33
+        amount: 58
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: BREWING_STAND_ITEM
@@ -430,7 +430,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 8
+        amount: 14
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: SPECKLED_MELON
@@ -438,7 +438,7 @@
       item1:
         ==: org.bukkit.inventory.ItemStack
         type: EMERALD
-        amount: 12
+        amount: 14
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         type: CAULDRON_ITEM
@@ -450,7 +450,7 @@
   z: 138
   type: admin
   object: villager
-  uuid: 309c1c0b-3873-403b-ba42-b5716b4231d2
+  uuid: bb9b81d4-46bb-435b-aaa3-0918d8315d3a
   prof: 4
   recipes: {}
 '7':
@@ -461,7 +461,7 @@
   z: 118
   type: admin
   object: villager
-  uuid: 040451a2-a917-4813-8901-024b1502e005
+  uuid: 0f859fb9-8c89-4286-add7-614b378cd0dd
   prof: 4
   recipes:
     '0':
@@ -539,7 +539,7 @@
   z: 120
   type: admin
   object: villager
-  uuid: d3e6e1bc-05a5-4343-95d8-1b5a66104b3f
+  uuid: 2d72a01e-4246-4af2-8ee7-671bd9b1cced
   prof: 0
   recipes:
     '0':
@@ -598,6 +598,162 @@
   z: 144
   type: admin
   object: villager
-  uuid: bb2c63be-c96f-4894-a39c-a22c4ce096a8
+  uuid: 8d679a84-59f6-4228-b260-e7133b18a8c4
+  prof: 3
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7fBasic Lock\xa7r"
+          lore:
+          - "\xa77Difficulty: 1\xa7r"
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 14
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7bAdvanced Lock\xa7r"
+          lore:
+          - "\xa77Difficulty: 2\xa7r"
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 28
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa75Strong Lock\xa7r"
+          lore:
+          - "\xa77Difficulty: 3\xa7r"
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 56
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa76Tough Lock\xa7r"
+          lore:
+          - "\xa77Difficulty: 4\xa7r"
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 48
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa72Fine Lock\xa7r"
+          lore:
+          - "\xa77Difficulty: 5\xa7r"
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 25
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa74Masterful Lock\xa7r"
+          lore:
+          - "\xa77Unpickable\xa7r"
+          - "\xa77Can only be opened\xa7r"
+          - "\xa77with the right key\xa7r"
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 7
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: "\xa7fLock Pick\xa7r"
+'10':
+  uniqueId: b56df44b-d113-4c8e-975d-cc1c03143dd9
+  world: world
+  x: -163
+  y: 63
+  z: 144
+  type: admin
+  object: villager
+  uuid: 70489d9f-a30f-49f7-bb7f-73a3682582aa
   prof: 3
   recipes: {}
+'11':
+  uniqueId: 442c7652-945f-43ad-ac0a-18102efd5b56
+  world: world
+  x: -158
+  y: 63
+  z: 138
+  type: admin
+  object: villager
+  uuid: 0324b175-60d2-4f21-8ca5-673f232df026
+  prof: 3
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 3
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 4
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 8
