@@ -13,20 +13,17 @@
 config-version: 7
 settings:
   debug: false
-  save-user-cache-on-stop-only: false
+  int-cache-limit: 1024
   bungeecord: false
-  sample-count: 12
+  late-bind: false
   user-cache-size: 1000
+  player-shuffle: 0
   timeout-time: 60
   restart-on-crash: false
   restart-script: ./start.sh
-  late-bind: false
-  player-shuffle: 0
-  int-cache-limit: 1024
   netty-threads: 4
-  moved-wrongly-threshold: 0.0625
-  filter-creative-items: true
-  moved-too-quickly-threshold: 100.0
+  sample-count: 12
+  save-user-cache-on-stop-only: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -35,9 +32,22 @@ settings:
     attackDamage:
       max: 2048.0
   global-api-cache: false
+  moved-too-quickly-threshold: 100.0
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
+stats:
+  disable-saving: false
+  forced-stats: {}
+messages:
+  restart: Server is restarting
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {}
+  outdated-server: Outdated server! I'm still on {0}
 commands:
-  tab-complete: 0
   log: true
+  tab-complete: 0
   spam-exclusions:
   - /skill
   replace-commands:
@@ -46,16 +56,6 @@ commands:
   - testforblock
   - tellraw
   silent-commandblock-console: false
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
-stats:
-  disable-saving: false
-  forced-stats: {}
 world-settings:
   default:
     verbose: true
@@ -65,13 +65,16 @@ world-settings:
       item: 2.5
     chunks-per-tick: 650
     clear-tick-list: false
-    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
     zombie-aggressive-towards-villager: true
     hanging-tick-frequency: 100
     wither-spawn-sound-radius: 0
-    nerf-spawner-mobs: false
+    item-despawn-rate: 6000
+    enable-zombie-pigmen-portal-spawns: true
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -80,16 +83,11 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    dragon-death-sound-radius: 0
     max-entity-collisions: 8
-    max-bulk-chunks: 5
     seed-village: 10387312
     seed-feature: 14357617
-    mob-spawn-range: 4
+    max-bulk-chunks: 5
+    dragon-death-sound-radius: 0
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -115,17 +113,19 @@ world-settings:
       sprint-exhaustion: 0.8
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
+    max-tnt-per-tick: 100
+    save-structure-info: true
+    hopper-alt-ticking: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    hopper-amount: 1
+    mob-spawn-range: 4
+    random-light-updates: false
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    random-light-updates: false
-    hopper-alt-ticking: false
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    hopper-amount: 1
-    max-tnt-per-tick: 100
-    save-structure-info: true
+    nerf-spawner-mobs: false
