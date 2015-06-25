@@ -1,59 +1,103 @@
-[21:09:16] [Server thread/INFO]: Starting minecraft server version 1.8.7
-[21:09:16] [Server thread/INFO]: Loading properties
-[21:09:16] [Server thread/INFO]: Default game type: SURVIVAL
-[21:09:16] [Server thread/INFO]: Generating keypair
-[21:09:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:09:16] [Server thread/INFO]: Using default channel type
-[21:09:16] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-994b2aa (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
-[21:09:17] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[21:09:17] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
-[21:09:17] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
-[21:09:17] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[21:09:17] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[21:09:17] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[21:09:17] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
-[21:09:17] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[21:09:17] [Server thread/INFO]: Preparing level "world"
-[21:09:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[21:09:17] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[21:09:17] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[21:09:17] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[21:09:17] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[21:09:17] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[21:09:17] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[21:09:17] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
-[21:09:18] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[21:09:18] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[21:09:18] [Server thread/ERROR]: [Citizens] v2.0.16-SNAPSHOT (build 1239) is not compatible with Minecraft v1.8.7 - try upgrading or downgrading Citizens. Disabling.
-[21:09:18] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
-[21:09:18] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[21:09:18] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[21:09:18] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[21:09:18] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[21:09:18] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[21:09:18] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[21:09:18] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[21:09:18] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[21:09:18] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
-[21:09:18] [Server thread/ERROR]: [Sentry] Citizens 2.0 not found or not enabled
-[21:09:18] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
-[21:09:18] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
-[21:09:18] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[21:09:18] [Server thread/INFO]: Done (1.463s)! For help, type "help" or "?"
-[21:09:42] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[21:09:42] [Server thread/INFO]: thudog77[/127.0.0.1:56148] logged in with entity id 198 at ([world]-130.65596115083176, 64.0, 122.95320061392653)
-[21:09:46] [Server thread/INFO]: thudog77 lost connection: Disconnected
-[21:09:46] [Server thread/INFO]: thudog77 left the game.
-[21:12:29] [Server thread/INFO]: Stopping the server
-[21:12:29] [Server thread/INFO]: Stopping server
-[21:12:29] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[21:12:29] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[21:12:29] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[21:12:29] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[21:12:29] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
-[21:12:29] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[21:12:29] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[21:12:29] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[21:12:29] [Server thread/INFO]: Saving players
-[21:12:29] [Server thread/INFO]: Saving worlds
-[21:12:29] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:29:34] [Server thread/INFO]: Starting minecraft server version 1.8.7
+[21:29:34] [Server thread/INFO]: Loading properties
+[21:29:34] [Server thread/INFO]: Default game type: SURVIVAL
+[21:29:34] [Server thread/INFO]: Generating keypair
+[21:29:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:29:34] [Server thread/INFO]: Using default channel type
+[21:29:34] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-994b2aa (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
+[21:29:35] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[21:29:35] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.4
+[21:29:35] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1239)
+[21:29:35] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[21:29:35] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[21:29:35] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[21:29:35] [Server thread/INFO]: [Sentry] Loading Sentry v1.8.5
+[21:29:35] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[21:29:35] [Server thread/INFO]: Preparing level "world"
+[21:29:35] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[21:29:35] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[21:29:35] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[21:29:35] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[21:29:35] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[21:29:35] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[21:29:35] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[21:29:35] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.4
+[21:29:35] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[21:29:35] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[21:29:35] [Server thread/ERROR]: [Citizens] v2.0.16-SNAPSHOT (build 1239) is not compatible with Minecraft v1.8.7 - try upgrading or downgrading Citizens. Disabling.
+[21:29:35] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1239)
+[21:29:35] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[21:29:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[21:29:36] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[21:29:36] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[21:29:36] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[21:29:36] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[21:29:36] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[21:29:36] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[21:29:36] [Server thread/INFO]: [Sentry] Enabling Sentry v1.8.5
+[21:29:36] [Server thread/ERROR]: [Sentry] Citizens 2.0 not found or not enabled
+[21:29:36] [Server thread/INFO]: [Sentry] Disabling Sentry v1.8.5
+[21:29:36] [Server thread/INFO]: [Sentry]  v1.8.5 disabled.
+[21:29:36] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[21:29:36] [Server thread/INFO]: Done (1.309s)! For help, type "help" or "?"
+[21:29:56] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[21:29:57] [Server thread/INFO]: thudog77[/127.0.0.1:57684] logged in with entity id 209 at ([world]-164.89849743791132, 63.0, 133.91644366177195)
+[21:30:38] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[21:30:38] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[21:31:17] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[21:31:17] [Server thread/INFO]: [thudog77: Set the time to 0]
+[21:31:35] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[21:31:35] [Server thread/INFO]: thudog77 left the game.
+[21:32:13] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[21:32:13] [Server thread/INFO]: thudog77[/127.0.0.1:57735] logged in with entity id 1059 at ([world]-164.63685163037098, 63.0, 127.20938344290118)
+[21:32:19] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[21:32:19] [Server thread/INFO]: [thudog77: Set own game mode to Creative Mode]
+[21:39:08] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[21:39:08] [Server thread/INFO]: [thudog77: Set the time to 0]
+[21:43:31] [Server thread/INFO]: thudog77 issued server command: /time add 1000
+[21:43:31] [Server thread/INFO]: [thudog77: Added 1000 to the time]
+[21:43:36] [Server thread/INFO]: thudog77 issued server command: /time add 10000
+[21:43:36] [Server thread/INFO]: [thudog77: Added 10000 to the time]
+[21:44:29] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[21:44:29] [Server thread/INFO]: [thudog77: Set the time to 0]
+[21:51:27] [User Authenticator #3/INFO]: UUID of player HotIce64 is 306b2e53-b75b-4116-8469-34d6a73099e9
+[21:51:27] [Server thread/INFO]: HotIce64[/68.119.64.47:53297] logged in with entity id 12365 at ([world]-1.5, 65.0, 246.5)
+[21:51:31] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[21:51:45] [Server thread/INFO]: Opped HotIce64
+[21:51:49] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[21:51:49] [Server thread/INFO]: [HotIce64: Set own game mode to Creative Mode]
+[21:51:54] [Server thread/INFO]: HotIce64 issued server command: /spawmn
+[21:51:56] [Server thread/INFO]: HotIce64 issued server command: /spawn
+[21:53:59] [Server thread/INFO]: thudog77 issued server command: /time set 1000
+[21:53:59] [Server thread/INFO]: [thudog77: Set the time to 1000]
+[21:54:10] [Server thread/INFO]: thudog77 issued server command: /time add 1000
+[21:54:10] [Server thread/INFO]: [thudog77: Added 1000 to the time]
+[21:54:15] [Server thread/INFO]: thudog77 issued server command: /time add 10000
+[21:54:15] [Server thread/INFO]: [thudog77: Added 10000 to the time]
+[21:54:35] [Server thread/INFO]: thudog77 issued server command: /time add 1000
+[21:54:35] [Server thread/INFO]: [thudog77: Added 1000 to the time]
+[21:54:47] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[21:54:47] [Server thread/INFO]: [thudog77: Set the time to 0]
+[21:55:45] [Server thread/INFO]: HotIce64 issued server command: /plugins
+[21:55:47] [Server thread/INFO]: thudog77 issued server command: /pl
+[22:05:54] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[22:05:54] [Server thread/INFO]: [thudog77: Set the time to 0]
+[22:05:56] [Server thread/INFO]: HotIce64 issued server command: /gamemode 1
+[22:05:56] [Server thread/INFO]: [HotIce64: Set own game mode to Creative Mode]
+[22:08:51] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[22:08:52] [Server thread/INFO]: thudog77 left the game.
+[22:08:58] [Server thread/INFO]: Stopping the server
+[22:08:58] [Server thread/INFO]: Stopping server
+[22:08:58] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[22:08:58] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[22:08:58] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[22:08:58] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[22:08:58] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.4
+[22:08:59] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[22:08:59] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[22:08:59] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[22:08:59] [Server thread/INFO]: Saving players
+[22:08:59] [Server thread/INFO]: HotIce64 lost connection: Server closed
+[22:08:59] [Server thread/INFO]: HotIce64 left the game.
+[22:08:59] [Server thread/INFO]: Saving worlds
+[22:08:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
