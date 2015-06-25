@@ -1,0 +1,5 @@
+FakeMaxPlayers: false
+MaxPlayers: 50
+MotdChange: true
+MotdList:
+- '&a&lLegitly Crafted'
