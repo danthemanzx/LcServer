@@ -1,13 +1,13 @@
 general:
   KeyMaterial: 'BLAZE_ROD'
-  KeyDV: 1
+  KeyDV: 0
   KeyName: 'Key'
   SkeletonKeyMaterial: 'BONE'
-  SkeletonKeyDV: 1
+  SkeletonKeyDV: 0
   SkeletonKeyName: 'Skeleton Key'
   SkeletonKeyCraftingEnabled: true
   LockPickMaterial: 'STICK'
-  LockPickDV: 1
+  LockPickDV: 0
   LockPickName: 'Lock Pick'
   LockPickBreakChance: 0.33
   LockPickBreakChanceRate: 0.01
@@ -26,7 +26,7 @@ general:
 traps:
   damage1:
     TrapMaterial: 'FLINT'
-    TrapDV: 1
+    TrapDV: 0
     TrapName: 'Chest Trap'
     Type: Damage
     Power: 2
@@ -40,7 +40,7 @@ traps:
       A: 'ARROW'
   explosive1:
     TrapMaterial: 'FLINT'
-    TrapDV: 1
+    TrapDV: 0
     TrapName: 'Explosive Trap'
     Type: Explosive
     Power: 2
@@ -54,7 +54,7 @@ traps:
       T: 'TNT'
   poison1:
     TrapMaterial: 'FLINT'
-    TrapDV: 1
+    TrapDV: 0
     TrapName: 'Poison Gas Trap'
     Type: Poison
     Power: 5
@@ -70,7 +70,7 @@ traps:
 locks:
   basic1:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 1
+    LockDV: 0
     LockName: 'Basic Lock'
     Difficulty: 1
     RecipeShape:
@@ -80,7 +80,7 @@ locks:
       B: 'IRON_BLOCK'
   basic2:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 2
+    LockDV: 0
     LockName: 'Advanced Lock'
     Difficulty: 2
     RecipeShape:
@@ -90,7 +90,7 @@ locks:
       B: 'IRON_BLOCK'
   basic3:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 3
+    LockDV: 0
     LockName: 'Strong Lock'
     Difficulty: 3
     RecipeShape:
@@ -102,7 +102,7 @@ locks:
       B: 'IRON_BLOCK'
   basic4:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 4
+    LockDV: 0
     LockName: 'Tough Lock'
     Difficulty: 4
     RecipeShape:
@@ -114,7 +114,7 @@ locks:
       B: 'IRON_BLOCK'
   basic5:
     LockMaterial: 'IRON_INGOT'
-    LockDV: 5
+    LockDV: 0
     LockName: 'Fine Lock'
     Difficulty: 5
     RecipeShape:
@@ -125,7 +125,7 @@ locks:
       B: 'IRON_BLOCK'
   master:
     LockMaterial: 'GOLD_INGOT'
-    LockDV: 6
+    LockDV: 0
     LockName: 'Masterful Lock'
     Difficulty: 6
     RecipeShape:

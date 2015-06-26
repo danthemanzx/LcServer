@@ -3,114 +3,53 @@ plugin.RandomBox.basic:
        description: Basic RandomBox Perms.
        default: false
        children:
-          randombox.openbox: false
-          randombox.create: false
-          randombox.destroy: false
-          randombox.reload: false
-          randombox.use: false
-          randombox.additem: false
-
-# Bedhome
-plugin.BedHome.basic:
-       description: Basic BedHome Perms.
+          randombox.*: false
+          randombox.main: false
+          randombox.main.reload: false
+          randombox.openbox: true
+          randombox.givebox: false
+          randombox.infinitebox: false
+          #randombox.open.<box id>: false
+          randombox.open.*: false
+          randombox.randomblock: false
+plugin.RandomBox.admin:
+       description: Admin RandomBox Perms.
        default: false
        children:
-          bedhome.bed: false
-          bedhome.admin: false
-          bedhome.world: false
-
-# EasyWarp
-plugin.EasyWarp.basic:
-       description: Basic EasyWarp Perms.
+          randombox.*: true
+# ShopKeepers
+plugin.ShopKeepers.basic:
+       description: Basic ShopKeepers Perms.
        default: false
        children:
-          easywarp.delwarp: false
-          easywarp.setwarp: false
-          easywarp.warp: true
-          easywarp.bypass: false
-          easywarp.listall: false
-          easywarp.list: false
-
-# LoreLocks
-plugin.BedHome.basic:
-       description: Basic LoreLocks Perms.
+          shopkeeper.*: false
+          shopkeeper.admin: false
+          shopkeeper.debug: false
+          shopkeeper.bypass: false
+          shopkeeper.reload: false
+          shopkeeper.list.own: false
+          shopkeeper.list.others: false
+          shopkeeper.list.admin: false
+          shopkeeper.remove.own: false
+          shopkeeper.remove.others: false
+          shopkeeper.remove.admin: false
+          shopkeeper.remote: false
+          shopkeeper.transfer: false
+          shopkeeper.setforhire: false
+          shopkeeper.help: false
+          shopkeeper.trade: true
+          shopkeeper.hire: false
+          shopkeeper.player.normal: false
+          shopkeeper.player.buy: false
+          shopkeeper.player.trade: false
+          shopkeeper.player: false
+          shopkeeper.entity.*: false
+          shopkeeper.entity.villager: false
+          shopkeeper.entity.witch: false
+          shopkeeper.entity.creeper: false
+          shopkeeper.sign: false
+plugin.ShopKeepers.admin:
+       description: Admin ShopKeepers Perms.
        default: false
        children:
-          lorelocks.pick.1: false
-          lorelocks.pick.2: false
-          lorelocks.pick.3: false
-          lorelocks.pick.4: false
-          lorelocks.pick.5: false
-          lorelocks.bypass: false
-          lorelocks.lockpick.craft: false
-          lorelocks.skeletonkey.craft: false
-          lorelocks.key.create: false
-          
-# MultiVerseCore
-plugin.MVC.basic:
-       description: Basic MVC Perms.
-       default: false
-       children:
-          multiverse.help: false
-          multiverse.core.confirm: false
-          multiverse.core.coord: false
-          multiverse.core.info: false
-          multiverse.core.list.environments: false
-          multiverse.core.list.who: false
-          multiverse.core.list.worlds: false
-          multiverse.core.create: false
-          multiverse.core.import: false
-          multiverse.core.modify: false
-          multiverse.core.modify.add: false
-          multiverse.core.modify.clear: false
-          multiverse.core: false
-
-# MultiVersePortals
-plugin.MCP.basic:
-       description: Basic MCP Perms.
-       default: false
-       children:
-          bedhome.bed: false
-          bedhome.admin: false
-          bedhome.world: false
-          multiverse.portal.givewand: false
-          multiverse.portal: false
-          multiverse.portal.list: false
-          multiverse.portal.modify: false
-          multiverse.portal.remove: false
-          multiverse.portal.select: false
-          multiverse.portal.access: false
-          multiverse.portal.exempt: false
-
-# Orbfuscator
-plugin.Orb.basic:
-       description: Basic Orbfuscator Perms.
-       default: false
-       children:
-          Orebfuscator.deobfuscate: false
-          Orebfuscator.admin: false
-
-# RandomBox
-plugin.RandomBox.basic:
-       description: Basic RandomBox Perms.
-       default: false
-       children:
-
-# ShopKeeper
-plugin.ShopKeeper.basic:
-       description: Basic ShopKeeper Perms.
-       default: false
-       children:
- 
- # backpacks
- plugin.backpacks.basic:
-        description: Basic backpacks Perms.
-        default: false
-        children:
-          backpacks.*: false
-          backpacks.admin: false
-          backpacks.help: false
-          backpacks.use: true
-          backpacks.list: true
-          backpacks.delete.self: true
-          backpacks.max.bypass: false
+          shopkeeper.*: true
