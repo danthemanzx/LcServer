@@ -1,115 +1,146 @@
-[22:50:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:50:16] [Server thread/INFO]: Loading properties
-[22:50:16] [Server thread/INFO]: Default game type: SURVIVAL
-[22:50:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[22:50:17] [Server thread/INFO]: Debug logging is disabled
-[22:50:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:50:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:50:17] [Server thread/INFO]: Generating keypair
-[22:50:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:50:17] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[22:50:17] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[22:50:17] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.1
-[22:50:17] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.0
-[22:50:17] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.4
-[22:50:17] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[22:50:17] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[22:50:17] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.10) has not yet been tested! Proceed with caution.
-[22:50:17] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[22:50:17] [Server thread/INFO]: [MotdEdit] Loading MotdEdit v1.0
-[22:50:17] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[22:50:17] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[22:50:17] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[22:50:17] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[22:50:17] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[22:50:17] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[22:50:17] [Server thread/INFO]: Preparing level "world"
-[22:50:17] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:50:17] [Server thread/INFO]: View Distance: 16
-[22:50:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:50:17] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[22:50:17] [Server thread/INFO]: Clear tick list: false
-[22:50:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:50:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:50:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:50:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:50:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:50:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:50:17] [Server thread/INFO]: Sending up to 5 chunks per packet
-[22:50:17] [Server thread/INFO]: Max Entity Collisions: 8
-[22:50:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:50:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:50:17] [Server thread/INFO]: Mob Spawn Range: 4
-[22:50:17] [Server thread/INFO]: Anti X-Ray: true
-[22:50:17] [Server thread/INFO]: 	Engine Mode: 1
-[22:50:17] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[22:50:17] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[22:50:17] [Server thread/INFO]: Max TNT Explosions: 100
-[22:50:17] [Server thread/INFO]: Structure Info Saving: true
-[22:50:17] [Server thread/INFO]: Alternative Hopper Ticking: false
-[22:50:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:50:17] [Server thread/INFO]: Random Lighting Updates: false
-[22:50:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:50:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:50:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[22:50:18] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[22:50:18] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[22:50:18] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[22:50:18] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[22:50:18] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[22:50:18] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[22:50:18] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.1
-[22:50:18] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[22:50:18] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.0
-[22:50:18] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.4
-[22:50:18] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[22:50:18] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[22:50:18] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[22:50:18] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[22:50:18] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[22:50:18] [Server thread/INFO]: [MotdEdit] Enabling MotdEdit v1.0
-[22:50:18] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[22:50:18] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[22:50:18] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[22:50:18] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[22:50:18] [Server thread/INFO]: [ServerListPlus] Loading core...
-[22:50:18] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[22:50:18] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[22:50:18] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[22:50:18] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[22:50:18] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[22:50:18] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[22:50:18] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[22:50:18] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[22:50:18] [Server thread/INFO]: Done (1.196s)! For help, type "help" or "?"
-[22:50:19] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
-[22:50:19] [Craft Scheduler Thread - 5/INFO]: [PlugMan] No update was found.
-[22:51:43] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[22:51:43] [Server thread/INFO]: Stopping server
-[22:51:43] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[22:51:43] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
-[22:51:43] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
-[22:51:43] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[22:51:43] [Server thread/INFO]: [MotdEdit] Disabling MotdEdit v1.0
-[22:51:43] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[22:51:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
-[22:51:43] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[22:51:43] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.4
-[22:51:43] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.0
-[22:51:43] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.1
-[22:51:43] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[22:51:43] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[22:51:43] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[22:51:43] [Server thread/INFO]: Saving players
-[22:51:43] [Server thread/INFO]: Saving worlds
-[22:51:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:51:43] [Thread-4/INFO]: Stopping server
-[22:51:43] [Thread-4/INFO]: Saving players
-[22:51:43] [Thread-4/INFO]: Saving worlds
-[22:51:43] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[23:13:04] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:13:04] [Server thread/INFO]: Loading properties
+[23:13:04] [Server thread/INFO]: Default game type: SURVIVAL
+[23:13:04] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[23:13:04] [Server thread/INFO]: Debug logging is disabled
+[23:13:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:13:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:13:04] [Server thread/INFO]: Generating keypair
+[23:13:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:13:04] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:13:04] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[23:13:04] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.1
+[23:13:04] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.0
+[23:13:04] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.4
+[23:13:04] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[23:13:04] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[23:13:04] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.10) has not yet been tested! Proceed with caution.
+[23:13:04] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[23:13:04] [Server thread/INFO]: [MotdEdit] Loading MotdEdit v1.0
+[23:13:04] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[23:13:04] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[23:13:04] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[23:13:04] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[23:13:04] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[23:13:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:13:04] [Server thread/INFO]: Preparing level "world"
+[23:13:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:13:04] [Server thread/INFO]: View Distance: 16
+[23:13:04] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:13:04] [Server thread/INFO]: Clear tick list: false
+[23:13:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:13:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:13:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:13:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:13:04] [Server thread/INFO]: Alternative Hopper Ticking: false
+[23:13:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:13:04] [Server thread/INFO]: Structure Info Saving: true
+[23:13:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:13:04] [Server thread/INFO]: Random Lighting Updates: false
+[23:13:04] [Server thread/INFO]: Max TNT Explosions: 100
+[23:13:04] [Server thread/INFO]: Mob Spawn Range: 4
+[23:13:04] [Server thread/INFO]: Anti X-Ray: true
+[23:13:04] [Server thread/INFO]: 	Engine Mode: 1
+[23:13:04] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:13:04] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:13:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:13:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:13:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:13:04] [Server thread/INFO]: Max Entity Collisions: 8
+[23:13:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:13:04] [Server thread/INFO]: Sending up to 5 chunks per packet
+[23:13:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:13:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:13:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[23:13:05] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[23:13:05] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[23:13:05] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[23:13:05] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[23:13:05] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[23:13:05] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[23:13:05] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.1
+[23:13:05] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[23:13:05] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.0
+[23:13:05] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.4
+[23:13:05] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[23:13:05] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[23:13:05] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[23:13:05] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[23:13:05] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[23:13:05] [Server thread/INFO]: [MotdEdit] Enabling MotdEdit v1.0
+[23:13:05] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[23:13:05] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[23:13:05] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[23:13:05] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[23:13:05] [Server thread/INFO]: [ServerListPlus] Loading core...
+[23:13:05] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[23:13:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[23:13:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[23:13:05] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[23:13:05] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[23:13:05] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[23:13:05] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[23:13:05] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[23:13:06] [Server thread/INFO]: Done (1.175s)! For help, type "help" or "?"
+[23:13:06] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[23:13:06] [Craft Scheduler Thread - 5/INFO]: [PlugMan] No update was found.
+[23:14:05] [User Authenticator #1/INFO]: UUID of player daltons84 is c8a6e8ad-0582-42ec-a36b-3638273ca86c
+[23:14:05] [Server thread/INFO]: daltons84[/162.17.70.229:61203] logged in with entity id 146 at ([world] 3.5, 64.0, 249.5)
+[23:14:09] [User Authenticator #2/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[23:14:09] [Server thread/INFO]: thudog77[/127.0.0.1:64656] logged in with entity id 367 at ([world] -116.5074877608599, 100.52882134367731, 185.3347534156701)
+[23:14:11] [Server thread/INFO]: thudog77 fell from a high place
+[23:14:15] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[23:14:15] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[23:14:21] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[23:14:26] [Server thread/INFO]: thudog77 issued server command: /op daltons84
+[23:14:26] [Server thread/INFO]: thudog77: Opped daltons84[m
+[23:14:30] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[23:14:30] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[23:15:34] [Server thread/INFO]: daltons84 issued server command: /gamemode 0
+[23:15:34] [Server thread/INFO]: daltons84: Set own game mode to SURVIVAL mode[m
+[23:16:34] [Server thread/INFO]: thudog77 issued server command: /mv setspawn
+[23:16:38] [Server thread/INFO]: thudog77 issued server command: /kill
+[23:16:38] [Server thread/INFO]: thudog77 died
+[23:17:50] [Server thread/INFO]: daltons84 issued server command: /gamemode 1
+[23:17:50] [Server thread/INFO]: daltons84: Set own game mode to CREATIVE mode[m
+[23:20:32] [Server thread/INFO]: daltons84 issued server command: //wand
+[23:20:35] [Server thread/INFO]: daltons84 issued server command: //wand
+[23:23:34] [Server thread/INFO]: daltons84 lost connection: Disconnected
+[23:23:34] [Server thread/INFO]: daltons84 left the game.
+[23:31:23] [Server thread/INFO]: thudog77 issued server command: /time set 09
+[23:31:23] [Server thread/INFO]: thudog77: Set time to 9[m
+[23:31:27] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[23:31:27] [Server thread/INFO]: thudog77: Set time to 0[m
+[23:48:45] [Server thread/INFO]: thudog77 issued server command: /time set 0
+[23:48:45] [Server thread/INFO]: thudog77: Set time to 0[m
+[23:49:02] [Server thread/INFO]: thudog77 lost connection: Disconnected
+[23:49:02] [Server thread/INFO]: thudog77 left the game.
+[23:49:07] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[23:49:07] [Server thread/INFO]: Stopping server
+[23:49:07] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[23:49:07] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[23:49:07] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[23:49:07] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[23:49:07] [Server thread/INFO]: [MotdEdit] Disabling MotdEdit v1.0
+[23:49:07] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[23:49:07] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[23:49:07] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[23:49:07] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.4
+[23:49:07] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.0
+[23:49:07] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.1
+[23:49:07] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[23:49:07] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[23:49:07] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[23:49:07] [Server thread/INFO]: Saving players
+[23:49:07] [Server thread/INFO]: Saving worlds
+[23:49:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:49:08] [Thread-4/INFO]: Stopping server
+[23:49:08] [Thread-4/INFO]: Saving players
+[23:49:08] [Thread-4/INFO]: Saving worlds
+[23:49:08] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
