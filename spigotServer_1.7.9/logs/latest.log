@@ -1,204 +1,295 @@
-[22:46:42] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:46:42] [Server thread/INFO]: Loading properties
-[22:46:42] [Server thread/INFO]: Default game type: SURVIVAL
-[22:46:42] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[22:46:42] [Server thread/INFO]: Debug logging is disabled
-[22:46:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:46:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:46:42] [Server thread/INFO]: Generating keypair
-[22:46:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:46:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[22:46:43] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
-[22:46:43] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.1
-[22:46:43] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.0
-[22:46:43] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.4
-[22:46:43] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
-[22:46:43] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
-[22:46:43] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.10) has not yet been tested! Proceed with caution.
-[22:46:43] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
-[22:46:43] [Server thread/INFO]: [MotdEdit] Loading MotdEdit v1.0
-[22:46:43] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
-[22:46:43] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
-[22:46:43] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
-[22:46:43] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
-[22:46:43] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[22:46:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[22:46:43] [Server thread/INFO]: Preparing level "world"
-[22:46:43] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:46:43] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[22:46:43] [Server thread/INFO]: Clear tick list: false
-[22:46:43] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:46:43] [Server thread/INFO]: View Distance: 16
-[22:46:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:46:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:46:43] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:46:43] [Server thread/INFO]: Anti X-Ray: true
-[22:46:43] [Server thread/INFO]: 	Engine Mode: 1
-[22:46:43] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[22:46:43] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[22:46:43] [Server thread/INFO]: Mob Spawn Range: 4
-[22:46:43] [Server thread/INFO]: Max TNT Explosions: 100
-[22:46:43] [Server thread/INFO]: Random Lighting Updates: false
-[22:46:43] [Server thread/INFO]: Structure Info Saving: true
-[22:46:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:46:43] [Server thread/INFO]: Alternative Hopper Ticking: false
-[22:46:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:46:43] [Server thread/INFO]: Max Entity Collisions: 8
-[22:46:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:46:43] [Server thread/INFO]: Sending up to 5 chunks per packet
-[22:46:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:46:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:46:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:46:43] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:46:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:46:43] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
-[22:46:43] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
-[22:46:44] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
-[22:46:44] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
-[22:46:44] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
-[22:46:44] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
-[22:46:44] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
-[22:46:44] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.1
-[22:46:44] [Server thread/INFO]: [LevelHearts] Enabled successfully.
-[22:46:44] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.0
-[22:46:44] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.4
-[22:46:44] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
-[22:46:44] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
-[22:46:44] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
-[22:46:44] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
-[22:46:44] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
-[22:46:44] [Server thread/INFO]: [MotdEdit] Enabling MotdEdit v1.0
-[22:46:44] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
-[22:46:44] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
-[22:46:44] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[22:46:44] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
-[22:46:44] [Server thread/INFO]: [ServerListPlus] Loading core...
-[22:46:44] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
-[22:46:44] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
-[22:46:44] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
-[22:46:44] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
-[22:46:44] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
-[22:46:44] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
-[22:46:44] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
-[22:46:44] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
-[22:46:45] [Server thread/INFO]: Done (1.698s)! For help, type "help" or "?"
-[22:46:45] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
-[22:46:46] [Craft Scheduler Thread - 5/INFO]: [PlugMan] No update was found.
-[22:46:46] [Server thread/INFO]: [0;34;1m[ProtocolLib] The updater did not find an update, and nothing was downloaded.[m
-[22:47:40] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: PlugMan [0;33;1m-------------------------[m
-[22:47:40] [Server thread/INFO]: [0;37;22mBelow is a list of all PlugMan commands:[m
-[22:47:40] [Server thread/INFO]: [0;33;22m/plugman: [0;37;1mManage plugins.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m--------------------- [[0;32;1m PlugMan [0;37;22m] ---------------------[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman help [0;37;1m- [0;37;22mDisplays this.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman list [-v] [0;37;1m- [0;37;22mList all plugins.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman dump [0;37;1m- [0;37;22mDump plugin names and versions to file.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman info [plugin] [0;37;1m- [0;37;22mGet info on a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman usage [plugin] [0;37;1m- [0;37;22mList commands a plugin has registered.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman enable [plugin|all] [0;37;1m- [0;37;22mEnable a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman disable [plugin|all] [0;37;1m- [0;37;22mDisable a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman restart [plugin|all] [0;37;1m- [0;37;22mRestart a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman load [plugin] [0;37;1m- [0;37;22mLoad a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman reload [plugin|all] [0;37;1m- [0;37;22mReload a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman unload [plugin] [0;37;1m- [0;37;22mUnload a plugin.[m
-[22:47:43] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman check [plugin] [0;37;1m- [0;37;22mCheck if a plugin is up-to-date.[m
-[22:48:02] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.0
-[22:48:02] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mSlotLock has been disabled.[m
-[22:48:59] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
-[22:48:59] [Server thread/INFO]: thudog77[/127.0.0.1:57734] logged in with entity id 131 at ([world] -143.77982874915222, 64.0, 179.31571643661155)
-[22:49:03] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[22:49:03] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[22:49:25] [Server thread/INFO]: thudog77 issued server command: /gamemode 0
-[22:49:25] [Server thread/INFO]: thudog77: Set own game mode to SURVIVAL mode[m
-[22:49:36] [Server thread/INFO]: thudog77 issued server command: /deop thudog77
-[22:49:36] [Server thread/INFO]: thudog77: De-opped thudog77[m
-[22:49:42] [Server thread/INFO]: CONSOLE: Opped thudog77[m
-[22:49:46] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
-[22:49:46] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
-[22:50:02] [Server thread/INFO]: thudog77 issued server command: /mv import spawn normal
-[22:50:02] [Server thread/INFO]: thudog77: Starting import of world 'spawn'...[m
-[22:50:02] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: null
-[22:50:02] [Server thread/INFO]: -------- World Settings For [spawn] --------
-[22:50:02] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[22:50:02] [Server thread/INFO]: Clear tick list: false
-[22:50:02] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:50:02] [Server thread/INFO]: View Distance: 16
-[22:50:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:50:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:50:02] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:50:02] [Server thread/INFO]: Anti X-Ray: true
-[22:50:02] [Server thread/INFO]: 	Engine Mode: 1
-[22:50:02] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[22:50:02] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[22:50:02] [Server thread/INFO]: Mob Spawn Range: 4
-[22:50:02] [Server thread/INFO]: Max TNT Explosions: 100
-[22:50:02] [Server thread/INFO]: Random Lighting Updates: false
-[22:50:02] [Server thread/INFO]: Structure Info Saving: true
-[22:50:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:50:02] [Server thread/INFO]: Alternative Hopper Ticking: false
-[22:50:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:50:02] [Server thread/INFO]: Max Entity Collisions: 8
-[22:50:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:50:02] [Server thread/INFO]: Sending up to 5 chunks per packet
-[22:50:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:50:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:50:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:50:02] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:50:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:50:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1808303085)
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping BlockEntity with id Banner
-[22:50:02] [Server thread/WARN]: Skipping BlockEntity with id Banner
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: Skipping Entity with id Rabbit
-[22:50:02] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[22:50:02] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 256 Y: 64 Z: 256 P: 0 Y: 0 
-[22:50:02] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'spawn' is located at: spawn:0.00,69.00,0.00:0.00:0.00
-[22:50:06] [Server thread/INFO]: thudog77: [0;32;1mComplete![m
-[22:50:12] [Server thread/INFO]: thudog77 issued server command: //wand
-[22:50:16] [Server thread/INFO]: thudog77 issued server command: /wand
-[22:50:44] [Server thread/INFO]: thudog77 issued server command: /wand
-[22:50:45] [Server thread/INFO]: thudog77 issued server command: //
-[22:50:47] [Server thread/INFO]: thudog77 issued server command: //help
-[22:51:04] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[22:51:04] [Server thread/INFO]: Stopping server
-[22:51:04] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
-[22:51:04] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
-[22:51:04] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
-[22:51:04] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
-[22:51:04] [Server thread/INFO]: [MotdEdit] Disabling MotdEdit v1.0
-[22:51:04] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[22:51:04] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
-[22:51:04] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
-[22:51:04] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.4
-[22:51:04] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.1
-[22:51:04] [Server thread/INFO]: [LevelHearts] Disabled successfully.
-[22:51:04] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
-[22:51:04] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
-[22:51:04] [Server thread/INFO]: Saving players
-[22:51:04] [Server thread/INFO]: thudog77 lost connection: Server closed
-[22:51:04] [Server thread/INFO]: thudog77 left the game.
-[22:51:04] [Server thread/INFO]: Saving worlds
-[22:51:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:51:05] [Server thread/INFO]: Saving chunks for level 'spawn'/Overworld
-[22:51:05] [Thread-4/INFO]: Stopping server
-[22:51:05] [Thread-4/INFO]: Saving players
-[22:51:05] [Thread-4/INFO]: Saving worlds
-[22:51:05] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[23:00:53] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:00:53] [Server thread/INFO]: Loading properties
+[23:00:53] [Server thread/INFO]: Default game type: SURVIVAL
+[23:00:54] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1646 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[23:00:54] [Server thread/INFO]: Debug logging is disabled
+[23:00:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:00:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:00:54] [Server thread/INFO]: Generating keypair
+[23:00:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:00:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:00:54] [Server thread/INFO]: [LoreLocks] Loading LoreLocks v2.2.2.3
+[23:00:54] [Server thread/INFO]: [LevelHearts] Loading LevelHearts v1.2.1
+[23:00:54] [Server thread/INFO]: [SlotLock] Loading SlotLock v2.0
+[23:00:54] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.4
+[23:00:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[23:00:54] [Server thread/INFO]: [RealChop] Loading RealChop v0.8.3
+[23:00:54] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.4.0
+[23:00:54] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.7.10) has not yet been tested! Proceed with caution.
+[23:00:54] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b691
+[23:00:54] [Server thread/INFO]: [MotdEdit] Loading MotdEdit v1.0
+[23:00:54] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b714
+[23:00:54] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.2.1
+[23:00:54] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.60
+[23:00:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.4.0
+[23:00:54] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[23:00:54] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:00:54] [Server thread/INFO]: Preparing level "world"
+[23:00:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:00:54] [Server thread/INFO]: View Distance: 16
+[23:00:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:00:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:00:54] [Server thread/INFO]: Clear tick list: false
+[23:00:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:00:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:00:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:00:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:00:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:00:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:00:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:00:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:00:54] [Server thread/INFO]: Max Entity Collisions: 8
+[23:00:54] [Server thread/INFO]: Sending up to 5 chunks per packet
+[23:00:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:00:54] [Server thread/INFO]: Mob Spawn Range: 4
+[23:00:54] [Server thread/INFO]: Anti X-Ray: true
+[23:00:54] [Server thread/INFO]: 	Engine Mode: 1
+[23:00:54] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:00:54] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:00:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:00:54] [Server thread/INFO]: Random Lighting Updates: false
+[23:00:54] [Server thread/INFO]: Max TNT Explosions: 100
+[23:00:54] [Server thread/INFO]: Structure Info Saving: true
+[23:00:54] [Server thread/INFO]: Alternative Hopper Ticking: false
+[23:00:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:00:54] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1550981320785837543)
+[23:00:55] [Server thread/INFO]: [LoreLocks] Enabling LoreLocks v2.2.2.3
+[23:00:55] [Server thread/INFO]: [LoreLocks] Loaded 6 locks.
+[23:00:55] [Server thread/INFO]: [LoreLocks] Loaded 3 traps.
+[23:00:55] [Server thread/INFO]: [LoreLocks] Loaded 4 events.
+[23:00:55] [Server thread/INFO]: [LoreLocks] Loaded 0 doors.
+[23:00:55] [Server thread/INFO]: [LoreLocks] Enabled LoreLocks v2.2.2.3
+[23:00:55] [Server thread/INFO]: [LevelHearts] Enabling LevelHearts v1.2.1
+[23:00:55] [Server thread/INFO]: [LevelHearts] Enabled successfully.
+[23:00:55] [Server thread/INFO]: [SlotLock] Enabling SlotLock v2.0
+[23:00:55] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.4
+[23:00:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[23:00:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:00:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
+[23:00:55] [Server thread/INFO]: [RealChop] Enabling RealChop v0.8.3
+[23:00:55] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b691
+[23:00:55] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - using only an item based economy for Multiverse-Core v2.5-b691
+[23:00:55] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[23:00:55] [Server thread/INFO]: View Distance: 16
+[23:00:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:00:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[23:00:55] [Server thread/INFO]: Clear tick list: false
+[23:00:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:00:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:00:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:00:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:00:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:00:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:00:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:00:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:00:55] [Server thread/INFO]: Max Entity Collisions: 8
+[23:00:55] [Server thread/INFO]: Sending up to 5 chunks per packet
+[23:00:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:00:55] [Server thread/INFO]: Mob Spawn Range: 4
+[23:00:55] [Server thread/INFO]: Anti X-Ray: true
+[23:00:55] [Server thread/INFO]: 	Engine Mode: 1
+[23:00:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[23:00:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[23:00:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:00:55] [Server thread/INFO]: Random Lighting Updates: false
+[23:00:55] [Server thread/INFO]: Max TNT Explosions: 100
+[23:00:55] [Server thread/INFO]: Structure Info Saving: true
+[23:00:55] [Server thread/INFO]: Alternative Hopper Ticking: false
+[23:00:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:00:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1808303085)
+[23:00:56] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[23:00:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b691 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[23:00:56] [Server thread/INFO]: [MotdEdit] Enabling MotdEdit v1.0
+[23:00:56] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b714
+[23:00:56] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b714 Enabled - By Rigby and fernferret
+[23:00:56] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[23:00:56] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.2.1
+[23:00:56] [Server thread/INFO]: [ServerListPlus] Loading core...
+[23:00:56] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[23:00:56] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[23:00:56] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[23:00:56] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: CoreConf
+[23:00:56] [Server thread/INFO]: [ServerListPlus] [Core] 3 configurations loaded.
+[23:00:56] [Server thread/INFO]: [ServerListPlus] Core was successfully loaded!
+[23:00:56] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 enabled.
+[23:00:56] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.60
+[23:00:56] [Server thread/INFO]: Done (2.060s)! For help, type "help" or "?"
+[23:00:56] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[23:00:57] [Craft Scheduler Thread - 5/INFO]: [PlugMan] No update was found.
+[23:00:59] [User Authenticator #1/INFO]: UUID of player thudog77 is 1242482d-c50e-44fa-9556-fe1d25921ed7
+[23:00:59] [Server thread/INFO]: thudog77[/127.0.0.1:59485] logged in with entity id 487 at ([spawn] 1.2969256975683026, 74.12081285726342, -3.1383612055201167)
+[23:01:02] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[23:01:02] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[23:01:13] [Server thread/INFO]: thudog77 issued server command: /mvp create spawn
+[23:01:13] [Server thread/INFO]: WEAPI
+[23:01:13] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5-b714
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) ~[spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot.jar:git-Spigot-1646]
+Caused by: java.lang.NoSuchMethodError: com.sk89q.worldedit.LocalSession.getSelectionWorld()Lcom/sk89q/worldedit/LocalWorld;
+	at com.onarandombox.MultiversePortals.PortalPlayerSession.getSelectedRegion(PortalPlayerSession.java:168) ~[?:?]
+	at com.onarandombox.MultiversePortals.commands.CreateCommand.runCommand(CreateCommand.java:56) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:336) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot.jar:git-Spigot-1646]
+	... 13 more
+[23:01:43] [Server thread/INFO]: thudog77 issued server command: /mvp create spawn
+[23:01:43] [Server thread/INFO]: WEAPI
+[23:01:43] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5-b714
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) ~[spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot.jar:git-Spigot-1646]
+Caused by: java.lang.NoSuchMethodError: com.sk89q.worldedit.LocalSession.getSelectionWorld()Lcom/sk89q/worldedit/LocalWorld;
+	at com.onarandombox.MultiversePortals.PortalPlayerSession.getSelectedRegion(PortalPlayerSession.java:168) ~[?:?]
+	at com.onarandombox.MultiversePortals.commands.CreateCommand.runCommand(CreateCommand.java:56) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:336) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot.jar:git-Spigot-1646]
+	... 13 more
+[23:02:12] [Server thread/INFO]: thudog77 issued server command: /mvp create newWorld
+[23:02:12] [Server thread/INFO]: WEAPI
+[23:02:12] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5-b714
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) ~[spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot.jar:git-Spigot-1646]
+Caused by: java.lang.NoSuchMethodError: com.sk89q.worldedit.LocalSession.getSelectionWorld()Lcom/sk89q/worldedit/LocalWorld;
+	at com.onarandombox.MultiversePortals.PortalPlayerSession.getSelectedRegion(PortalPlayerSession.java:168) ~[?:?]
+	at com.onarandombox.MultiversePortals.commands.CreateCommand.runCommand(CreateCommand.java:56) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:336) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot.jar:git-Spigot-1646]
+	... 13 more
+[23:02:31] [Server thread/INFO]: thudog77 issued server command: /mv tp world
+[23:02:33] [Server thread/INFO]: thudog77 issued server command: /gamemode 1
+[23:02:33] [Server thread/INFO]: thudog77: Set own game mode to CREATIVE mode[m
+[23:02:36] [Server thread/INFO]: thudog77 issued server command: /toggledownfall
+[23:02:36] [Server thread/INFO]: thudog77: Toggling downfall off for world 'world'[m
+[23:03:03] [Server thread/INFO]: thudog77 issued server command: /mvp create spawnl
+[23:03:03] [Server thread/INFO]: WEAPI
+[23:03:03] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5-b714
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) ~[spigot.jar:git-Spigot-1646]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) ~[spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [spigot.jar:git-Spigot-1646]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot.jar:git-Spigot-1646]
+Caused by: java.lang.NoSuchMethodError: com.sk89q.worldedit.LocalSession.getSelectionWorld()Lcom/sk89q/worldedit/LocalWorld;
+	at com.onarandombox.MultiversePortals.PortalPlayerSession.getSelectedRegion(PortalPlayerSession.java:168) ~[?:?]
+	at com.onarandombox.MultiversePortals.commands.CreateCommand.runCommand(CreateCommand.java:56) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:336) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot.jar:git-Spigot-1646]
+	... 13 more
+[23:03:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m--------------------- [[0;32;1m PlugMan [0;37;22m] ---------------------[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman help [0;37;1m- [0;37;22mDisplays this.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman list [-v] [0;37;1m- [0;37;22mList all plugins.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman dump [0;37;1m- [0;37;22mDump plugin names and versions to file.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman info [plugin] [0;37;1m- [0;37;22mGet info on a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman usage [plugin] [0;37;1m- [0;37;22mList commands a plugin has registered.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman enable [plugin|all] [0;37;1m- [0;37;22mEnable a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman disable [plugin|all] [0;37;1m- [0;37;22mDisable a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman restart [plugin|all] [0;37;1m- [0;37;22mRestart a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman load [plugin] [0;37;1m- [0;37;22mLoad a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman reload [plugin|all] [0;37;1m- [0;37;22mReload a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman unload [plugin] [0;37;1m- [0;37;22mUnload a plugin.[m
+[23:03:22] [Server thread/INFO]: [0;37;22m- [0;32;1m/plugman check [plugin] [0;37;1m- [0;37;22mCheck if a plugin is up-to-date.[m
+[23:03:36] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;31;1mCould not fetch plugin data - does the plugin exist on DBO?[m
+[23:03:51] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;31;1mCurrent version ([0;31;22m2.5-b714[0;31;1m) does not match latest version ([0;32;22m2.5-b699[0;31;1m).[m
+[23:04:00] [Server thread/INFO]: [0;37;22m[[0;32;1mPlugMan[0;37;22m] [0;34;1mPlugin is up-to-date using version 2.5-b691.[m
+[23:04:05] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[23:04:05] [Server thread/INFO]: Stopping server
+[23:04:05] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.60
+[23:04:05] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.2.1
+[23:04:05] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.2.1 disabled.
+[23:04:05] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b714
+[23:04:05] [Server thread/INFO]: [MotdEdit] Disabling MotdEdit v1.0
+[23:04:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[23:04:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.4.0
+[23:04:05] [Server thread/INFO]: [RealChop] Disabling RealChop v0.8.3
+[23:04:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[23:04:05] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.4
+[23:04:05] [Server thread/INFO]: [SlotLock] Disabling SlotLock v2.0
+[23:04:05] [Server thread/INFO]: [LevelHearts] Disabling LevelHearts v1.2.1
+[23:04:05] [Server thread/INFO]: [LevelHearts] Disabled successfully.
+[23:04:05] [Server thread/INFO]: [LoreLocks] Disabling LoreLocks v2.2.2.3
+[23:04:05] [Server thread/INFO]: [LoreLocks] Disabled LoreLocks v2.2.2.3
+[23:04:05] [Server thread/INFO]: Saving players
+[23:04:05] [Server thread/INFO]: thudog77 lost connection: Server closed
+[23:04:05] [Server thread/INFO]: thudog77 left the game.
+[23:04:05] [Server thread/INFO]: Saving worlds
+[23:04:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:04:05] [Server thread/INFO]: Saving chunks for level 'spawn'/Overworld
+[23:04:05] [Thread-4/INFO]: Stopping server
+[23:04:05] [Thread-4/INFO]: Saving players
+[23:04:05] [Thread-4/INFO]: Saving worlds
+[23:04:05] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
