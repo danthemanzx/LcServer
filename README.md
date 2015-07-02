@@ -1,6 +1,6 @@
 # Legitly Crafted Minecraft Server
 
--- IP: 99.4.118.92
+-- IP: XX.X.XXX.XX
 
 -- Realistic / Custom Survival
 
