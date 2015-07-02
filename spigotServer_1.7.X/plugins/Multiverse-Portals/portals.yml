@@ -1,1 +1,11 @@
-portals: {}
+portals:
+  spawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: thudog77
+    location: world;-154.0,62.0,176.0;-154.0,66.0,180.0
+    world: world
