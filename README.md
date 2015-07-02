@@ -1,10 +1,20 @@
-# LcServer
-Legitly Crafted Minecraft Server (IP: 99.4.118.92)
+# Legitly Crafted Minecraft Server
 
-Realistic / Custom Survival
+-- IP: 99.4.118.92
 
-Current MC Server Version: 1.7.10
+-- Realistic / Custom Survival
 
-Spigot Version: Spigot-1646 (MC: 1.7.10)
+-- Current MC Server Version: 1.7.10
 
-Temp Website: goo.gl/48278S
+-- Spigot Version: Spigot-1646 (MC: 1.7.10)
+
+-- Temp Website: goo.gl/48278S
+
+# Plugins
+Currently Working / Configured PLugins
+
+-- ?
+
+Planned Plugins
+
+-- ?
