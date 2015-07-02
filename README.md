@@ -8,7 +8,7 @@
 
 - Spigot Version: Spigot-1646 (MC: 1.7.10)
 
-- Temp Website: goo.gl/48278S
+- [Temp Website](https://sites.google.com/site/legitlycrafted/)
 
 # Plugins
 Currently Working / Configured Plugins
