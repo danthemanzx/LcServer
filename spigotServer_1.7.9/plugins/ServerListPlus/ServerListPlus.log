@@ -2058,3 +2058,26 @@ git-Spigot-1646 (MC: 1.7.10)
 2015-07-01 23:00:56 [INFO] [Spigot] ServerListPlus v3.2.1 enabled.
 2015-07-01 23:04:05 [INFO] [Spigot] Disabling ServerListPlus v3.2.1
 2015-07-01 23:04:05 [INFO] [Spigot] ServerListPlus v3.2.1 disabled.
+---
+2015-07-01 23:08:29
+ServerListPlusSpigot v3.2.1
+git-Spigot-1646 (MC: 1.7.10)
+---
+2015-07-01 23:08:29 [INFO] [Spigot] Loading core...
+2015-07-01 23:08:29 [INFO] [Core] Reloading configuration...
+2015-07-01 23:08:29 [FINE] [Core] Configuration location: plugins\ServerListPlus\ServerListPlus.yml
+2015-07-01 23:08:29 [INFO] [Core] Loaded configuration: ServerStatusConf
+2015-07-01 23:08:29 [INFO] [Core] Loaded configuration: PluginConf
+2015-07-01 23:08:29 [INFO] [Core] Loaded configuration: CoreConf
+2015-07-01 23:08:29 [INFO] [Core] 3 configurations loaded.
+2015-07-01 23:08:29 [FINE] [Spigot] Registered player tracking listener.
+2015-07-01 23:08:29 [FINE] [Core] Configuration successfully reloaded!
+2015-07-01 23:08:29 [FINE] [Core] Reloading profiles from: plugins\ServerListPlus\Profiles.json
+2015-07-01 23:08:29 [FINE] [Core] ServerListPlus profile is enabled!
+2015-07-01 23:08:29 [FINE] [Spigot] Registered status packet listener.
+2015-07-01 23:08:29 [FINE] [Core] Creating new player tracking cache...
+2015-07-01 23:08:29 [FINE] [Core] Player tracking cache created.
+2015-07-01 23:08:29 [INFO] [Spigot] Core was successfully loaded!
+2015-07-01 23:08:29 [INFO] [Spigot] ServerListPlus v3.2.1 enabled.
+2015-07-01 23:09:12 [INFO] [Spigot] Disabling ServerListPlus v3.2.1
+2015-07-01 23:09:12 [INFO] [Spigot] ServerListPlus v3.2.1 disabled.
