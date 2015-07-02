@@ -11,7 +11,7 @@
 -- Temp Website: goo.gl/48278S
 
 # Plugins
-Currently Working / Configured PLugins
+Currently Working / Configured Plugins
 
 -- ?
 
