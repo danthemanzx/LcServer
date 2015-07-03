@@ -17,4 +17,10 @@ Currently Working / Configured Plugins
 
 Planned Plugins
 
-- ?
+- LoreLocks
+- LevelHearts
+- ShopKeepers
+- Multiverse-Core
+- Multiverse-Portals
+- RealChop
+- WorldEdit
